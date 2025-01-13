@@ -54,9 +54,7 @@ async function getDetailedInfo(page, link) {
 		).map(img => img.src)
 
 		const apartments = Array.from(
-			document.querySelectorAll(
-				'.apartments .apartments-slider__wrapper .apartments-slide a',
-			),
+			document.querySelectorAll('.apartments .apartments-slider__wrapper .button-dark'),
 		).map(link => {
 			return link.getAttribute('href')
 		})
