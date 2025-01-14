@@ -11,7 +11,7 @@ const parseArea = areaText => {
 const parsePrice = priceText => {
 	const currencyMap = {
 		'₽': 'RUB',
-		$: 'USD',
+		'$': 'USD',
 		'€': 'EUR',
 		'฿': 'THB',
 		'£': 'GBP',
