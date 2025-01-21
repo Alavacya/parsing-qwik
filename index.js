@@ -10,14 +10,21 @@ function generateIdFromString(input) {
 }
 
 async function getOffersCardsList(page, offerWrapSelector, cardSelector, key) {
+	const keyCityMap = {
+		PatayaOffer: 'Паттайа',
+		PhuketOffer: 'Пхукет',
+	};
+
 	return await page.evaluate(
-		(offerWrapSelector, cardSelector, key) => {
+		(offerWrapSelector, cardSelector, keyCityMap, key) => {
 			const container = document.querySelector(offerWrapSelector)
 			if (!container) {
 				return []
 			}
 			return Array.from(container.querySelectorAll(cardSelector)).map(card => ({
 				selectorKey: key,
+				city: keyCityMap[key] || null,
+				country: 'Таиланд',
 				title: card.querySelector('.apartments-slide__body a')?.textContent.trim() || '',
 				description:
 					card.querySelector('.apartments-slide__body p')?.textContent.trim() || '',
@@ -27,6 +34,7 @@ async function getOffersCardsList(page, offerWrapSelector, cardSelector, key) {
 		},
 		offerWrapSelector,
 		cardSelector,
+		keyCityMap,
 		key,
 	)
 }
@@ -144,10 +152,12 @@ const startScraper = async () => {
 								const apartmentData = apartmentParser(html)
 								apartmentData.bedrooms = apartment.bedrooms;
 								apartmentData.bathrooms = apartment.bathrooms;
+								apartmentData.country = card.country;
+								apartmentData.city = card.city;
 
-								apartmentData.parentId = card.id;
 								apartmentData.link = link;
 								apartmentData.id = generateIdFromString(link);
+								apartmentData.parentId = card.id;
 
 								console.log('Data for apartment:', apartmentData)
 								groupedApartments.push(apartmentData)
