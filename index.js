@@ -1,4 +1,5 @@
 const puppeteer = require('puppeteer')
+const { v4: uuidv4 } = require('uuid')
 const { config, selectors } = require('./constants')
 const fs = require('fs')
 const axios = require('axios')
@@ -53,11 +54,29 @@ async function getDetailedInfo(page, link) {
 			document.querySelectorAll('.scheme .apartments-slider__wrapper .apartments-slide img'),
 		).map(img => img.src)
 
-		const apartments = Array.from(
-			document.querySelectorAll('.apartments .apartments-slider__wrapper .button-dark'),
-		).map(link => {
-			return link.getAttribute('href')
-		})
+		const apartmentSlides = document.querySelectorAll('.apartments .apartments-slider__wrapper .apartments-slide');
+		const apartments = Array.from(apartmentSlides).map(slide => {
+			const infoBlocks = slide.querySelectorAll('.apartments_body_info .apartments_body_info_in .apartments_body_info_text');
+
+			let bedrooms = null;
+			let bathrooms = null;
+
+			infoBlocks.forEach(block => {
+				const text = block.textContent.trim();
+
+				if (/спальн[яи]/i.test(text)) {
+					bedrooms = parseInt(text.replace(/[^0-9]/g, ''), 10);
+				} else if (/ванные?/i.test(text)) {
+					bathrooms = parseInt(text.replace(/[^0-9]/g, ''), 10);
+				}
+			});
+
+			return {
+				bedrooms: bedrooms,
+				bathrooms: bathrooms,
+				link: slide.querySelector('.button-dark')?.getAttribute('href') || null
+			};
+		});
 
 		return { images, presaleText, description, floorPlans, apartmentsLayouts, apartments }
 	})
@@ -85,6 +104,10 @@ const startScraper = async () => {
 			console.log(`Processing container: ${selector} with key: ${key}`)
 			const cards = await getOffersCardsList(page, selector, selectors.offersItem, key)
 
+			cards.forEach(card => {
+				card.id = uuidv4();
+			});
+
 			groupedCards.push(...cards)
 		}
 
@@ -100,8 +123,8 @@ const startScraper = async () => {
 					console.error(`Error while getting detailed info for ${card.title}:`, error)
 				}
 
-				const linkApartments = card.detailedInfo.apartments
-				for (let link of linkApartments) {
+				for (let apartment of card.detailedInfo.apartments) {
+					const link = apartment.link
 					const linkApartment = `${config.baseUrl}${link}`
 					try {
 						const apartmentPage = await page.goto(linkApartment, {
@@ -115,8 +138,12 @@ const startScraper = async () => {
 								const html = response.data
 
 								const apartmentData = apartmentParser(html)
+								apartmentData.bedrooms = apartment.bedrooms;
+								apartmentData.bathrooms = apartment.bathrooms;
 
+								apartmentData.parentId = card.id;
 								apartmentData.parent = `${config.baseUrl}${link}`
+
 								console.log('Data for apartment:', apartmentData)
 								groupedApartments.push(apartmentData)
 							})

@@ -1,7 +1,7 @@
 const cheerio = require('cheerio')
 
-const parseArea = areaText => {
-	const [value, uom] = areaText.trim().split(/\s+/)
+const parseSize = sizeText => {
+	const [value, uom] = sizeText.trim().split(/\s+/)
 	return {
 		value: parseFloat(value),
 		uom: uom || '',
@@ -14,6 +14,7 @@ const parsePrice = priceText => {
 		'$': 'USD',
 		'€': 'EUR',
 		'฿': 'THB',
+		'¥': 'CNY',
 		'£': 'GBP',
 		'¥': 'JPY',
 		'₣': 'CHF',
@@ -30,7 +31,24 @@ const parsePrice = priceText => {
 	return {
 		value: parseFloat(value),
 		currency: currency || '',
+		symbol: getCurrencySignByCode(currency)
 	}
+}
+
+function getCurrencySignByCode(code) {
+	const currencyMap = {
+		'RUB': '₽',
+		'USD': '$',
+		'EUR': '€',
+		'THB': '฿',
+		'CNY': '¥',
+		'GBP': '£',
+		'JPY': '¥',
+		'CHF': '₣',
+		'INR': '₹'
+	};
+
+    return currencyMap[code] || '';
 }
 
 /**
@@ -46,12 +64,12 @@ const parseApartment = html => {
 	const description = $('div.about-detail__desc').text().trim()
 
 	// Извлечение данных из списка информации
-	const district = $('ul.detail-header__info-list li:contains("Район") span').text().trim()
+	const area = $('ul.detail-header__info-list li:contains("Район") span').text().trim()
 
-	const areaText = $('ul.detail-header__info-list li:contains("Общая площадь") span')
+	const sizeText = $('ul.detail-header__info-list li:contains("Общая площадь") span')
 		.text()
 		.trim()
-	const area = parseArea(areaText)
+	const size = parseSize(sizeText)
 
 	const objectType = $('ul.detail-header__info-list li:contains("Вид объекта") span')
 		.text()
@@ -80,8 +98,8 @@ const parseApartment = html => {
 	return {
 		name,
 		description,
-		district,
-		area,
+		area, // район
+		size, // площадь
 		object_type: objectType,
 		floor,
 		quota,
