@@ -1,4 +1,5 @@
 const cheerio = require('cheerio')
+const { config } = require('./constants')
 
 const parseSize = sizeText => {
 	const [value, uom] = sizeText.trim().split(/\s+/)
@@ -91,7 +92,9 @@ const parseApartment = html => {
 	// Получаем массив изображений
 	const images = []
 	$('div.detail-header__left > div > div.swiper-wrapper img').each((i, el) => {
-		images.push($(el).attr('src'))
+		const src = $(el).attr('src')
+		const fullPath = `${config.baseUrl}${src}`
+		images.push(fullPath)
 	})
 
 	// Возвращаем объект с данными
