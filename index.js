@@ -1,9 +1,13 @@
 const puppeteer = require('puppeteer')
-const { v4: uuidv4 } = require('uuid')
+const crypto = require('crypto');
 const { config, selectors } = require('./constants')
 const fs = require('fs')
 const axios = require('axios')
 const apartmentParser = require('./apartment_parser')
+
+function generateIdFromString(input) {
+	return crypto.createHash('md5').update(input).digest('hex');
+}
 
 async function getOffersCardsList(page, offerWrapSelector, cardSelector, key) {
 	return await page.evaluate(
@@ -105,7 +109,7 @@ const startScraper = async () => {
 			const cards = await getOffersCardsList(page, selector, selectors.offersItem, key)
 
 			cards.forEach(card => {
-				card.id = uuidv4();
+				card.id = generateIdFromString(card.link);
 			});
 
 			groupedCards.push(...cards)
@@ -142,7 +146,8 @@ const startScraper = async () => {
 								apartmentData.bathrooms = apartment.bathrooms;
 
 								apartmentData.parentId = card.id;
-								apartmentData.parent = `${config.baseUrl}${link}`
+								apartmentData.link = link;
+								apartmentData.id = generateIdFromString(link);
 
 								console.log('Data for apartment:', apartmentData)
 								groupedApartments.push(apartmentData)

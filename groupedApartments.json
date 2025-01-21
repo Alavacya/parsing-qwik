@@ -73,8 +73,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "1dffc066-86ad-4aa4-958c-e793db57c04c",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/the-riviera-santa-monica-1-bedroom-37-48-m/"
+    "parentId": "06e4df41dad34ee951161eb5da38ede3",
+    "link": "/flats/pattaya-property/developments/the-riviera-santa-monica-1-bedroom-37-48-m/",
+    "id": "abb3cc83b527cff88aabc4e53791035e"
   },
   {
     "name": "The Riviera Santa Monica - 2 bedroom (50-72 м²)",
@@ -138,8 +139,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "1dffc066-86ad-4aa4-958c-e793db57c04c",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/the-riviera-santa-monica-2-bedroom-50-72-m/"
+    "parentId": "06e4df41dad34ee951161eb5da38ede3",
+    "link": "/flats/pattaya-property/developments/the-riviera-santa-monica-2-bedroom-50-72-m/",
+    "id": "3ee7c02485df6f3a511edd2a53a2fdec"
   },
   {
     "name": "The Riviera Santa Monica - 3 bedroom (106 м²)",
@@ -183,8 +185,9 @@
     ],
     "bedrooms": 3,
     "bathrooms": 5,
-    "parentId": "1dffc066-86ad-4aa4-958c-e793db57c04c",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/the-riviera-santa-monica-3-bedroom-320-m/"
+    "parentId": "06e4df41dad34ee951161eb5da38ede3",
+    "link": "/flats/pattaya-property/developments/the-riviera-santa-monica-3-bedroom-320-m/",
+    "id": "96e27248582b4dea469f6ee1caaf4305"
   },
   {
     "name": "Grand Solaire Noble – 1 bedroom (34 м²)",
@@ -260,8 +263,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "3af09ff0-5304-49d0-9531-7b338839b5ca",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/grand-solaire-noble-1-bedroom-34-m2/"
+    "parentId": "1cc9dfc9166d7cc25db0b7913c7bc904",
+    "link": "/flats/pattaya-property/developments/grand-solaire-noble-1-bedroom-34-m2/",
+    "id": "e54e8a8da1bfcbf2a818658beee185d3"
   },
   {
     "name": "Grand Solaire Noble – 2 bedroom big (92 м²)",
@@ -361,8 +365,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "3af09ff0-5304-49d0-9531-7b338839b5ca",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/grand-solaire-noble-2-bedroom-big-92-m2/"
+    "parentId": "1cc9dfc9166d7cc25db0b7913c7bc904",
+    "link": "/flats/pattaya-property/developments/grand-solaire-noble-2-bedroom-big-92-m2/",
+    "id": "45ab04b91d0a8d91865231854bcf623e"
   },
   {
     "name": "Grand Solaire Noble – 2 bedroom (60 м²)",
@@ -406,8 +411,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "3af09ff0-5304-49d0-9531-7b338839b5ca",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/grand-solaire-noble-2-bedroom-60-m2/"
+    "parentId": "1cc9dfc9166d7cc25db0b7913c7bc904",
+    "link": "/flats/pattaya-property/developments/grand-solaire-noble-2-bedroom-60-m2/",
+    "id": "45d29c457d60e1ad53feaebcc4de28ab"
   },
   {
     "name": "Grand Solaire Noble – 1 bedroom (43.5 м²)",
@@ -483,8 +489,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "3af09ff0-5304-49d0-9531-7b338839b5ca",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/grand-solaire-noble-1-bedroom-43-5-m2/"
+    "parentId": "1cc9dfc9166d7cc25db0b7913c7bc904",
+    "link": "/flats/pattaya-property/developments/grand-solaire-noble-1-bedroom-43-5-m2/",
+    "id": "3d63796c1c6e75f5437779b2ab0a3ea7"
   },
   {
     "name": "Zenith Pattaya - 2 bedroom (65-74 м²)",
@@ -526,8 +533,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "6197f4ff-9074-4b1f-9f40-28ec1b3df0ad",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/zenith-pattaya-2-bedroom-65-74-m/"
+    "parentId": "1df75fff1349859c03da1a9fd44131fa",
+    "link": "/flats/pattaya-property/developments/zenith-pattaya-2-bedroom-65-74-m/",
+    "id": "c91d744b169966c1b1ac43f173d37911"
   },
   {
     "name": "Zenith Pattaya - 1 bedroom (30-33,5 м²)",
@@ -573,8 +581,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "6197f4ff-9074-4b1f-9f40-28ec1b3df0ad",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/zenith-pattaya-1-bedroom-30-33-5-m-/"
+    "parentId": "1df75fff1349859c03da1a9fd44131fa",
+    "link": "/flats/pattaya-property/developments/zenith-pattaya-1-bedroom-30-33-5-m-/",
+    "id": "21df0cc7aae270c564df1031d08188da"
   },
   {
     "name": "Embassy Life - 2 bedroom (51-52 м²)",
@@ -650,8 +659,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "1a642420-0599-4113-8777-b462f8fb423c",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/embassy-life-2-bedroom-51-52-m/"
+    "parentId": "4d3dc04cecc60aced4898d7495ddee28",
+    "link": "/flats/pattaya-property/developments/embassy-life-2-bedroom-51-52-m/",
+    "id": "6c51635d78d30770f92f18c093f30993"
   },
   {
     "name": "Embassy Life - 1 bedroom (34-36 м²)",
@@ -717,8 +727,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "1a642420-0599-4113-8777-b462f8fb423c",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/embassy-life-1-bedroom-34-36-m/"
+    "parentId": "4d3dc04cecc60aced4898d7495ddee28",
+    "link": "/flats/pattaya-property/developments/embassy-life-1-bedroom-34-36-m/",
+    "id": "675c0e5696b6e2ff8c1a7f8d53bebbad"
   },
   {
     "name": "Embassy Life - studio (22.6 м²)",
@@ -774,8 +785,9 @@
     ],
     "bedrooms": null,
     "bathrooms": 1,
-    "parentId": "1a642420-0599-4113-8777-b462f8fb423c",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/embassy-life-studio-22-6-m/"
+    "parentId": "4d3dc04cecc60aced4898d7495ddee28",
+    "link": "/flats/pattaya-property/developments/embassy-life-studio-22-6-m/",
+    "id": "d35d5b81e23553f0dc7aae340b015ffd"
   },
   {
     "name": "Aquarous Jomtien Pattaya – 2 bedroom (79-100 м²)",
@@ -833,8 +845,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "604d3ac1-1ce4-45c5-a7f9-7f5d911c59fd",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/aquarous-jomtien-pattaya-2-bedroom-79-100-m-/"
+    "parentId": "374b12afe570d9d119e22dfb75d01082",
+    "link": "/flats/pattaya-property/developments/aquarous-jomtien-pattaya-2-bedroom-79-100-m-/",
+    "id": "b866b7f0b7e2d6e4b1e9ba28c725131a"
   },
   {
     "name": "Aquarous Jomtien Pattaya – 3 bedroom (130-173 м²)",
@@ -892,8 +905,9 @@
     ],
     "bedrooms": 3,
     "bathrooms": 3,
-    "parentId": "604d3ac1-1ce4-45c5-a7f9-7f5d911c59fd",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/aquarous-jomtien-pattaya-3-bedroom-130-173-m-/"
+    "parentId": "374b12afe570d9d119e22dfb75d01082",
+    "link": "/flats/pattaya-property/developments/aquarous-jomtien-pattaya-3-bedroom-130-173-m-/",
+    "id": "b642759324607f4d818b4e450dd4835d"
   },
   {
     "name": "Aquarous Jomtien Pattaya – 1 bedroom (34-76 м²)",
@@ -953,8 +967,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "604d3ac1-1ce4-45c5-a7f9-7f5d911c59fd",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/aquarous-jomtien-pattaya-1-bedroom-34-76-m-/"
+    "parentId": "374b12afe570d9d119e22dfb75d01082",
+    "link": "/flats/pattaya-property/developments/aquarous-jomtien-pattaya-1-bedroom-34-76-m-/",
+    "id": "20a25426c98bfee3a4688c9c81ed12b8"
   },
   {
     "name": "Skypark Lucean – 3 bedroom (94.6 м²)",
@@ -998,8 +1013,9 @@
     ],
     "bedrooms": 3,
     "bathrooms": 2,
-    "parentId": "6e29996e-e319-4370-969b-4e7beb883774",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/skypark-lucean-3-bedroom-94-6-m-/"
+    "parentId": "053e53a7698ce397ed6dfd90177b6945",
+    "link": "/flats/pattaya-property/developments/skypark-lucean-3-bedroom-94-6-m-/",
+    "id": "f1ece0efeec12c5035d47e2fdd4f2168"
   },
   {
     "name": "Skypark Lucean – 2 bedroom (86-89 м²)",
@@ -1047,8 +1063,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "6e29996e-e319-4370-969b-4e7beb883774",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/skypark-lucean-2-bedroom-86-89-m-/"
+    "parentId": "053e53a7698ce397ed6dfd90177b6945",
+    "link": "/flats/pattaya-property/developments/skypark-lucean-2-bedroom-86-89-m-/",
+    "id": "bf0f7a40b430ddd64dff7d18ca34ca0a"
   },
   {
     "name": "Skypark Lucean – 1 bedroom (40-48 м²)",
@@ -1098,8 +1115,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "6e29996e-e319-4370-969b-4e7beb883774",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/skypark-lucean-1-bedroom-40-48-m/"
+    "parentId": "053e53a7698ce397ed6dfd90177b6945",
+    "link": "/flats/pattaya-property/developments/skypark-lucean-1-bedroom-40-48-m/",
+    "id": "db974ff97ae72d7f551aaf719d2ccf64"
   },
   {
     "name": "Skypark Lucean – STUDIO (28-39 м²)",
@@ -1151,8 +1169,9 @@
     ],
     "bedrooms": null,
     "bathrooms": 1,
-    "parentId": "6e29996e-e319-4370-969b-4e7beb883774",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/skypark-lucean-studio-28-39-m/"
+    "parentId": "053e53a7698ce397ed6dfd90177b6945",
+    "link": "/flats/pattaya-property/developments/skypark-lucean-studio-28-39-m/",
+    "id": "67c5780b89dbcfbced367d070555d241"
   },
   {
     "name": "The Panora Estuaria - Studio (32 – 33 sq.m)",
@@ -1200,8 +1219,9 @@
     ],
     "bedrooms": null,
     "bathrooms": 1,
-    "parentId": "a4a21d1a-ec8d-4a0c-afef-1bdfa63d7e33",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/the-panora-estuaria-studio-32-33-sq-m/"
+    "parentId": "60637fb4cc830b601f8fe3efb26e2020",
+    "link": "/flats/pattaya-property/developments/the-panora-estuaria-studio-32-33-sq-m/",
+    "id": "5ab44af2592f6185c44eec85f7ac5895"
   },
   {
     "name": "The Panora Estuaria - 3 bedroom (153 – 164 sq.m)",
@@ -1259,8 +1279,9 @@
     ],
     "bedrooms": 3,
     "bathrooms": 2,
-    "parentId": "a4a21d1a-ec8d-4a0c-afef-1bdfa63d7e33",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/the-panora-estuaria-3-bedroom-153-164-sq-m/"
+    "parentId": "60637fb4cc830b601f8fe3efb26e2020",
+    "link": "/flats/pattaya-property/developments/the-panora-estuaria-3-bedroom-153-164-sq-m/",
+    "id": "bf12d6d5c0d5b83a7970732f07dc1d75"
   },
   {
     "name": "The Panora Estuaria - 1 bedroom (47 – 53 sq.m)",
@@ -1312,8 +1333,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "a4a21d1a-ec8d-4a0c-afef-1bdfa63d7e33",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/the-panora-estuaria-1-bedroom-47-53-sq-m/"
+    "parentId": "60637fb4cc830b601f8fe3efb26e2020",
+    "link": "/flats/pattaya-property/developments/the-panora-estuaria-1-bedroom-47-53-sq-m/",
+    "id": "b86147fad3deed9697100c7f57e7f323"
   },
   {
     "name": "The Panora Estuaria - penthouse (282.58 sq.m)",
@@ -1369,8 +1391,9 @@
     ],
     "bedrooms": 4,
     "bathrooms": 5,
-    "parentId": "a4a21d1a-ec8d-4a0c-afef-1bdfa63d7e33",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/the-panora-estuaria-penthouse-282-58-sq-m/"
+    "parentId": "60637fb4cc830b601f8fe3efb26e2020",
+    "link": "/flats/pattaya-property/developments/the-panora-estuaria-penthouse-282-58-sq-m/",
+    "id": "9778e3874f912b2115e81b4ed85c208f"
   },
   {
     "name": "The Panora Estuaria - 2 bedroom (93 – 117 sq.m)",
@@ -1420,8 +1443,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "a4a21d1a-ec8d-4a0c-afef-1bdfa63d7e33",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/the-panora-estuaria-2-bedroom-93-117-sq-m/"
+    "parentId": "60637fb4cc830b601f8fe3efb26e2020",
+    "link": "/flats/pattaya-property/developments/the-panora-estuaria-2-bedroom-93-117-sq-m/",
+    "id": "991eb0b08603cd9c0106e3a47622795e"
   },
   {
     "name": "Secret Garden– 1 bedroom (40 м²)",
@@ -1475,8 +1499,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "c5ab3647-f746-430d-8910-d6527e33260b",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/secret-garden-1-bedroom-40-m/"
+    "parentId": "fff107c3c59a26ed68fa0d7d3a8a0d24",
+    "link": "/flats/pattaya-property/developments/secret-garden-1-bedroom-40-m/",
+    "id": "0f0d3809d443d70d65dce33129fb4d7b"
   },
   {
     "name": "Secret Garden– 1 bedroom (34 м²)",
@@ -1528,8 +1553,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "c5ab3647-f746-430d-8910-d6527e33260b",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/secret-garden-1-bedroom-34-m/"
+    "parentId": "fff107c3c59a26ed68fa0d7d3a8a0d24",
+    "link": "/flats/pattaya-property/developments/secret-garden-1-bedroom-34-m/",
+    "id": "f455f9194a3fb0016b34f4564e965581"
   },
   {
     "name": "Secret Garden– 2 bedroom (81 м²)",
@@ -1581,8 +1607,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "c5ab3647-f746-430d-8910-d6527e33260b",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/secret-garden-2-bedroom-81-m/"
+    "parentId": "fff107c3c59a26ed68fa0d7d3a8a0d24",
+    "link": "/flats/pattaya-property/developments/secret-garden-2-bedroom-81-m/",
+    "id": "350006b727d989259d275938f621df5d"
   },
   {
     "name": "Secret Garden– 1 bedroom (46 м²)",
@@ -1632,8 +1659,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "c5ab3647-f746-430d-8910-d6527e33260b",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/secret-garden-1-bedroom-46-m/"
+    "parentId": "fff107c3c59a26ed68fa0d7d3a8a0d24",
+    "link": "/flats/pattaya-property/developments/secret-garden-1-bedroom-46-m/",
+    "id": "187d701cf709aa92276743ca7c4440f9"
   },
   {
     "name": "Copacabana Coral Reef Condo – 1 bedroom (34.30 m)",
@@ -1685,8 +1713,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "72c18171-ea80-479d-b17e-79407e780ef0",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/copacabana-coral-reef-condo-1-bedroom-34-30-m/"
+    "parentId": "41155208e78dc13cbed8f0ec531642bb",
+    "link": "/flats/pattaya-property/developments/copacabana-coral-reef-condo-1-bedroom-34-30-m/",
+    "id": "d53a65f346a74087670dbefa9fd67314"
   },
   {
     "name": "Copacabana Coral Reef Condo – 1 bedroom (38.60 m)",
@@ -1736,8 +1765,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "72c18171-ea80-479d-b17e-79407e780ef0",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/copacabana-coral-reef-condo-1-bedroom-38-60-m/"
+    "parentId": "41155208e78dc13cbed8f0ec531642bb",
+    "link": "/flats/pattaya-property/developments/copacabana-coral-reef-condo-1-bedroom-38-60-m/",
+    "id": "43451a541cc161e6e3a46dcea3db02d4"
   },
   {
     "name": "Copacabana Coral Reef Condo – 2 bedroom (67.60 m)",
@@ -1787,8 +1817,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "72c18171-ea80-479d-b17e-79407e780ef0",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/copacabana-coral-reef-condo-2-bedroom-67-60-m/"
+    "parentId": "41155208e78dc13cbed8f0ec531642bb",
+    "link": "/flats/pattaya-property/developments/copacabana-coral-reef-condo-2-bedroom-67-60-m/",
+    "id": "eab6ab94e81d289e92077962f44a6d73"
   },
   {
     "name": "Embassy - 2 bedroom (55 м²)",
@@ -1870,8 +1901,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": null,
-    "parentId": "dc4a9f30-972d-4dee-b0d5-137c67c26340",
-    "parent": "https://royal-property.pro/flats/pattaya-property/secondary/embassy-2-bedroom-55-m/"
+    "parentId": "90686c581829cbc6f31c6c22a1ff52b4",
+    "link": "/flats/pattaya-property/secondary/embassy-2-bedroom-55-m/",
+    "id": "7620e0bc1d49af83c03ee489b21c2ee6"
   },
   {
     "name": "The Embassy – 1 bedroom (33-54 m)",
@@ -1949,8 +1981,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "dc4a9f30-972d-4dee-b0d5-137c67c26340",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/the-embassy-1-bedroom-33-54-m/"
+    "parentId": "90686c581829cbc6f31c6c22a1ff52b4",
+    "link": "/flats/pattaya-property/developments/the-embassy-1-bedroom-33-54-m/",
+    "id": "4b80c669f984a25c17bcdd616a55310a"
   },
   {
     "name": "The Embassy – 2 bedroom (51 – 102 m)",
@@ -2056,8 +2089,75 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "dc4a9f30-972d-4dee-b0d5-137c67c26340",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/the-embassy-2-bedroom-51-102-m/"
+    "parentId": "90686c581829cbc6f31c6c22a1ff52b4",
+    "link": "/flats/pattaya-property/developments/the-embassy-2-bedroom-51-102-m/",
+    "id": "6e3cc0c8989429a78075489f7d234637"
+  },
+  {
+    "name": "Pristine Park 3 – 1 bedroom (29.00 м²)",
+    "description": "Продается 1-комнатная квартира в Pristine Park 3, Джомтьен. Площадь – 34 м², этажи с 1 по 8. Строящееся жилье, 2000 м до пляжа. Цена: 2 421 000 THB (TQ). Удобное жилье с меблировкой от застройщика. Прекрасное соотношение цены и качества, с хорошим доступом к основным объектам инфраструктуры. Подходит для постоянного проживания и аренды, обеспечивая комфорт и удобство.",
+    "area": "Джомтьен",
+    "size": {
+      "value": 34,
+      "uom": "м2"
+    },
+    "object_type": "1 bedroom: ван бедрум, где совмещены гостинная с кухней (большая комната) и отделена спальня",
+    "floor": "1-8",
+    "quota": "Иностранная",
+    "furniture": "меблировка от застройщика",
+    "prices": [
+      {
+        "value": 69514,
+        "currency": "USD",
+        "symbol": "$"
+      },
+      {
+        "value": 7020900,
+        "currency": "RUB",
+        "symbol": "₽"
+      },
+      {
+        "value": 540069,
+        "currency": "CNY",
+        "symbol": "¥"
+      },
+      {
+        "value": 2421000,
+        "currency": "THB",
+        "symbol": "฿"
+      }
+    ],
+    "images": [
+      "/upload/iblock/680/j9l081qb4qzgxo8x483qqn2a4213eg3n.webp",
+      "/upload/iblock/6aa/eymwm3tf1va701q475bv4urjko5ztoy8.webp",
+      "/upload/iblock/43a/wnnp63bm5w5x1pzccmnpjs5ppoxtpi6m.webp",
+      "/upload/iblock/96e/exs52jm0n2qm61qetlf3doltvh4h9z1v.webp",
+      "/upload/iblock/cd6/zzyb06sqb3ztyxvdp7ek8w1kdajmhq4n.webp",
+      "/upload/iblock/883/8y4i3cdlg81e2cqa3um4m4qyi8d64o0e.webp",
+      "/upload/iblock/5a6/gl8lkx0ilpao9y4d09em62rg30j2cf89.webp",
+      "/upload/iblock/da6/vr1oidlzvalrgd4u40emis0v6d13ds45.webp",
+      "/upload/iblock/d7f/osobzjn9yl4w8ia6qgxo4e5jmia6dv7p.webp",
+      "/upload/iblock/e71/cetduflo6rm2vf8bzt3xfmzrz8kl08yl.webp",
+      "/upload/iblock/dc3/md6wrksaw9nhpd2re9s9ha2gn0ag8kny.webp",
+      "/upload/iblock/002/2ax6x2dnlgsvl0efjk8iudx06toq9cus.webp",
+      "/upload/iblock/680/j9l081qb4qzgxo8x483qqn2a4213eg3n.webp",
+      "/upload/iblock/6aa/eymwm3tf1va701q475bv4urjko5ztoy8.webp",
+      "/upload/iblock/43a/wnnp63bm5w5x1pzccmnpjs5ppoxtpi6m.webp",
+      "/upload/iblock/96e/exs52jm0n2qm61qetlf3doltvh4h9z1v.webp",
+      "/upload/iblock/cd6/zzyb06sqb3ztyxvdp7ek8w1kdajmhq4n.webp",
+      "/upload/iblock/883/8y4i3cdlg81e2cqa3um4m4qyi8d64o0e.webp",
+      "/upload/iblock/5a6/gl8lkx0ilpao9y4d09em62rg30j2cf89.webp",
+      "/upload/iblock/da6/vr1oidlzvalrgd4u40emis0v6d13ds45.webp",
+      "/upload/iblock/d7f/osobzjn9yl4w8ia6qgxo4e5jmia6dv7p.webp",
+      "/upload/iblock/e71/cetduflo6rm2vf8bzt3xfmzrz8kl08yl.webp",
+      "/upload/iblock/dc3/md6wrksaw9nhpd2re9s9ha2gn0ag8kny.webp",
+      "/upload/iblock/002/2ax6x2dnlgsvl0efjk8iudx06toq9cus.webp"
+    ],
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "parentId": "4acb5c6d60016f3b1dc40a18fec01d34",
+    "link": "/flats/pattaya-property/developments/pristine-park-3-1-bedroom-29-00-m-/",
+    "id": "c62b9a2d4ce3c27a2e7c23121ac7fac9"
   },
   {
     "name": "Pristine Park 3 – STUDIO (25.07 м²)",
@@ -2125,8 +2225,9 @@
     ],
     "bedrooms": null,
     "bathrooms": 1,
-    "parentId": "c8033ef7-3286-4da5-ad1f-486faf4c0f95",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/pristine-park-3-studio-25-07/"
+    "parentId": "4acb5c6d60016f3b1dc40a18fec01d34",
+    "link": "/flats/pattaya-property/developments/pristine-park-3-studio-25-07/",
+    "id": "501dd34149ff7a4c673447087b4eeea1"
   },
   {
     "name": "Pristine Park 3 – 2 bedroom (65.82 м²)",
@@ -2214,8 +2315,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "c8033ef7-3286-4da5-ad1f-486faf4c0f95",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/pristine-park-3-2-bedroom-65-82/"
+    "parentId": "4acb5c6d60016f3b1dc40a18fec01d34",
+    "link": "/flats/pattaya-property/developments/pristine-park-3-2-bedroom-65-82/",
+    "id": "7294a5af2be62ef477d3776945747f0e"
   },
   {
     "name": "The Riviera Malibu - 1 bedroom (36 м²)",
@@ -2265,8 +2367,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "c5735e61-573f-4fa5-bfa9-201e9972064c",
-    "parent": "https://royal-property.pro/flats/pattaya-property/secondary/the-riviera-santa-monica-1-bedroom-36-m/"
+    "parentId": "9f891336c3ed5e3546c6aad943d83fd1",
+    "link": "/flats/pattaya-property/secondary/the-riviera-santa-monica-1-bedroom-36-m/",
+    "id": "e2c1bf6b33e8c902228b0acd568ac7fa"
   },
   {
     "name": "Riviera Malibu – 2 bedroom (77m)",
@@ -2314,8 +2417,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "c5735e61-573f-4fa5-bfa9-201e9972064c",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/riviera-malibu-2-bedroom-77m/"
+    "parentId": "9f891336c3ed5e3546c6aad943d83fd1",
+    "link": "/flats/pattaya-property/developments/riviera-malibu-2-bedroom-77m/",
+    "id": "bbecf5c35cac95ff4e55846a097f9073"
   },
   {
     "name": "Riviera Malibu – 1 bedroom (37m)",
@@ -2365,8 +2469,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "c5735e61-573f-4fa5-bfa9-201e9972064c",
-    "parent": "https://royal-property.pro/flats/pattaya-property/secondary/riviera-malibu-1-bedroom-37m-/"
+    "parentId": "9f891336c3ed5e3546c6aad943d83fd1",
+    "link": "/flats/pattaya-property/secondary/riviera-malibu-1-bedroom-37m-/",
+    "id": "f177d4e91769339ea137247aa51abc37"
   },
   {
     "name": "Riviera Malibu – 2 bedroom (64m) id-537191",
@@ -2414,8 +2519,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "c5735e61-573f-4fa5-bfa9-201e9972064c",
-    "parent": "https://royal-property.pro/flats/pattaya-property/secondary/riviera-malibu-2-bedroom-64m-id-537191/"
+    "parentId": "9f891336c3ed5e3546c6aad943d83fd1",
+    "link": "/flats/pattaya-property/secondary/riviera-malibu-2-bedroom-64m-id-537191/",
+    "id": "eacc948fae6a788cc9bb1051b8da6e01"
   },
   {
     "name": "Riviera Malibu – 1 bedroom (46m) id-537190",
@@ -2461,8 +2567,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "c5735e61-573f-4fa5-bfa9-201e9972064c",
-    "parent": "https://royal-property.pro/flats/pattaya-property/secondary/riviera-malibu-1-bedroom-46m-id-537190/"
+    "parentId": "9f891336c3ed5e3546c6aad943d83fd1",
+    "link": "/flats/pattaya-property/secondary/riviera-malibu-1-bedroom-46m-id-537190/",
+    "id": "e736b32fca763f83cb68b7b20c6c2358"
   },
   {
     "name": "Riviera Malibu – 3 bedroom (114m)",
@@ -2518,8 +2625,9 @@
     ],
     "bedrooms": 3,
     "bathrooms": 3,
-    "parentId": "c5735e61-573f-4fa5-bfa9-201e9972064c",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/riviera-malibu-3-bedroom-114m/"
+    "parentId": "9f891336c3ed5e3546c6aad943d83fd1",
+    "link": "/flats/pattaya-property/developments/riviera-malibu-3-bedroom-114m/",
+    "id": "a0bfb85858d4f512f7829969f94ec89c"
   },
   {
     "name": "Riviera Malibu – 1 bedroom (37m)",
@@ -2571,8 +2679,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "c5735e61-573f-4fa5-bfa9-201e9972064c",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/1-bedroom-37m/"
+    "parentId": "9f891336c3ed5e3546c6aad943d83fd1",
+    "link": "/flats/pattaya-property/developments/1-bedroom-37m/",
+    "id": "8bdda8239079a83c158afa51b9ef28fd"
   },
   {
     "name": "Copacabana – 1 bedroom 47 sqm – id 1185",
@@ -2638,8 +2747,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "21715a84-4e80-4db0-a90a-abeb5cc0a951",
-    "parent": "https://royal-property.pro/flats/pattaya-property/secondary/copacabana-1-bedroom-47-sqm-id-1185/"
+    "parentId": "c4055adb22b9c60a65c3548edddae3db",
+    "link": "/flats/pattaya-property/secondary/copacabana-1-bedroom-47-sqm-id-1185/",
+    "id": "f4ead9aeb15749a296a8214a53f330bc"
   },
   {
     "name": "Copacabana – 1 bedroom 35 sqm – idZ173",
@@ -2715,8 +2825,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "21715a84-4e80-4db0-a90a-abeb5cc0a951",
-    "parent": "https://royal-property.pro/flats/pattaya-property/secondary/copacabana-1-bedroom-35-sqm-idz173/"
+    "parentId": "c4055adb22b9c60a65c3548edddae3db",
+    "link": "/flats/pattaya-property/secondary/copacabana-1-bedroom-35-sqm-idz173/",
+    "id": "7ad1e5c744efe603444d3bb0ba374c93"
   },
   {
     "name": "Copacabana – 1 bedroom 45 sqm – idZ185",
@@ -2790,8 +2901,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "21715a84-4e80-4db0-a90a-abeb5cc0a951",
-    "parent": "https://royal-property.pro/flats/pattaya-property/secondary/copacabana-1-bedroom-45-sqm-idz185/"
+    "parentId": "c4055adb22b9c60a65c3548edddae3db",
+    "link": "/flats/pattaya-property/secondary/copacabana-1-bedroom-45-sqm-idz185/",
+    "id": "bebb3703b39f0bc341d74f8b1ebafe81"
   },
   {
     "name": "Copacabana – 1 bedroom 46 sqm + Jacuzzi",
@@ -2851,8 +2963,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "21715a84-4e80-4db0-a90a-abeb5cc0a951",
-    "parent": "https://royal-property.pro/flats/pattaya-property/secondary/copacabana-1-bedroom-46-sqm-jacuzzi/"
+    "parentId": "c4055adb22b9c60a65c3548edddae3db",
+    "link": "/flats/pattaya-property/secondary/copacabana-1-bedroom-46-sqm-jacuzzi/",
+    "id": "0998e1b1eff48dcf37159d7da0a70d5b"
   },
   {
     "name": "Copacabana – 1 bedroom 46.5 sqm – idZ 166",
@@ -2932,8 +3045,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "21715a84-4e80-4db0-a90a-abeb5cc0a951",
-    "parent": "https://royal-property.pro/flats/pattaya-property/secondary/copacabana-1-bedroom-46-5-sqm-idz-166/"
+    "parentId": "c4055adb22b9c60a65c3548edddae3db",
+    "link": "/flats/pattaya-property/secondary/copacabana-1-bedroom-46-5-sqm-idz-166/",
+    "id": "d4c5c6e2af0fa57f6815b690a7172c02"
   },
   {
     "name": "Copacabana – 2 bedroom 72 sqm – idZ168",
@@ -3015,8 +3129,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "21715a84-4e80-4db0-a90a-abeb5cc0a951",
-    "parent": "https://royal-property.pro/flats/pattaya-property/secondary/copacabana-2-bedroom-72-sqm-idz168/"
+    "parentId": "c4055adb22b9c60a65c3548edddae3db",
+    "link": "/flats/pattaya-property/secondary/copacabana-2-bedroom-72-sqm-idz168/",
+    "id": "776b9153e735ee9ba18154b8821ffacb"
   },
   {
     "name": "Copacabana – 1 bedroom 80 sqm – idZ174",
@@ -3098,8 +3213,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 1,
-    "parentId": "21715a84-4e80-4db0-a90a-abeb5cc0a951",
-    "parent": "https://royal-property.pro/flats/pattaya-property/secondary/copacabana-1-bedroom-80-sqm-idz174/"
+    "parentId": "c4055adb22b9c60a65c3548edddae3db",
+    "link": "/flats/pattaya-property/secondary/copacabana-1-bedroom-80-sqm-idz174/",
+    "id": "caa88475db94130dcb1c7ed94f1349a2"
   },
   {
     "name": "Copacabana – 2 bedroom 64 sqm – idZ167",
@@ -3191,8 +3307,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "21715a84-4e80-4db0-a90a-abeb5cc0a951",
-    "parent": "https://royal-property.pro/flats/pattaya-property/secondary/copacabana-2-bedroom-64-sqm-idz167/"
+    "parentId": "c4055adb22b9c60a65c3548edddae3db",
+    "link": "/flats/pattaya-property/secondary/copacabana-2-bedroom-64-sqm-idz167/",
+    "id": "ed4bb577925a828fcdc27d9ebe5a3b6c"
   },
   {
     "name": "Arom Wongamat - 2 bedroom (82.6-88.8 м²)",
@@ -3310,8 +3427,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "5b094a7a-5556-425f-9ed9-379e04f7f1fa",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/arom-wongamat-2-bedroom-82-6-88-8-m-/"
+    "parentId": "ab1c521c71ed7108791029f3024cac87",
+    "link": "/flats/pattaya-property/developments/arom-wongamat-2-bedroom-82-6-88-8-m-/",
+    "id": "9b301387738514ceb09710c1b98cdde6"
   },
   {
     "name": "Arom Wongamat - 1 bedroom (37.9-57.4 м²)",
@@ -3399,8 +3517,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "5b094a7a-5556-425f-9ed9-379e04f7f1fa",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/arom-wongamat-1-bedroom-37-9-57-4-m/"
+    "parentId": "ab1c521c71ed7108791029f3024cac87",
+    "link": "/flats/pattaya-property/developments/arom-wongamat-1-bedroom-37-9-57-4-m/",
+    "id": "8aaec1abd251804098848794e80ca788"
   },
   {
     "name": "Arom Wongamat - 1 bedroom plus (54.4-64.9 м²)",
@@ -3462,8 +3581,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "5b094a7a-5556-425f-9ed9-379e04f7f1fa",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/arom-wongamat-1-bedroom-plus-54-4-64-9-m/"
+    "parentId": "ab1c521c71ed7108791029f3024cac87",
+    "link": "/flats/pattaya-property/developments/arom-wongamat-1-bedroom-plus-54-4-64-9-m/",
+    "id": "7442aa540c5354779303e40b05e6159e"
   },
   {
     "name": "Harmonia City Garden – 1 bedroom (23 м²) (C)",
@@ -3519,8 +3639,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "7e45e40a-8329-4402-9f29-f53c29e04bab",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/harmonia-city-garden-1-bedroom-c/"
+    "parentId": "4a42e9dfebaf9df53814cc533ba1c9f0",
+    "link": "/flats/pattaya-property/developments/harmonia-city-garden-1-bedroom-c/",
+    "id": "86cd5e1fa85574154469eaafd3dfba2a"
   },
   {
     "name": "Harmonia City Garden – 2 bedroom (50 м²)",
@@ -3588,8 +3709,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "7e45e40a-8329-4402-9f29-f53c29e04bab",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/harmonia-city-garden-2-bedroom/"
+    "parentId": "4a42e9dfebaf9df53814cc533ba1c9f0",
+    "link": "/flats/pattaya-property/developments/harmonia-city-garden-2-bedroom/",
+    "id": "c588a0ab5e83f8f180840ae2495bc79c"
   },
   {
     "name": "Harmonia City Garden – 1 bedroom (26 м²) (A)",
@@ -3639,8 +3761,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "7e45e40a-8329-4402-9f29-f53c29e04bab",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/harmonia-city-garden-1-bedroom-a/"
+    "parentId": "4a42e9dfebaf9df53814cc533ba1c9f0",
+    "link": "/flats/pattaya-property/developments/harmonia-city-garden-1-bedroom-a/",
+    "id": "f4e45777dfabf88273bc5805ac98dc85"
   },
   {
     "name": "Harmonia City Garden – Studio (20 м²)",
@@ -3692,8 +3815,9 @@
     ],
     "bedrooms": null,
     "bathrooms": 1,
-    "parentId": "7e45e40a-8329-4402-9f29-f53c29e04bab",
-    "parent": "https://royal-property.pro/flats/pattaya-property/secondary/harmonia-city-garden-studio-20-m-/"
+    "parentId": "4a42e9dfebaf9df53814cc533ba1c9f0",
+    "link": "/flats/pattaya-property/secondary/harmonia-city-garden-studio-20-m-/",
+    "id": "58dfcf5516f7b5616a94c9e31169cc63"
   },
   {
     "name": "Wyndham Grand Residence – 1 bedroom Plus (55-66 м²)",
@@ -3771,8 +3895,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "23391ea4-fcc8-4de8-bb78-32026f24d1d7",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/wyndham-grand-residence-1-bedroom-plus-55-66-m-/"
+    "parentId": "a3b5325c0b3b4bcb629af337a7da7931",
+    "link": "/flats/pattaya-property/developments/wyndham-grand-residence-1-bedroom-plus-55-66-m-/",
+    "id": "7b56c0504985aeec77de24a84b69bd68"
   },
   {
     "name": "Wyndham Grand Residence – 2 bedroom (70-79 м²)",
@@ -3866,8 +3991,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "23391ea4-fcc8-4de8-bb78-32026f24d1d7",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/wyndham-grand-residence-2-bedroom-70-79-m/"
+    "parentId": "a3b5325c0b3b4bcb629af337a7da7931",
+    "link": "/flats/pattaya-property/developments/wyndham-grand-residence-2-bedroom-70-79-m/",
+    "id": "07de854b68999d4dbf5c1cf1b6566752"
   },
   {
     "name": "Wyndham Grand Residence – 1 bedroom (28-33 м²)",
@@ -3949,8 +4075,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "23391ea4-fcc8-4de8-bb78-32026f24d1d7",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/wyndham-grand-residence-1-bedroom-28-33-m/"
+    "parentId": "a3b5325c0b3b4bcb629af337a7da7931",
+    "link": "/flats/pattaya-property/developments/wyndham-grand-residence-1-bedroom-28-33-m/",
+    "id": "f6f52fbd6b1e210dcf59270322d808e6"
   },
   {
     "name": "Grand Solaire – 2 bedroom (41 м²) Z02",
@@ -4014,8 +4141,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 1,
-    "parentId": "596dc918-d64b-48b9-ad48-886ea2ee4887",
-    "parent": "https://royal-property.pro/flats/pattaya-property/secondary/grand-solaire-2-bedroom-41-m-z02/"
+    "parentId": "e15907a27190f6229afd2db232ca1800",
+    "link": "/flats/pattaya-property/secondary/grand-solaire-2-bedroom-41-m-z02/",
+    "id": "dc517fd9e5ed48e168e792aeb537cdb6"
   },
   {
     "name": "Grand Solaire – 2 bedroom (41 м²)",
@@ -4081,8 +4209,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "596dc918-d64b-48b9-ad48-886ea2ee4887",
-    "parent": "https://royal-property.pro/flats/pattaya-property/secondary/grand-solaire-2-bedroom-41-m-/"
+    "parentId": "e15907a27190f6229afd2db232ca1800",
+    "link": "/flats/pattaya-property/secondary/grand-solaire-2-bedroom-41-m-/",
+    "id": "522e292d072c8e3b9310c9e19a0243cf"
   },
   {
     "name": "Grand Solaire – 1 bedroom (29 м²) Z04",
@@ -4124,8 +4253,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "596dc918-d64b-48b9-ad48-886ea2ee4887",
-    "parent": "https://royal-property.pro/flats/pattaya-property/secondary/grand-solaire-1-bedroom-29-m-z04/"
+    "parentId": "e15907a27190f6229afd2db232ca1800",
+    "link": "/flats/pattaya-property/secondary/grand-solaire-1-bedroom-29-m-z04/",
+    "id": "8ea3b58484649509daece2fd2736f00f"
   },
   {
     "name": "Grand Solaire – 1 bedroom (29 м²) Z03",
@@ -4169,8 +4299,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "596dc918-d64b-48b9-ad48-886ea2ee4887",
-    "parent": "https://royal-property.pro/flats/pattaya-property/secondary/grand-solaire-1-bedroom-29-m-z03/"
+    "parentId": "e15907a27190f6229afd2db232ca1800",
+    "link": "/flats/pattaya-property/secondary/grand-solaire-1-bedroom-29-m-z03/",
+    "id": "c3a431a53cfbe0cc26f13dc18bbc1b48"
   },
   {
     "name": "Grand Solaire – 2 bedroom idZ450",
@@ -4224,8 +4355,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "596dc918-d64b-48b9-ad48-886ea2ee4887",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/grand-solaire-2-bedroom-idz450/"
+    "parentId": "e15907a27190f6229afd2db232ca1800",
+    "link": "/flats/pattaya-property/developments/grand-solaire-2-bedroom-idz450/",
+    "id": "07ac0040236c314f016e703f5301864b"
   },
   {
     "name": "Grand Solaire – 2 bedroom idZ449",
@@ -4279,8 +4411,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "596dc918-d64b-48b9-ad48-886ea2ee4887",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/grand-solaire-2-bedroom-idz449/"
+    "parentId": "e15907a27190f6229afd2db232ca1800",
+    "link": "/flats/pattaya-property/developments/grand-solaire-2-bedroom-idz449/",
+    "id": "ebb1e6fa2525d1f3782ee3f47106019f"
   },
   {
     "name": "Grand Solaire – 2 bedroom idZ451",
@@ -4336,8 +4469,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "596dc918-d64b-48b9-ad48-886ea2ee4887",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/grand-solaire-2-bedroom-idz451/"
+    "parentId": "e15907a27190f6229afd2db232ca1800",
+    "link": "/flats/pattaya-property/developments/grand-solaire-2-bedroom-idz451/",
+    "id": "a8ca385b147932946cb83526920ce90e"
   },
   {
     "name": "Grand Solaire – 1 bedroom (29 m2) id537212",
@@ -4391,8 +4525,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "596dc918-d64b-48b9-ad48-886ea2ee4887",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/grand-solaire-1-bedroom-29-m2-id537212/"
+    "parentId": "e15907a27190f6229afd2db232ca1800",
+    "link": "/flats/pattaya-property/developments/grand-solaire-1-bedroom-29-m2-id537212/",
+    "id": "d703c2556b0844a7387828d4185cc9c4"
   },
   {
     "name": "Grand Solaire – 1 bedroom idZ448",
@@ -4444,8 +4579,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "596dc918-d64b-48b9-ad48-886ea2ee4887",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/grand-solaire-1-bedroom-idz448/"
+    "parentId": "e15907a27190f6229afd2db232ca1800",
+    "link": "/flats/pattaya-property/developments/grand-solaire-1-bedroom-idz448/",
+    "id": "dd9b0d5a44a046383cedc4ef92b1df49"
   },
   {
     "name": "Grand Solaire – 2 bedroom (41 м²) id 537186",
@@ -4501,8 +4637,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "596dc918-d64b-48b9-ad48-886ea2ee4887",
-    "parent": "https://royal-property.pro/flats/pattaya-property/secondary/grand-solaire-2-bedroom-41m-id-537186/"
+    "parentId": "e15907a27190f6229afd2db232ca1800",
+    "link": "/flats/pattaya-property/secondary/grand-solaire-2-bedroom-41m-id-537186/",
+    "id": "be3b4c78d98acae2e84fc7f11461af68"
   },
   {
     "name": "Grand Solaire – 1 bedroom idZ447",
@@ -4552,8 +4689,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "596dc918-d64b-48b9-ad48-886ea2ee4887",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/grand-solaire-1-bedroom-idz447/"
+    "parentId": "e15907a27190f6229afd2db232ca1800",
+    "link": "/flats/pattaya-property/developments/grand-solaire-1-bedroom-idz447/",
+    "id": "37b13fab7e04f2ead17b8342ba82455b"
   },
   {
     "name": "Arom Jomtien – 1 bedroom id 537077",
@@ -4631,8 +4769,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "bb5b17b2-ba43-49bf-b733-d913baf57b08",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/arom-jomtien-1-bedroom-id-537077/"
+    "parentId": "8933d1df0e9827abe42ce5622af23646",
+    "link": "/flats/pattaya-property/developments/arom-jomtien-1-bedroom-id-537077/",
+    "id": "25605eedbd3ea66c678bccfe2eb39ada"
   },
   {
     "name": "Arom Jomtien – 1 bedroom Junior",
@@ -4706,8 +4845,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "bb5b17b2-ba43-49bf-b733-d913baf57b08",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/arom-jomtien-1-bedroom-junior/"
+    "parentId": "8933d1df0e9827abe42ce5622af23646",
+    "link": "/flats/pattaya-property/developments/arom-jomtien-1-bedroom-junior/",
+    "id": "8278105b81d78136f43f51a9dc299fe2"
   },
   {
     "name": "Arom Jomtien – 1 bedroom",
@@ -4793,8 +4933,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "bb5b17b2-ba43-49bf-b733-d913baf57b08",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/arom-jomtien-1-bedroom/"
+    "parentId": "8933d1df0e9827abe42ce5622af23646",
+    "link": "/flats/pattaya-property/developments/arom-jomtien-1-bedroom/",
+    "id": "d85f32ee3d3c004c61b5bb8c19c56795"
   },
   {
     "name": "Arom Jomtien – 2 bedroom",
@@ -4922,8 +5063,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "bb5b17b2-ba43-49bf-b733-d913baf57b08",
-    "parent": "https://royal-property.pro/flats/pattaya-property/developments/arom-jomtien-2-bedroom/"
+    "parentId": "8933d1df0e9827abe42ce5622af23646",
+    "link": "/flats/pattaya-property/developments/arom-jomtien-2-bedroom/",
+    "id": "70c5063ec38ba1c4a12ddad1676eb116"
   },
   {
     "name": "The Title Katabello – 1 bedroom (28-37 м²)",
@@ -4971,8 +5113,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "b160c93d-fc09-4eb8-b4b9-28dd72c7551d",
-    "parent": "https://royal-property.pro/flats/phuket-property/the-title-katabello-1-bedroom-28-37-m/"
+    "parentId": "a50462c71b571d8e312e806d8455c6d4",
+    "link": "/flats/phuket-property/the-title-katabello-1-bedroom-28-37-m/",
+    "id": "447af39e55b3e62f34f183fc09eeb581"
   },
   {
     "name": "The Title Katabello – 1 bedroom Plus (41-61 м²)",
@@ -5018,8 +5161,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "b160c93d-fc09-4eb8-b4b9-28dd72c7551d",
-    "parent": "https://royal-property.pro/flats/phuket-property/the-title-katabello-1-bedroom-plus-41-61-m/"
+    "parentId": "a50462c71b571d8e312e806d8455c6d4",
+    "link": "/flats/phuket-property/the-title-katabello-1-bedroom-plus-41-61-m/",
+    "id": "1c0b1b84b424195bd52a3e470072a2fe"
   },
   {
     "name": "The Title Katabello – 2 bedroom – (66-71 м²)",
@@ -5063,8 +5207,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "b160c93d-fc09-4eb8-b4b9-28dd72c7551d",
-    "parent": "https://royal-property.pro/flats/phuket-property/the-title-katabello-2-bedroom-66-71-m/"
+    "parentId": "a50462c71b571d8e312e806d8455c6d4",
+    "link": "/flats/phuket-property/the-title-katabello-2-bedroom-66-71-m/",
+    "id": "d0160fb6423cc74ed7b1337a7f329bb8"
   },
   {
     "name": "The Title ARTRIO - 2 bedroom (66-92 м²)",
@@ -5128,8 +5273,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "a18a3e05-3f3d-4d3b-85bb-d544ff5c4b5d",
-    "parent": "https://royal-property.pro/flats/phuket-property/the-title-artrio-2-bedroom-66-92-m/"
+    "parentId": "2e3eea24075043e0e677d84823421724",
+    "link": "/flats/phuket-property/the-title-artrio-2-bedroom-66-92-m/",
+    "id": "52d8a4bf4e57a55b6b84d2b97fdf3e08"
   },
   {
     "name": "The Title ARTRIO - 1 bedroom L (32-58 м²)",
@@ -5195,8 +5341,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "a18a3e05-3f3d-4d3b-85bb-d544ff5c4b5d",
-    "parent": "https://royal-property.pro/flats/phuket-property/the-title-artrio-1-bedroom-l-40-58-m-/"
+    "parentId": "2e3eea24075043e0e677d84823421724",
+    "link": "/flats/phuket-property/the-title-artrio-1-bedroom-l-40-58-m-/",
+    "id": "a15aaecc575d20cf74373e6a1f03d848"
   },
   {
     "name": "The Title ARTRIO - 1 bedroom S (28-38 м²)",
@@ -5260,8 +5407,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "a18a3e05-3f3d-4d3b-85bb-d544ff5c4b5d",
-    "parent": "https://royal-property.pro/flats/phuket-property/the-title-artrio-1-bedroom-s-28-38-m-/"
+    "parentId": "2e3eea24075043e0e677d84823421724",
+    "link": "/flats/phuket-property/the-title-artrio-1-bedroom-s-28-38-m-/",
+    "id": "1c94c3bb1314bb6c6901d135072bc5c1"
   },
   {
     "name": "AYANA Heights - Тип A (37,6 м²)",
@@ -5307,8 +5455,9 @@
     ],
     "bedrooms": null,
     "bathrooms": 1,
-    "parentId": "717ae5c4-5369-407e-b390-4fe631af42a8",
-    "parent": "https://royal-property.pro/flats/phuket-property/ayana-heights-type-a-37/"
+    "parentId": "bdf7ffb99c3cfb967e21084c2422df35",
+    "link": "/flats/phuket-property/ayana-heights-type-a-37/",
+    "id": "ba66682aad2d03ecf97ff8fbcd0485b6"
   },
   {
     "name": "AYANA Heights - Тип B1 (43,6 м²)",
@@ -5444,8 +5593,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "717ae5c4-5369-407e-b390-4fe631af42a8",
-    "parent": "https://royal-property.pro/flats/phuket-property/ayana-heights-type-b1/"
+    "parentId": "bdf7ffb99c3cfb967e21084c2422df35",
+    "link": "/flats/phuket-property/ayana-heights-type-b1/",
+    "id": "6c11d90d1f430708b857ad06ad6fa3b1"
   },
   {
     "name": "The Modeva – 3 bedroom (130-148 м²)",
@@ -5513,8 +5663,9 @@
     ],
     "bedrooms": 3,
     "bathrooms": 3,
-    "parentId": "a8d91bba-21e3-4a3a-8c09-5f501abfe446",
-    "parent": "https://royal-property.pro/flats/phuket-property/the-modeva-3-bedroom-130-148-m-/"
+    "parentId": "73008d2e6dbe25980a2d31fd0815e7c5",
+    "link": "/flats/phuket-property/the-modeva-3-bedroom-130-148-m-/",
+    "id": "97e4670621f717a4711ef50de66433d2"
   },
   {
     "name": "The Modeva – 2 bedroom (65-118 м²)",
@@ -5600,8 +5751,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "a8d91bba-21e3-4a3a-8c09-5f501abfe446",
-    "parent": "https://royal-property.pro/flats/phuket-property/the-modeva-2-bedroom-65-118-m-/"
+    "parentId": "73008d2e6dbe25980a2d31fd0815e7c5",
+    "link": "/flats/phuket-property/the-modeva-2-bedroom-65-118-m-/",
+    "id": "076260448ad3f8350649140702925fa9"
   },
   {
     "name": "The Modeva – 1 bedroom (29-58 м²)",
@@ -5673,8 +5825,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "a8d91bba-21e3-4a3a-8c09-5f501abfe446",
-    "parent": "https://royal-property.pro/flats/phuket-property/the-modeva-1-bedroom-29-58-m-/"
+    "parentId": "73008d2e6dbe25980a2d31fd0815e7c5",
+    "link": "/flats/phuket-property/the-modeva-1-bedroom-29-58-m-/",
+    "id": "ff6cdf089fc3c0b28cbc4d7f5997cfae"
   },
   {
     "name": "THE BASE Cherngtalay – 2 bedroom (60-63 м²)",
@@ -5738,8 +5891,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "6199e560-0da1-4a96-9acd-72fb074bad7d",
-    "parent": "https://royal-property.pro/flats/phuket-property/the-base-cherngtalay-2-bedroom-60-63-m/"
+    "parentId": "8be51af2be81b9bf1ba03452eb32ca3d",
+    "link": "/flats/phuket-property/the-base-cherngtalay-2-bedroom-60-63-m/",
+    "id": "a5ecaa79bdec56f5775ab48eabcab43e"
   },
   {
     "name": "THE BASE Cherngtalay – 1 bedroom (27-35 м²)",
@@ -5807,8 +5961,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "6199e560-0da1-4a96-9acd-72fb074bad7d",
-    "parent": "https://royal-property.pro/flats/phuket-property/the-base-cherngtalay-1-bedroom-27-35-m/"
+    "parentId": "8be51af2be81b9bf1ba03452eb32ca3d",
+    "link": "/flats/phuket-property/the-base-cherngtalay-1-bedroom-27-35-m/",
+    "id": "4b2414bf1b807e4d5977662c9c3fc861"
   },
   {
     "name": "Title Serenity - 1 bedroom (32 м²) C317",
@@ -5876,8 +6031,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "7b967327-8950-4fe1-8ceb-83713ce8ba6e",
-    "parent": "https://royal-property.pro/flats/phuket-property/vtorichnyy-rynok/title-serenity-1-bedroom-32-m-c317/"
+    "parentId": "4221032246fe154abf954e61aab68daf",
+    "link": "/flats/phuket-property/vtorichnyy-rynok/title-serenity-1-bedroom-32-m-c317/",
+    "id": "7e36066292b36963d6d153424e081f0d"
   },
   {
     "name": "The Title Serenity – 3 bedroom (115m)",
@@ -5927,8 +6083,9 @@
     ],
     "bedrooms": 3,
     "bathrooms": 2,
-    "parentId": "7b967327-8950-4fe1-8ceb-83713ce8ba6e",
-    "parent": "https://royal-property.pro/flats/phuket-property/the-title-serenity-3-bedroom-115m/"
+    "parentId": "4221032246fe154abf954e61aab68daf",
+    "link": "/flats/phuket-property/the-title-serenity-3-bedroom-115m/",
+    "id": "8ab2592c914dc6e934472e6aba1e2788"
   },
   {
     "name": "The Title Serenity – 2 bedroom (56m)",
@@ -5978,8 +6135,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "7b967327-8950-4fe1-8ceb-83713ce8ba6e",
-    "parent": "https://royal-property.pro/flats/phuket-property/the-title-serenity-2-bedroom-56m/"
+    "parentId": "4221032246fe154abf954e61aab68daf",
+    "link": "/flats/phuket-property/the-title-serenity-2-bedroom-56m/",
+    "id": "954ea586df9da248f0567d8eff294b19"
   },
   {
     "name": "The Title Serenity – 1 bedroom (37m)",
@@ -6029,8 +6187,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "7b967327-8950-4fe1-8ceb-83713ce8ba6e",
-    "parent": "https://royal-property.pro/flats/phuket-property/the-title-serenity-1-bedroom-37m/"
+    "parentId": "4221032246fe154abf954e61aab68daf",
+    "link": "/flats/phuket-property/the-title-serenity-1-bedroom-37m/",
+    "id": "1ed3658fdefe9d6164dd50c23840956f"
   },
   {
     "name": "The Title Serenity – 1 bedroom (30m)",
@@ -6080,8 +6239,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "7b967327-8950-4fe1-8ceb-83713ce8ba6e",
-    "parent": "https://royal-property.pro/flats/phuket-property/the-title-serenity-1-bedroom-30m/"
+    "parentId": "4221032246fe154abf954e61aab68daf",
+    "link": "/flats/phuket-property/the-title-serenity-1-bedroom-30m/",
+    "id": "12643a72335b3be1b1d7a9a6130a0ca2"
   },
   {
     "name": "The Title Serenity – 2 bedroom (61 м²) E503",
@@ -6171,8 +6331,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "7b967327-8950-4fe1-8ceb-83713ce8ba6e",
-    "parent": "https://royal-property.pro/flats/phuket-property/vtorichnyy-rynok/the-title-serenity-2-bedroom-61m-e503/"
+    "parentId": "4221032246fe154abf954e61aab68daf",
+    "link": "/flats/phuket-property/vtorichnyy-rynok/the-title-serenity-2-bedroom-61m-e503/",
+    "id": "24eb511fa0b0a6af49c027f7279f0a9e"
   },
   {
     "name": "Pier22 @Bangtao Beach - 2 bedroom Plus (66-70 м²)",
@@ -6240,8 +6401,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "ac161888-44bb-44f6-80f3-4451a1f8a974",
-    "parent": "https://royal-property.pro/flats/phuket-property/pier22-bangtao-beach-2-bedroom-plus-66-70-m/"
+    "parentId": "0444f73be69d7ef1ebc17d9d1857b0ad",
+    "link": "/flats/phuket-property/pier22-bangtao-beach-2-bedroom-plus-66-70-m/",
+    "id": "2fd0533b17445fe422696f4bf4e0ed41"
   },
   {
     "name": "Pier22 @Bangtao Beach - 2 bedroom (57-70 м²)",
@@ -6319,8 +6481,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "ac161888-44bb-44f6-80f3-4451a1f8a974",
-    "parent": "https://royal-property.pro/flats/phuket-property/pier22-bangtao-beach-2-bedroom-57-70-m/"
+    "parentId": "0444f73be69d7ef1ebc17d9d1857b0ad",
+    "link": "/flats/phuket-property/pier22-bangtao-beach-2-bedroom-57-70-m/",
+    "id": "6aca3aa733d0dea97e63d03e412d4847"
   },
   {
     "name": "Pier22 @Bangtao Beach - 1 bedroom Plus (48-54 м²)",
@@ -6374,8 +6537,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "ac161888-44bb-44f6-80f3-4451a1f8a974",
-    "parent": "https://royal-property.pro/flats/phuket-property/pier22-bangtao-beach-1-bedroom-plus-48-54-m-/"
+    "parentId": "0444f73be69d7ef1ebc17d9d1857b0ad",
+    "link": "/flats/phuket-property/pier22-bangtao-beach-1-bedroom-plus-48-54-m-/",
+    "id": "fff9150b6a02e63c36a6c549bfbf89a9"
   },
   {
     "name": "Pier22 @Bangtao Beach - 1 bedroom (37-43 м²)",
@@ -6437,8 +6601,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "ac161888-44bb-44f6-80f3-4451a1f8a974",
-    "parent": "https://royal-property.pro/flats/phuket-property/pier22-bangtao-beach-1-bedroom-37-43-m-/"
+    "parentId": "0444f73be69d7ef1ebc17d9d1857b0ad",
+    "link": "/flats/phuket-property/pier22-bangtao-beach-1-bedroom-37-43-m-/",
+    "id": "eb38784a53d128dd77d99f2d6ec0c30d"
   },
   {
     "name": "Bamboo Forest - 2 bedroom (74-144 м²)",
@@ -6534,8 +6699,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 2,
-    "parentId": "10d4d65c-3883-4441-a09d-951f70566bf6",
-    "parent": "https://royal-property.pro/flats/phuket-property/bamboo-forest-2-bedroom-74-144-m/"
+    "parentId": "69c2a5b1148bb2d7ef1bc02f0bf6bbf1",
+    "link": "/flats/phuket-property/bamboo-forest-2-bedroom-74-144-m/",
+    "id": "9df8758b52dac5a43ed79da1a7217b1f"
   },
   {
     "name": "Bamboo Forest - 1 bedroom (50-83 м²)",
@@ -6615,8 +6781,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "10d4d65c-3883-4441-a09d-951f70566bf6",
-    "parent": "https://royal-property.pro/flats/phuket-property/bamboo-forest-1-bedroom-50-83-m/"
+    "parentId": "69c2a5b1148bb2d7ef1bc02f0bf6bbf1",
+    "link": "/flats/phuket-property/bamboo-forest-1-bedroom-50-83-m/",
+    "id": "c0c3780a81f547d28d42f3c80e1e2de5"
   },
   {
     "name": "Bamboo Forest - studio (42-52 м²)",
@@ -6696,8 +6863,9 @@
     ],
     "bedrooms": null,
     "bathrooms": 1,
-    "parentId": "10d4d65c-3883-4441-a09d-951f70566bf6",
-    "parent": "https://royal-property.pro/flats/phuket-property/bamboo-forest-studio-42-52-m/"
+    "parentId": "69c2a5b1148bb2d7ef1bc02f0bf6bbf1",
+    "link": "/flats/phuket-property/bamboo-forest-studio-42-52-m/",
+    "id": "a18e69551aa1a0c5ebf966691731dd83"
   },
   {
     "name": "Ozone Signature – 1 bedroom (37m) B111",
@@ -6751,8 +6919,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "79cf4bfe-d5e9-4557-8a39-3292d58f834d",
-    "parent": "https://royal-property.pro/flats/phuket-property/vtorichnyy-rynok/ozone-signature-1-bedroom-37m-b111/"
+    "parentId": "838758ac520abad1df5a4fb7058179ab",
+    "link": "/flats/phuket-property/vtorichnyy-rynok/ozone-signature-1-bedroom-37m-b111/",
+    "id": "4d6e2e1c396958c9060effa6b6a3cca4"
   },
   {
     "name": "Ozone Signature – 3 bedroom (111m)",
@@ -6818,8 +6987,9 @@
     ],
     "bedrooms": 3,
     "bathrooms": 3,
-    "parentId": "79cf4bfe-d5e9-4557-8a39-3292d58f834d",
-    "parent": "https://royal-property.pro/flats/phuket-property/ozone-signature-3-bedroom-111m/"
+    "parentId": "838758ac520abad1df5a4fb7058179ab",
+    "link": "/flats/phuket-property/ozone-signature-3-bedroom-111m/",
+    "id": "28fbdeec7e46188015dbd93fc864053e"
   },
   {
     "name": "Ozone Signature – 2 bedroom (56m)",
@@ -6879,8 +7049,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "79cf4bfe-d5e9-4557-8a39-3292d58f834d",
-    "parent": "https://royal-property.pro/flats/phuket-property/ozone-signature-2-bedroom-56m/"
+    "parentId": "838758ac520abad1df5a4fb7058179ab",
+    "link": "/flats/phuket-property/ozone-signature-2-bedroom-56m/",
+    "id": "7b0ca316cf184eda521c57dc3f679c76"
   },
   {
     "name": "Ozone Signature – 1 bedroom (32-37m)",
@@ -6936,8 +7107,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "79cf4bfe-d5e9-4557-8a39-3292d58f834d",
-    "parent": "https://royal-property.pro/flats/phuket-property/ozone-signature-1-bedroom-32-37m/"
+    "parentId": "838758ac520abad1df5a4fb7058179ab",
+    "link": "/flats/phuket-property/ozone-signature-1-bedroom-32-37m/",
+    "id": "bd2f0703299ad5f4402b9afb1ef906db"
   },
   {
     "name": "The Title Heritage – 1 bedroom (42 м²) C603",
@@ -7001,8 +7173,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "661cac8e-df4e-494e-9caa-4a08172cf6e6",
-    "parent": "https://royal-property.pro/flats/phuket-property/vtorichnyy-rynok/the-title-heritage-1-bedroom-42-m-c603/"
+    "parentId": "23f79af9367d58ba931da02c92a59869",
+    "link": "/flats/phuket-property/vtorichnyy-rynok/the-title-heritage-1-bedroom-42-m-c603/",
+    "id": "f1f6985727c0fdeb160d60edeab4a153"
   },
   {
     "name": "The Title Heritage – 1 bedroom plus (56 м²) D510",
@@ -7046,8 +7219,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "661cac8e-df4e-494e-9caa-4a08172cf6e6",
-    "parent": "https://royal-property.pro/flats/phuket-property/vtorichnyy-rynok/the-title-heritage-1-bedroom-plus-56m-d510/"
+    "parentId": "23f79af9367d58ba931da02c92a59869",
+    "link": "/flats/phuket-property/vtorichnyy-rynok/the-title-heritage-1-bedroom-plus-56m-d510/",
+    "id": "7477ac793a5d26a4c7c720e85cb903fb"
   },
   {
     "name": "The Title Heritage – 1 bedroom (36 м²) C505",
@@ -7091,8 +7265,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "661cac8e-df4e-494e-9caa-4a08172cf6e6",
-    "parent": "https://royal-property.pro/flats/phuket-property/vtorichnyy-rynok/the-title-heritage-1-bedroom-36m-c505/"
+    "parentId": "23f79af9367d58ba931da02c92a59869",
+    "link": "/flats/phuket-property/vtorichnyy-rynok/the-title-heritage-1-bedroom-36m-c505/",
+    "id": "68b5520b353835f5ec3c8b58b3c69430"
   },
   {
     "name": "The Title Heritage – 1 bedroom (32 м²) H510",
@@ -7140,8 +7315,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "661cac8e-df4e-494e-9caa-4a08172cf6e6",
-    "parent": "https://royal-property.pro/flats/phuket-property/vtorichnyy-rynok/the-title-heritage-1-bedroom-32m-h510/"
+    "parentId": "23f79af9367d58ba931da02c92a59869",
+    "link": "/flats/phuket-property/vtorichnyy-rynok/the-title-heritage-1-bedroom-32m-h510/",
+    "id": "75c536a3a421e52d1f1466d074996ffe"
   },
   {
     "name": "The Title Heritage – 1 bedroom (56m)",
@@ -7185,8 +7361,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "661cac8e-df4e-494e-9caa-4a08172cf6e6",
-    "parent": "https://royal-property.pro/flats/phuket-property/the-title-heritage-1-bedroom-56m/"
+    "parentId": "23f79af9367d58ba931da02c92a59869",
+    "link": "/flats/phuket-property/the-title-heritage-1-bedroom-56m/",
+    "id": "225a81cb7ed9348dfaf6bcb2b7b79050"
   },
   {
     "name": "The Title Heritage – 1 bedroom (49m)",
@@ -7230,8 +7407,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "661cac8e-df4e-494e-9caa-4a08172cf6e6",
-    "parent": "https://royal-property.pro/flats/phuket-property/the-title-heritage-1-bedroom-49m/"
+    "parentId": "23f79af9367d58ba931da02c92a59869",
+    "link": "/flats/phuket-property/the-title-heritage-1-bedroom-49m/",
+    "id": "ec648511b5c2901906b7acb94b5280e9"
   },
   {
     "name": "The Title Heritage – 1 bedroom (37m)",
@@ -7275,8 +7453,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "661cac8e-df4e-494e-9caa-4a08172cf6e6",
-    "parent": "https://royal-property.pro/flats/phuket-property/the-title-heritage-1-bedroom-37m/"
+    "parentId": "23f79af9367d58ba931da02c92a59869",
+    "link": "/flats/phuket-property/the-title-heritage-1-bedroom-37m/",
+    "id": "f051c969ee10897d1edd9292f8be3b9a"
   },
   {
     "name": "The Title Heritage – 1 bedroom (36m)",
@@ -7320,8 +7499,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "661cac8e-df4e-494e-9caa-4a08172cf6e6",
-    "parent": "https://royal-property.pro/flats/phuket-property/the-title-heritage-1-bedroom-36m/"
+    "parentId": "23f79af9367d58ba931da02c92a59869",
+    "link": "/flats/phuket-property/the-title-heritage-1-bedroom-36m/",
+    "id": "299dcc1aae3ce57775a97ceed680edaa"
   },
   {
     "name": "Sunshine Beach Resort - 2 bedroom (92m²) Building D",
@@ -7403,8 +7583,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "031a6631-6170-4c75-b20e-cda9f506723c",
-    "parent": "https://royal-property.pro/flats/phuket-property/vtorichnyy-rynok/sunshine-beach-resort-2-bedroom-92m-building-d/"
+    "parentId": "1c6502efacf313a2d1a700c743676382",
+    "link": "/flats/phuket-property/vtorichnyy-rynok/sunshine-beach-resort-2-bedroom-92m-building-d/",
+    "id": "178505da9b293c5b3729830fdd9b7261"
   },
   {
     "name": "Eden - Park Residence  - 3 bedroom PENTHOUSES (206 м²)",
@@ -7452,8 +7633,9 @@
     ],
     "bedrooms": 3,
     "bathrooms": 4,
-    "parentId": "6280a337-c59f-407b-ae5c-d8eeb68e3fbe",
-    "parent": "https://royal-property.pro/flats/phuket-property/eden-park-residence-3-bedroom-penthouses-206-m/"
+    "parentId": "aef51f89bafd37986b7c784784f0fd57",
+    "link": "/flats/phuket-property/eden-park-residence-3-bedroom-penthouses-206-m/",
+    "id": "7936ae71b79f85d5ce1614c11bb5d679"
   },
   {
     "name": "Eden - Park Residence  - 3 bedroom (122-161 м²)",
@@ -7501,8 +7683,9 @@
     ],
     "bedrooms": 3,
     "bathrooms": 3,
-    "parentId": "6280a337-c59f-407b-ae5c-d8eeb68e3fbe",
-    "parent": "https://royal-property.pro/flats/phuket-property/eden-park-residence-3-bedroom-122-161-m/"
+    "parentId": "aef51f89bafd37986b7c784784f0fd57",
+    "link": "/flats/phuket-property/eden-park-residence-3-bedroom-122-161-m/",
+    "id": "78effa37d03641a0169e4686806b521f"
   },
   {
     "name": "Eden - Park Residence  - 2 bedroom (79-112 м²)",
@@ -7550,8 +7733,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "6280a337-c59f-407b-ae5c-d8eeb68e3fbe",
-    "parent": "https://royal-property.pro/flats/phuket-property/eden-park-residence-2-bedroom-79-112-m/"
+    "parentId": "aef51f89bafd37986b7c784784f0fd57",
+    "link": "/flats/phuket-property/eden-park-residence-2-bedroom-79-112-m/",
+    "id": "a45ecae3e47e3d3c8eaf4e2a6c49ff3b"
   },
   {
     "name": "Eden - Park Residence  - 1 bedroom (47-63 м²)",
@@ -7599,8 +7783,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "6280a337-c59f-407b-ae5c-d8eeb68e3fbe",
-    "parent": "https://royal-property.pro/flats/phuket-property/eden-park-residence-1-bedroom-47-63-m/"
+    "parentId": "aef51f89bafd37986b7c784784f0fd57",
+    "link": "/flats/phuket-property/eden-park-residence-1-bedroom-47-63-m/",
+    "id": "cf17b5128b1102199ecfd97326c7d48f"
   },
   {
     "name": "Eden Residences - 4 BEDROOM PENTHOUSES (381 м²)",
@@ -7658,8 +7843,9 @@
     ],
     "bedrooms": 4,
     "bathrooms": 5,
-    "parentId": "57837939-071c-4027-b77b-ad263ad27bc7",
-    "parent": "https://royal-property.pro/flats/phuket-property/eden-residences-4-bedroom-penthouses-381-m/"
+    "parentId": "1cf6acf06031c02c59b0f860398a29bf",
+    "link": "/flats/phuket-property/eden-residences-4-bedroom-penthouses-381-m/",
+    "id": "c418bd1c351672e1d1964a5db9fde78a"
   },
   {
     "name": "Eden Residences - 3 bedroom (179-230 м²)",
@@ -7711,8 +7897,9 @@
     ],
     "bedrooms": 3,
     "bathrooms": 3,
-    "parentId": "57837939-071c-4027-b77b-ad263ad27bc7",
-    "parent": "https://royal-property.pro/flats/phuket-property/eden-residences-3-bedroom-179-230-m/"
+    "parentId": "1cf6acf06031c02c59b0f860398a29bf",
+    "link": "/flats/phuket-property/eden-residences-3-bedroom-179-230-m/",
+    "id": "a7cfdcc38b7f5c5397899276ee30c5d5"
   },
   {
     "name": "Eden Residences - 2 bedroom (105-260 м²)",
@@ -7760,8 +7947,9 @@
     ],
     "bedrooms": 2,
     "bathrooms": 2,
-    "parentId": "57837939-071c-4027-b77b-ad263ad27bc7",
-    "parent": "https://royal-property.pro/flats/phuket-property/eden-residences-2-bedroom-105-260-m/"
+    "parentId": "1cf6acf06031c02c59b0f860398a29bf",
+    "link": "/flats/phuket-property/eden-residences-2-bedroom-105-260-m/",
+    "id": "29097d422f8a15d064ff965c1b2f3c1d"
   },
   {
     "name": "Eden Residences - 1 bedroom (72-75 м²)",
@@ -7807,8 +7995,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "57837939-071c-4027-b77b-ad263ad27bc7",
-    "parent": "https://royal-property.pro/flats/phuket-property/eden-residences-1-bedroom-72-75-m/"
+    "parentId": "1cf6acf06031c02c59b0f860398a29bf",
+    "link": "/flats/phuket-property/eden-residences-1-bedroom-72-75-m/",
+    "id": "858721d0aa211747eb6a013502deee07"
   },
   {
     "name": "Fantasea Condo Kamala – 1 bedroom (27m) -A207",
@@ -7854,8 +8043,9 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "fa8214b5-0ab8-4b26-94c2-7891509134cb",
-    "parent": "https://royal-property.pro/flats/phuket-property/fantasea-a207/"
+    "parentId": "fad78effb5f55e8afa40c229bacb8c97",
+    "link": "/flats/phuket-property/fantasea-a207/",
+    "id": "615eacf0d125f8a492a2b4123e3ee799"
   },
   {
     "name": "Fantasea Condo Kamala – 1 bedroom (34m) -B308",
@@ -7897,7 +8087,8 @@
     ],
     "bedrooms": 1,
     "bathrooms": 1,
-    "parentId": "fa8214b5-0ab8-4b26-94c2-7891509134cb",
-    "parent": "https://royal-property.pro/flats/phuket-property/1-bedroom-34m-b308/"
+    "parentId": "fad78effb5f55e8afa40c229bacb8c97",
+    "link": "/flats/phuket-property/1-bedroom-34m-b308/",
+    "id": "29b9fc8f6035fe5fba94fab8df90183f"
   }
 ]
