@@ -4,6 +4,7 @@
     "title": "The Riviera Santa Monica",
     "description": "Район: Джомтьен | До пляжа: 1 км\n Период строительства: 2025- ноябрь 2028 год\n Цены от: 2 100 00 бат \n 34-этажный комплекс с 446 квартирами с прямым видом на море.",
     "link": "/zk/pattaya-property/the-riviera-santa-monica-/",
+    "id": "1dffc066-86ad-4aa4-958c-e793db57c04c",
     "detailedInfo": {
       "images": [
         "https://royal-property.pro/upload/iblock/c8b/pvhfjzqoy08g47tu30hd603ry7f15hdn.webp",
@@ -193,9 +194,21 @@
         "https://royal-property.pro/upload/iblock/cda/mf1zz3lcz2gk3nfn1uxzqschp96oxq4m.webp"
       ],
       "apartments": [
-        "/flats/pattaya-property/developments/the-riviera-santa-monica-1-bedroom-37-48-m/",
-        "/flats/pattaya-property/developments/the-riviera-santa-monica-2-bedroom-50-72-m/",
-        "/flats/pattaya-property/developments/the-riviera-santa-monica-3-bedroom-320-m/"
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/the-riviera-santa-monica-1-bedroom-37-48-m/"
+        },
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/pattaya-property/developments/the-riviera-santa-monica-2-bedroom-50-72-m/"
+        },
+        {
+          "bedrooms": 3,
+          "bathrooms": 5,
+          "link": "/flats/pattaya-property/developments/the-riviera-santa-monica-3-bedroom-320-m/"
+        }
       ]
     }
   },
@@ -204,6 +217,7 @@
     "title": "Grand Solaire Noble Паттайя",
     "description": "Район: Джомтьен | До пляжа: 1 км\n Окончание строительства: 4 квартал 2028 года\n Цены от: $ 106 904\n Современный высотный комплекс с богатой инфраструктурой.",
     "link": "/zk/pattaya-property/grand-solaire-noble/",
+    "id": "3af09ff0-5304-49d0-9531-7b338839b5ca",
     "detailedInfo": {
       "images": [
         "https://royal-property.pro/upload/iblock/655/2eohrs2ojhnakysz15f20vs8eevzkkrc.webp",
@@ -303,18 +317,35 @@
         "https://royal-property.pro/upload/iblock/4c0/s1yomvmherze6j0ahiqo3qvc939ljsc3.jpeg"
       ],
       "apartments": [
-        "/flats/pattaya-property/developments/grand-solaire-noble-1-bedroom-34-m2/",
-        "/flats/pattaya-property/developments/grand-solaire-noble-2-bedroom-big-92-m2/",
-        "/flats/pattaya-property/developments/grand-solaire-noble-2-bedroom-60-m2/",
-        "/flats/pattaya-property/developments/grand-solaire-noble-1-bedroom-43-5-m2/"
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/grand-solaire-noble-1-bedroom-34-m2/"
+        },
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/pattaya-property/developments/grand-solaire-noble-2-bedroom-big-92-m2/"
+        },
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/pattaya-property/developments/grand-solaire-noble-2-bedroom-60-m2/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/grand-solaire-noble-1-bedroom-43-5-m2/"
+        }
       ]
     }
   },
   {
     "selectorKey": "PatayaOffer",
     "title": "Zenith Pattaya",
-    "description": "Район: Тепразит | До пляжа: 1 км\n Окончание строительства: Х\n Цены от: 2 799 000 бат\n Новый качественный комплекс с богатой инфраструктурой.",
+    "description": "Район: Тепразит | До пляжа: 1 км\n Период строительства: 2026 - дек 2028\n Цены от: 2 799 000 бат\n Новый качественный комплекс с богатой инфраструктурой.",
     "link": "/zk/pattaya-property/zenith-pattaya/",
+    "id": "6197f4ff-9074-4b1f-9f40-28ec1b3df0ad",
     "detailedInfo": {
       "images": [
         "https://royal-property.pro/upload/iblock/360/yzpe9ne7olej14enl0uqg6va4owgvrfa.webp",
@@ -344,7 +375,7 @@
         "https://royal-property.pro/upload/iblock/526/3gsammd0mnei5rbvz3qjqgquruukmt66.webp"
       ],
       "presaleText": "Открыт старт продаж квартир в проекте Zenith Pattaya. Уникальная возможность приобрести жилье по специальным ценам на этапе запуска. Количество предложений ограничено — не упустите шанс!",
-      "description": "<p>\n <b>Местоположение:</b> Zenith Pattaya расположен в Паттайе, недалеко от улицы Thappraya Road soi 15, напротив холма Пратамнак<br>\n <b>Расстояние до пляжа:</b> 1 км<br>\n <b>Период строительства:</b>&nbsp;2026 - дек 2028<br>\n <b>Этажность:</b> 8 этажей<br>\n <b>Количество квартир:</b> Х<br>\n <b>Цены от:</b>&nbsp;2 799 000 бат<br>\n</p>\n<p>\n\t Zenith Pattaya – это 8-ми этажный кондоминиум с концепцией японского SPA и оздоровительного образа жизни. Комплекс включает в себя Onsen SPA с горячими ваннами, современный фитнес-центр Technogym, бар, ресторан, огромные бассейны и зоны для отдыха.\n</p>\n<p>\n\t Комплекс находится в отличной локации: всего 1 км от Walking Street и рядом с основными транспортными артериями города. В пешей доступности расположены одни из лучших ресторанов Паттайи и вся необходимая инфраструктура. Удобное расположение и богатая инфраструктура комплекса, делает проект идеальным для комфортного проживания и инвестиций.\n</p>\n<p>\n\t Zenith Pattaya предлагает эксклюзивные апартаменты с доступом к бассейну, площадью от 33.5 кв.м, по цене от 3.99 млн бат.\n</p>\n<h2>О застройщике</h2>\n<p>\n\t Застройщиком проекта является <b>SLR Development Co., Ltd</b> — ведущий застройщик современных кондоминиумов на восточном побережье Таиланда. Компания реализует свои проекты в самых привлекательных прибрежных районах Паттайи, обеспечивая высокое качество строительства и внимательное отношение к деталям. С момента основания застройщик зарекомендовал себя как надежный и опытный игрок на рынке недвижимости, предлагающий современные жилые комплексы с богатой инфраструктурой.\n</p>\n<p>\n\t Проекты застройщика в продаже на нашем сайте&nbsp;\n</p>\n<p>\n\t 1. \n\t<!--noindex--><a rel=\"nofollow\" target=\"_blank\" href=\"/zk/pattaya-property/grand-solaire/\">Grand Solar</a><!--/noindex--> - высотный комплекс с богатым разнообразием развлекательной инфраструктуры&nbsp;\n</p>\n<p>\n\t 2. \n\t<!--noindex--><a href=\"/zk/pattaya-property/grand-solaire-noble/\" rel=\"nofollow\" target=\"_blank\">Grand Solaire Noble</a><!--/noindex--> — это яркий пример современного архитектурного и инженерного искусства&nbsp;\n</p>\n<p>\n\t Подробнее о районе&nbsp;<a href=\"https://royal-property.pro/articles/pratamnak/\" target=\"_blank\">смотрите здесь</a>&nbsp;<br>\n</p>",
+      "description": "<p>\n <b>Местоположение:</b> Zenith Pattaya расположен в Паттайе, недалеко от улицы Thappraya Road soi 15, напротив холма Пратамнак<br>\n <b>Расстояние до пляжа:</b> 1 км<br>\n <b>Период строительства:</b>&nbsp;2026 - дек 2028<br>\n <b>Этажность:</b>&nbsp;7 этажей<br>\n <b>Количество квартир:</b> Х<br>\n <b>Цены от:</b>&nbsp;2 799 000 бат<br>\n</p>\n<p>\n\t Zenith Pattaya – это 7-ми этажный кондоминиум с концепцией японского SPA и оздоровительного образа жизни. Комплекс включает в себя Onsen SPA с горячими ваннами, современный фитнес-центр Technogym, бар, ресторан, огромные бассейны и зоны для отдыха.\n</p>\n<p>\n\t Комплекс находится в отличной локации: всего 1 км от Walking Street и рядом с основными транспортными артериями города. В пешей доступности расположены одни из лучших ресторанов Паттайи и вся необходимая инфраструктура. Удобное расположение и богатая инфраструктура комплекса, делает проект идеальным для комфортного проживания и инвестиций.\n</p>\n<p>\n\t Zenith Pattaya предлагает эксклюзивные апартаменты с доступом к бассейну, площадью от 33.5 кв.м, по цене от 3.99 млн бат.\n</p>\n<h2>О застройщике</h2>\n<p>\n\t Застройщиком проекта является <b>SLR Development Co., Ltd</b> — ведущий застройщик современных кондоминиумов на восточном побережье Таиланда. Компания реализует свои проекты в самых привлекательных прибрежных районах Паттайи, обеспечивая высокое качество строительства и внимательное отношение к деталям. С момента основания застройщик зарекомендовал себя как надежный и опытный игрок на рынке недвижимости, предлагающий современные жилые комплексы с богатой инфраструктурой.\n</p>\n<p>\n\t Проекты застройщика в продаже на нашем сайте&nbsp;\n</p>\n<p>\n\t 1. \n\t<!--noindex--><a rel=\"nofollow\" target=\"_blank\" href=\"/zk/pattaya-property/grand-solaire/\">Grand Solar</a><!--/noindex--> - высотный комплекс с богатым разнообразием развлекательной инфраструктуры&nbsp;\n</p>\n<p>\n\t 2. \n\t<!--noindex--><a href=\"/zk/pattaya-property/grand-solaire-noble/\" rel=\"nofollow\" target=\"_blank\">Grand Solaire Noble</a><!--/noindex--> — это яркий пример современного архитектурного и инженерного искусства&nbsp;\n</p>\n<p>\n\t Подробнее о районе&nbsp;<a href=\"https://royal-property.pro/articles/pratamnak/\" target=\"_blank\">смотрите здесь</a>&nbsp;<br>\n</p>",
       "floorPlans": [
         {
           "imgSrc": "https://royal-property.pro/upload/iblock/18e/gyzdtbsu325f6d5sebp5euo0rlgihd62.webp",
@@ -368,57 +399,188 @@
         "https://royal-property.pro/upload/iblock/57f/e3eyor4ee8iyszaxfcwlf76wxt8prjcr.jpeg"
       ],
       "apartments": [
-        "/flats/pattaya-property/developments/zenith-pattaya-2-bedroom-65-74-m/",
-        "/flats/pattaya-property/developments/zenith-pattaya-1-bedroom-30-33-5-m-/"
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/pattaya-property/developments/zenith-pattaya-2-bedroom-65-74-m/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/zenith-pattaya-1-bedroom-30-33-5-m-/"
+        }
       ]
     }
   },
   {
     "selectorKey": "PatayaOffer",
     "title": "Embassy Life Паттайя",
-    "description": "Район: Джомтьен | До пляжа: x\n Окончание строительства: декабрь 2029\n Цены от: 2 090 000 thb\n Апартаменты с роскошными видами и эксклюзивными условиями.",
-    "link": "/zk/pattaya-property/embassy-life-pattayya/",
+    "description": "Район: Джомтьен | До пляжа: 450м\n Окончание строительства: декабрь 2029\n Цены от: 2 190 000 thb\n Апартаменты с роскошными видами и эксклюзивными условиями.",
+    "link": "/zk/pattaya-property/embassy-life-pattaya/",
+    "id": "1a642420-0599-4113-8777-b462f8fb423c",
     "detailedInfo": {
       "images": [
-        "https://royal-property.pro/upload/iblock/d67/d674a145c3d901e3646ce9eb823cf491.jpeg",
-        "https://royal-property.pro/upload/iblock/a71/a71c29d15bdeb18c7e3f3d1ae66c4990.jpeg",
+        "https://royal-property.pro/upload/iblock/bfa/wkqvc3o1cl6lgytr8lia1e6pz4xfx27c.webp",
+        "https://royal-property.pro/upload/iblock/260/w3dtwj8omqsl2raphfa3pes54h2s5j4u.webp",
+        "https://royal-property.pro/upload/iblock/fc9/tz8y3qj2bkvu3pi100hz4t469ece7xh4.webp",
+        "https://royal-property.pro/upload/iblock/136/jbye94dt1piggb17jj13b6mv5t20k9bd.webp",
+        "https://royal-property.pro/upload/iblock/ef4/fbipim05od16ogch302sum74xa26sf9x.webp",
+        "https://royal-property.pro/upload/iblock/71a/zz29qyu99i8lnb2nrm6eyhdhkwdofpns.webp",
+        "https://royal-property.pro/upload/iblock/2a2/ywxuh2yh40kqeopwsnl973fdad8k29jq.webp",
+        "https://royal-property.pro/upload/iblock/0b4/zm6pz7kwpgpdhlj7qy9h1j73xu0grxuq.webp",
+        "https://royal-property.pro/upload/iblock/987/8024heqmtkgjd0y2bzj8j5pb0iy36a00.webp",
+        "https://royal-property.pro/upload/iblock/315/g6e0e5cq0bwqr5whbgvt7pu3cl963d1d.webp",
+        "https://royal-property.pro/upload/iblock/096/mj21qjr9xxgzbusg5xi8l6mz3lr9ve7p.webp",
+        "https://royal-property.pro/upload/iblock/5ee/ab476hkmt1uzaudqewl1499p124q88tb.webp",
         "https://royal-property.pro/upload/iblock/1ea/slomb2345bg7lpfl5oidzoelaf73g2uc.webp",
         "https://royal-property.pro/upload/iblock/7bf/29qtzdp1mk4yq6qu66m12l6a3w3yybez.webp",
         "https://royal-property.pro/upload/iblock/2b3/uzijbumt8tksjhw0rndank2q9ec4upua.webp",
         "https://royal-property.pro/upload/iblock/3f7/o9l9phua5y7n9dqpkws7vmt1fr2hshjp.webp",
-        "https://royal-property.pro/upload/iblock/c5a/fb12zlrtm7tew36m5l59ze703ztxbrid.webp",
-        "https://royal-property.pro/upload/iblock/c7c/pdw20a5cqilmcml3vxv0wm0fuc3c40j8.webp",
-        "https://royal-property.pro/upload/iblock/712/mj2bo15pwnrn9dq9ixloqtz0wgl7e10x.webp",
-        "https://royal-property.pro/upload/iblock/c04/lw6h8wrz1rpwe824gta7rzhuk70fz5pm.webp",
-        "https://royal-property.pro/upload/iblock/b35/lp5iue9l3589g8f8tricftskrdf2lzdu.jpeg",
-        "https://royal-property.pro/upload/iblock/b9c/llysrkisdnc6b8v0wo1lpdb8em5k6ln1.webp"
+        "https://royal-property.pro/upload/iblock/7ac/jomwvg1n3m70hbzqv56xodopep188lrr.webp",
+        "https://royal-property.pro/upload/iblock/370/9ct8tlnmy0qr98ecb7urf5elz58zcoi7.webp",
+        "https://royal-property.pro/upload/iblock/896/qoh7nldb72b1aj8v6z7i02vbqbwl8rk2.webp",
+        "https://royal-property.pro/upload/iblock/1c6/k9icgalq5rs43kcmgtdvjxyr2k835ubz.webp",
+        "https://royal-property.pro/upload/iblock/c50/qjf62q6w2keznwuq2xcziq0g9ut6q9ch.webp",
+        "https://royal-property.pro/upload/iblock/c3b/0vpchkyglcze6ue67h1lchnm9qjavd7y.webp",
+        "https://royal-property.pro/upload/iblock/dde/nvtgczc9kpfx8go4tadg6ja5xohqtk0r.webp",
+        "https://royal-property.pro/upload/iblock/0dd/zl3j61xsxv6ctb3uh22fnhq11qb9n09j.webp",
+        "https://royal-property.pro/upload/iblock/c02/dcsu9mgf7az4zizdk2bl3xw1pybgxl95.webp",
+        "https://royal-property.pro/upload/iblock/ef0/baw286crdmdaxy0n5bw1qp76rps2e58f.webp",
+        "https://royal-property.pro/upload/iblock/64f/qisq8ssy68lovwgyw9330eif8t2bx223.webp",
+        "https://royal-property.pro/upload/iblock/31b/kk47s7eokwy8pnvegmgk9crhw09mgvdn.webp",
+        "https://royal-property.pro/upload/iblock/846/mfufbzdtrp2yd0qvvjt7z429ttay2geu.webp"
       ],
-      "presaleText": "Квартиры Embassy Life доступны по выгодным ценам: студии от 2 090 000 бат, 1 спальня — от 2 890 000 бат, 2 спальни — от 4 490 000 бат. Забронируйте сейчас и воспользуйтесь лучшими условиями.",
-      "description": "<p>  \n<b>Местоположение:</b> Embassy Life находится на Втором Джомтьене, недалеко от пляжа.<br>  \n<b>Период строительства:</b> с декабря 2026 по декабрь 2029 года.<br>  \n<b>Этажность:</b> 25 Этажей.<br>  \n<b>Количество квартир:</b> 966.<br>  \n<b>Цены от:</b> 2 090 000 бат за студию 22,6 м².<br>  \n</p>  \n<p>  \n<b>Embassy Life</b> — новый проект класса люкс, состоящий из трех секций, возвышающихся пирамиднным каскадом от компании Matrix Development. Комплекс расположен на Втором Джомтьене, недалеко от пляжа, обеспечивая жителям удобство и прямую близость к морю. Выполненный в духе успешного проекта Embassy, он предлагает стильный дизайн, высокий уровень комфорта и современные технологии. Застройщик берет в основу лучшие элементы дизайна от своего предыдущего проекта Embassy — легендарный стиль Chanel в черно-белом исполнении, дополненный роскошной итальянской эстетикой Dolce Vita. Проект обещает быть масштабным, включая самый большой бассейн в городе, множество зон инфраструктуры и бассейн на крыше с панорамным видом.  \n</p>  \n<h2>Удобства</h2>\n<p>  \nЖителям <b>Embassy Life</b> доступны широкий спектр удобств: бассейны, современные фитнес-залы, зоны для отдыха и BBQ, детские площадки, охраняемая территория и подземный паркинг. Все квартиры сдаются с мебельными пакетами и комплектами бытовой техники, что позволяет сразу заехать и наслаждаться жизнью. В комплексе предусмотрены услуги консьержа, управление недвижимостью и профессиональный сервис по сдаче квартир в аренду. Проект идеально подходит для тех, кто ищет минимальные цены и лучшую локацию с близостью к морю.  \n</p>  \n<h2>Расположение</h2>\n<p>  \nДжомтьен – один из самых любимых и востребованных районов среди русскоязычных туристов. Является спальным и безопасным районом. Рядом с комплексом расположена богатая инфраструктура. Ночной рынок, магазины, кафе, аптеки, бары, благоустроенная набережная и парк для прогулок и занятия спортом.  \n</p>  \n<h2>О застройщике</h2>\n<p>  \nMatrix Development — одна из самых надежных и известных девелоперских компаний в Паттайе, успешно реализовавшая более 20 проектов. Каждое их строительство отличается качеством исполнения и уникальным подходом к дизайну. Embassy Life продолжает эту традицию, предлагая жилье, которое идеально подходит как для личного проживания, так и для инвестиций. Проект обещает стать новым эталоном качества и стиля, объединяя лучшее из прошлых достижений застройщика и инновационные решения.  \n</p>  \n<p>\n\t Подробнее о районе, можно&nbsp;<a href=\"https://royal-property.pro/articles/jomtien/\" target=\"_blank\">узнать тут</a><br>\n</p>",
+      "presaleText": "Квартиры Embassy Life доступны по выгодным ценам: студии от 2 190 000 бат, 1 спальня — от 3 390 000 бат, 2 спальни — от 5 090 000 бат. Забронируйте сейчас и воспользуйтесь лучшими условиями.",
+      "description": "<p>  \n<b>Местоположение:</b> Embassy Life находится на Втором Джомтьене, 450м от пляжа.<br>  \n<b>Период строительства:</b> с декабря 2026 по декабрь 2029 года.<br>  \n<b>Этажность:</b> 25 Этажей.<br>  \n<b>Количество квартир:</b> 966.<br>  \n<b>Цены от:</b> 2 190 000 бат за студию 22,6 м².<br>  \n</p>  \n<p>  \n<b>Embassy Life</b> — новый проект класса люкс, состоящий из трех секций, возвышающихся пирамиднным каскадом от компании Matrix Development. Комплекс расположен на Втором Джомтьене, недалеко от пляжа, обеспечивая жителям удобство и прямую близость к морю. Выполненный в духе успешного проекта Embassy, он предлагает стильный дизайн, высокий уровень комфорта и современные технологии. Застройщик берет в основу лучшие элементы дизайна от своего предыдущего проекта Embassy — легендарный стиль Chanel в черно-белом исполнении, дополненный роскошной итальянской эстетикой Dolce Vita. Проект обещает быть масштабным, включая самый большой бассейн в городе, множество зон инфраструктуры и бассейн на крыше с панорамным видом.  \n</p>  \n<h2>Удобства</h2>\n<p>  \nЖителям <b>Embassy Life</b> доступны широкий спектр удобств: бассейны, современные фитнес-залы, зоны для отдыха и BBQ, детские площадки, охраняемая территория и подземный паркинг. Все квартиры сдаются с мебельными пакетами и комплектами бытовой техники, что позволяет сразу заехать и наслаждаться жизнью. В комплексе предусмотрены услуги консьержа, управление недвижимостью и профессиональный сервис по сдаче квартир в аренду. Проект идеально подходит для тех, кто ищет минимальные цены и лучшую локацию с близостью к морю.  \n</p>  \n<h2>Расположение</h2>\n<p>  \nДжомтьен – один из самых любимых и востребованных районов среди русскоязычных туристов. Является спальным и безопасным районом. Рядом с комплексом расположена богатая инфраструктура. Ночной рынок, магазины, кафе, аптеки, бары, благоустроенная набережная и парк для прогулок и занятия спортом.  \n</p>  \n<h2>О застройщике</h2>\n<p>  \nMatrix Development — одна из самых надежных и известных девелоперских компаний в Паттайе, успешно реализовавшая более 20 проектов. Каждое их строительство отличается качеством исполнения и уникальным подходом к дизайну. Embassy Life продолжает эту традицию, предлагая жилье, которое идеально подходит как для личного проживания, так и для инвестиций. Проект обещает стать новым эталоном качества и стиля, объединяя лучшее из прошлых достижений застройщика и инновационные решения.  \n</p>  \n<p>\n\t Подробнее о районе, можно&nbsp;<a href=\"https://royal-property.pro/articles/jomtien/\" target=\"_blank\">узнать тут</a><br>\n</p>",
       "floorPlans": [
         {
-          "imgSrc": "https://royal-property.pro/upload/iblock/b78/f9okagpoq68i8e8yhklo0tnzg82ofj9k.jpeg",
+          "imgSrc": "https://royal-property.pro/upload/iblock/47b/7wd08s6qgyj6loyjiv9fyi86ohrdkjql.webp",
+          "title": "Паркинг"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/f1b/qic9gcwowd5rdu6m51froywslxzmg07b.webp",
+          "title": "Лобби + Пар"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/a35/nrkihq3j1661arfwj0mq3lyz5icdxkke.webp",
+          "title": "2 Этаж"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/ec6/kicl5p7f81x9i0v1ujkig06c22de1i8i.webp",
           "title": "3 Этаж"
         },
         {
-          "imgSrc": "https://royal-property.pro/upload/iblock/5c3/qdaq3s1yiqu85rou1fi4mb6mznf5tnfd.jpeg",
+          "imgSrc": "https://royal-property.pro/upload/iblock/7b0/tt5jq687aydj68m15mycf11ss9brhc21.webp",
+          "title": "4 Этаж"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/6e2/7z4t6u3ibsar14zgbdjxomrpfgto3abg.webp",
+          "title": "5 Этаж"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/677/5etuwnnjcdbw0c2s74ml0mczmx8wcm6h.webp",
           "title": "6 Этаж"
         },
         {
-          "imgSrc": "https://royal-property.pro/upload/iblock/f02/7g57af0jqw765lm9li1zthzxzpp1wuhg.jpeg",
+          "imgSrc": "https://royal-property.pro/upload/iblock/28c/z2y1c0waki8fsx627eng6vqu1zor9rmz.webp",
+          "title": "7 Этаж"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/543/023ntw2tubcdp2b680zcqnqfrs5151mp.webp",
+          "title": "8 Этаж"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/5ea/6x5tae3fp5a7zwzl2t3ffw2x72ovdbzx.webp",
+          "title": "9 Этаж"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/e68/mscav47w80nsltm5blpr88repy6jkc5g.webp",
+          "title": "10 Этаж"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/88d/dmzx5xui6xp2g6dj94ouuc25ldnnwqcq.webp",
+          "title": "11 Этаж"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/537/qee9qvx56luilxsm6up3nz013f4pujsr.webp",
+          "title": "12 Этаж"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/d3f/8nw9vnj1xxjf8hws049wgn1sjkpmdua1.webp",
+          "title": "13 Этаж"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/495/17reqhwlwfrho630nhwjn8hthzjvwl5e.webp",
+          "title": "14 Этаж"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/72c/stq8nve0nf20hnrotjwst2ndwgam8huc.webp",
+          "title": "15 Этаж"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/dc7/8niubbzrdpnkczibok69ipzgo10aassr.webp",
+          "title": "16 Этаж"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/c2d/4zfivgq7ldytcseroopk48szueahkres.webp",
+          "title": "17 Этаж"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/355/1ttx5y1pl5d6o87wne7lri5ebbhquy5q.webp",
+          "title": "18 Этаж"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/b4c/zt30h6p4c6ftj7rb75bji007rc2dpg3o.webp",
           "title": "19 Этаж"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/0ba/u9q3gqeft1dsq9uqgia5y43c3v7pp37r.webp",
+          "title": "20 Этаж"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/524/2bygckm2b0rw01tcx1qrn2ob2aten86d.webp",
+          "title": "21 Этаж"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/6f7/uf815dg27l2ttwu8tmn38yfelsk1h693.webp",
+          "title": "22 Этаж"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/e0d/wd4be6x1z9v10qds92076zyap0rni3ai.webp",
+          "title": "23 Этаж"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/da3/etr789kgudle3coa2332312qe12u14n9.webp",
+          "title": "24 Этаж"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/63b/ohd8ep03l6lt5otl3wmk1fir321gdd11.webp",
+          "title": "Крыша"
         }
       ],
       "apartmentsLayouts": [
-        "https://royal-property.pro/upload/iblock/584/wk2ll1dtiq2bt6nzheoa3vfdn9v2wlsq.jpeg",
-        "https://royal-property.pro/upload/iblock/3f3/07po5dzqq0hag9xjk2x1bh49rt6lgqz8.jpeg",
-        "https://royal-property.pro/upload/iblock/953/nt5azg1lozmkcref3a2yj6osvelzl0vf.jpeg",
-        "https://royal-property.pro/upload/iblock/215/7cui17ba4k3170ar0vk7g0fveyl0ks6f.jpeg"
+        "https://royal-property.pro/upload/iblock/c14/4q3guama3qxk8brebvsbkcfbwspunuh7.webp",
+        "https://royal-property.pro/upload/iblock/6ed/jmxk8nqlrayotbiel2q4t7rtfkb4lwaf.webp",
+        "https://royal-property.pro/upload/iblock/b25/998wevrb5802vuqq9ctkay9tpu0mtuuh.webp",
+        "https://royal-property.pro/upload/iblock/36e/ktkzeauwphgi4p3ytv0c2jo11zbl8a8c.webp",
+        "https://royal-property.pro/upload/iblock/544/4ujg1l9mn0vbohrtyktwtm12lht2zg87.webp"
       ],
       "apartments": [
-        "/flats/pattaya-property/developments/embassy-life-2-bedroom-51-m/",
-        "/flats/pattaya-property/developments/embassy-life-1-bedroom-34-36-m/",
-        "/flats/pattaya-property/developments/embassy-life-studio-22-6-m/"
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/pattaya-property/developments/embassy-life-2-bedroom-51-52-m/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/embassy-life-1-bedroom-34-36-m/"
+        },
+        {
+          "bedrooms": null,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/embassy-life-studio-22-6-m/"
+        }
       ]
     }
   },
@@ -427,6 +589,7 @@
     "title": "Aquarous Jomtien Паттайя",
     "description": "Район: Джомтьен | До моря: 500 м\nПериод строительства: IV квартал 2024 – IV квартал 2027\nЦены от:$ 124 000\nУдобная рассрочка на период строительства",
     "link": "/zk/pattaya-property/aquarous-jomtien-pattaya/",
+    "id": "604d3ac1-1ce4-45c5-a7f9-7f5d911c59fd",
     "detailedInfo": {
       "images": [
         "https://royal-property.pro/upload/iblock/fcd/bbmu4m3h313h5c97dzkiy3mxn2r5h1dx.webp",
@@ -532,9 +695,21 @@
         "https://royal-property.pro/upload/iblock/ed0/sw6bfh1sgs34l3p3qsm1w6ixs57db3y0.webp"
       ],
       "apartments": [
-        "/flats/pattaya-property/developments/aquarous-jomtien-pattaya-2-bedroom-79-100-m-/",
-        "/flats/pattaya-property/developments/aquarous-jomtien-pattaya-3-bedroom-130-173-m-/",
-        "/flats/pattaya-property/developments/aquarous-jomtien-pattaya-1-bedroom-34-76-m-/"
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/pattaya-property/developments/aquarous-jomtien-pattaya-2-bedroom-79-100-m-/"
+        },
+        {
+          "bedrooms": 3,
+          "bathrooms": 3,
+          "link": "/flats/pattaya-property/developments/aquarous-jomtien-pattaya-3-bedroom-130-173-m-/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/aquarous-jomtien-pattaya-1-bedroom-34-76-m-/"
+        }
       ]
     }
   },
@@ -543,6 +718,7 @@
     "title": "Skypark lucean Паттайя",
     "description": "Район: Джомтьен | До пляжа: 200 м\n Окончание строительства: второй квартал 2028 года\n Цены от: $ 109 000\n 60-этажный проект с инфинити-бассейном и разнообразными удобствами.",
     "link": "/zk/pattaya-property/skypark-lucean/",
+    "id": "6e29996e-e319-4370-969b-4e7beb883774",
     "detailedInfo": {
       "images": [
         "https://royal-property.pro/upload/iblock/fd6/57765r8revguczbc758tmjc14f0hms4m.jpeg",
@@ -646,10 +822,26 @@
         "https://royal-property.pro/upload/iblock/88d/ef1ltgtz8uojfkc4msefsqqjib3cpyl8.jpg"
       ],
       "apartments": [
-        "/flats/pattaya-property/developments/skypark-lucean-3-bedroom-94-6-m-/",
-        "/flats/pattaya-property/developments/skypark-lucean-2-bedroom-86-89-m-/",
-        "/flats/pattaya-property/developments/skypark-lucean-1-bedroom-40-48-m/",
-        "/flats/pattaya-property/developments/skypark-lucean-studio-28-39-m/"
+        {
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "link": "/flats/pattaya-property/developments/skypark-lucean-3-bedroom-94-6-m-/"
+        },
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/pattaya-property/developments/skypark-lucean-2-bedroom-86-89-m-/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/skypark-lucean-1-bedroom-40-48-m/"
+        },
+        {
+          "bedrooms": null,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/skypark-lucean-studio-28-39-m/"
+        }
       ]
     }
   },
@@ -658,6 +850,7 @@
     "title": "The Panora Estuaria Паттайя",
     "description": "Район: На Джомтьен | До пляжа: 400 м\n Окончание строительства: 4 квартал 2026\n Цены от: $ 115 000\n Четыре 8-этажных здания с роскошной внутренней отделкой.",
     "link": "/zk/pattaya-property/the-panora-estuaria-luxury-beachfront-condominium/",
+    "id": "a4a21d1a-ec8d-4a0c-afef-1bdfa63d7e33",
     "detailedInfo": {
       "images": [
         "https://royal-property.pro/upload/iblock/41e/xhru7kncu9ow0rnha110i0fz6j3091q1.jpeg",
@@ -756,11 +949,31 @@
         "https://royal-property.pro/upload/iblock/4f8/hbgg7f0nlrz89fvlyvcvfmth73p5ayae.webp"
       ],
       "apartments": [
-        "/flats/pattaya-property/developments/the-panora-estuaria-studio-32-33-sq-m/",
-        "/flats/pattaya-property/developments/the-panora-estuaria-3-bedroom-153-164-sq-m/",
-        "/flats/pattaya-property/developments/the-panora-estuaria-1-bedroom-47-53-sq-m/",
-        "/flats/pattaya-property/developments/the-panora-estuaria-penthouse-282-58-sq-m/",
-        "/flats/pattaya-property/developments/the-panora-estuaria-2-bedroom-93-117-sq-m/"
+        {
+          "bedrooms": null,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/the-panora-estuaria-studio-32-33-sq-m/"
+        },
+        {
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "link": "/flats/pattaya-property/developments/the-panora-estuaria-3-bedroom-153-164-sq-m/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/the-panora-estuaria-1-bedroom-47-53-sq-m/"
+        },
+        {
+          "bedrooms": 4,
+          "bathrooms": 5,
+          "link": "/flats/pattaya-property/developments/the-panora-estuaria-penthouse-282-58-sq-m/"
+        },
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/pattaya-property/developments/the-panora-estuaria-2-bedroom-93-117-sq-m/"
+        }
       ]
     }
   },
@@ -769,6 +982,7 @@
     "title": "Secret Garden Паттайя",
     "description": "Район: НаКлуа | До пляжа: 1.4 км\n Окончание строительства: 1 квартал 2027 года\n Цены от: $ 89 000\n160 квартир с современным дизайном и мебелью в подарок.",
     "link": "/zk/pattaya-property/secret-garden/",
+    "id": "c5ab3647-f746-430d-8910-d6527e33260b",
     "detailedInfo": {
       "images": [
         "https://royal-property.pro/upload/iblock/de0/fik12zt06142sn7ud3pdd5y8ks5o8813.jpeg",
@@ -876,10 +1090,26 @@
         "https://royal-property.pro/upload/iblock/723/toilf2cfp1koefh16qyq740r2ynkaznt.jpeg"
       ],
       "apartments": [
-        "/flats/pattaya-property/developments/secret-garden-1-bedroom-40-m/",
-        "/flats/pattaya-property/developments/secret-garden-1-bedroom-34-m/",
-        "/flats/pattaya-property/developments/secret-garden-2-bedroom-81-m/",
-        "/flats/pattaya-property/developments/secret-garden-1-bedroom-46-m/"
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/secret-garden-1-bedroom-40-m/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/secret-garden-1-bedroom-34-m/"
+        },
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/pattaya-property/developments/secret-garden-2-bedroom-81-m/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/secret-garden-1-bedroom-46-m/"
+        }
       ]
     }
   },
@@ -888,6 +1118,7 @@
     "title": "Copacabana 2 Coral Reef Паттайя",
     "description": "Район: Джомтьен | До пляжа: 500 м\n Окончание строительства:  III квартал 2027 года\n Цены от: $ 110 000\n Современные апартаменты с панорамными окнами.",
     "link": "/zk/pattaya-property/copacabana-coral-reef-condo/",
+    "id": "72c18171-ea80-479d-b17e-79407e780ef0",
     "detailedInfo": {
       "images": [
         "https://royal-property.pro/upload/iblock/748/j9vbp4ww946iqw5h0abk5uifhl1z3tmv.webp",
@@ -960,9 +1191,21 @@
         "https://royal-property.pro/upload/iblock/fe2/fe2920ff9d62640a07c5765eb7ac1e8a.jpeg"
       ],
       "apartments": [
-        "/flats/pattaya-property/developments/copacabana-coral-reef-condo-1-bedroom-34-30-m/",
-        "/flats/pattaya-property/developments/copacabana-coral-reef-condo-1-bedroom-38-60-m/",
-        "/flats/pattaya-property/developments/copacabana-coral-reef-condo-2-bedroom-67-60-m/"
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/copacabana-coral-reef-condo-1-bedroom-34-30-m/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/copacabana-coral-reef-condo-1-bedroom-38-60-m/"
+        },
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/pattaya-property/developments/copacabana-coral-reef-condo-2-bedroom-67-60-m/"
+        }
       ]
     }
   },
@@ -971,6 +1214,7 @@
     "title": "The Embassy Паттайя",
     "description": "Район: Джомтьен | До пляжа: 1 км\n Окончание строительства: 2027\n Цены от: $ 92 000\n Апартаменты с роскошными видами и эксклюзивными условиями.",
     "link": "/zk/pattaya-property/the-embassy/",
+    "id": "dc4a9f30-972d-4dee-b0d5-137c67c26340",
     "detailedInfo": {
       "images": [
         "https://royal-property.pro/upload/iblock/1d8/uon7xs99zglvrmup13fuq1c1i4z0om8k.jpeg",
@@ -1055,9 +1299,21 @@
         "https://royal-property.pro/upload/iblock/bbd/yoomse5buhnbc0arg220z7fde4ses1mn.jpeg"
       ],
       "apartments": [
-        "/flats/pattaya-property/secondary/embassy-2-bedroom-55-m/",
-        "/flats/pattaya-property/developments/the-embassy-1-bedroom-33-54-m/",
-        "/flats/pattaya-property/developments/the-embassy-2-bedroom-51-102-m/"
+        {
+          "bedrooms": 2,
+          "bathrooms": null,
+          "link": "/flats/pattaya-property/secondary/embassy-2-bedroom-55-m/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/the-embassy-1-bedroom-33-54-m/"
+        },
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/pattaya-property/developments/the-embassy-2-bedroom-51-102-m/"
+        }
       ]
     }
   },
@@ -1066,6 +1322,7 @@
     "title": "Pristine Park 3 Паттайя",
     "description": "Район: Джомтьен | До пляжа: 2 км\n Окончание строительства: 2027\n Цены от: $ 49 000\n Шесть многоэтажных зданий с 1300 современными квартирами.",
     "link": "/zk/pattaya-property/pristine-park-3/",
+    "id": "c8033ef7-3286-4da5-ad1f-486faf4c0f95",
     "detailedInfo": {
       "images": [
         "https://royal-property.pro/upload/iblock/72a/uiydj38gu5kd6p3k182luv1n36155j77.webp",
@@ -1188,9 +1445,21 @@
         "https://royal-property.pro/upload/iblock/8ff/8ff54342581950abc92753a01e668401.jpeg"
       ],
       "apartments": [
-        "/flats/pattaya-property/developments/pristine-park-3-1-bedroom-29-00-m-/",
-        "/flats/pattaya-property/developments/pristine-park-3-studio-25-07/",
-        "/flats/pattaya-property/developments/pristine-park-3-2-bedroom-65-82/"
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/pristine-park-3-1-bedroom-29-00-m-/"
+        },
+        {
+          "bedrooms": null,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/pristine-park-3-studio-25-07/"
+        },
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/pattaya-property/developments/pristine-park-3-2-bedroom-65-82/"
+        }
       ]
     }
   },
@@ -1199,6 +1468,7 @@
     "title": "Riviera Malibu Паттайя",
     "description": "Район: Пратумнак | До пляжа: 350 м\n Окончание строительства: 4 квартал 2026 год\n Цены от: $ 120 000\n 128 частных резиденций класса “люкс” с мебелью и великолепным видом на город и море.",
     "link": "/zk/pattaya-property/riviera-malibu/",
+    "id": "c5735e61-573f-4fa5-bfa9-201e9972064c",
     "detailedInfo": {
       "images": [
         "https://royal-property.pro/upload/iblock/e02/j72if2j6hqhb43cm6eas2w4dj0vp299s.jpeg",
@@ -1299,13 +1569,41 @@
         "https://royal-property.pro/upload/iblock/e42/e42b80aa32f7de67ed10adbb1c165df1.jpg"
       ],
       "apartments": [
-        "/flats/pattaya-property/secondary/the-riviera-santa-monica-1-bedroom-36-m/",
-        "/flats/pattaya-property/developments/riviera-malibu-2-bedroom-77m/",
-        "/flats/pattaya-property/secondary/riviera-malibu-1-bedroom-37m-/",
-        "/flats/pattaya-property/secondary/riviera-malibu-2-bedroom-64m-id-537191/",
-        "/flats/pattaya-property/secondary/riviera-malibu-1-bedroom-46m-id-537190/",
-        "/flats/pattaya-property/developments/riviera-malibu-3-bedroom-114m/",
-        "/flats/pattaya-property/developments/1-bedroom-37m/"
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/secondary/the-riviera-santa-monica-1-bedroom-36-m/"
+        },
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/pattaya-property/developments/riviera-malibu-2-bedroom-77m/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/secondary/riviera-malibu-1-bedroom-37m-/"
+        },
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/pattaya-property/secondary/riviera-malibu-2-bedroom-64m-id-537191/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/secondary/riviera-malibu-1-bedroom-46m-id-537190/"
+        },
+        {
+          "bedrooms": 3,
+          "bathrooms": 3,
+          "link": "/flats/pattaya-property/developments/riviera-malibu-3-bedroom-114m/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/1-bedroom-37m/"
+        }
       ]
     }
   },
@@ -1314,6 +1612,7 @@
     "title": "Copacabana Паттайя",
     "description": "Район: Джомтьен | До пляжа: 300 м\n Окончание строительства: Завершен\n Цены от: $ 155 000\n 59-этажный комплекс с 1644 квартирами.",
     "link": "/zk/pattaya-property/copacabana/",
+    "id": "21715a84-4e80-4db0-a90a-abeb5cc0a951",
     "detailedInfo": {
       "images": [
         "https://royal-property.pro/upload/iblock/481/481834fe9d1a2e1b521bac5fca668a65.jpeg",
@@ -1440,14 +1739,46 @@
         "https://royal-property.pro/upload/iblock/b5d/b5da6c92f3400f3e054fc4f82c4182ef.jpeg"
       ],
       "apartments": [
-        "/flats/pattaya-property/secondary/copacabana-1-bedroom-47-sqm-id-1185/",
-        "/flats/pattaya-property/secondary/copacabana-1-bedroom-35-sqm-idz173/",
-        "/flats/pattaya-property/secondary/copacabana-1-bedroom-45-sqm-idz185/",
-        "/flats/pattaya-property/secondary/copacabana-1-bedroom-46-sqm-jacuzzi/",
-        "/flats/pattaya-property/secondary/copacabana-1-bedroom-46-5-sqm-idz-166/",
-        "/flats/pattaya-property/secondary/copacabana-2-bedroom-72-sqm-idz168/",
-        "/flats/pattaya-property/secondary/copacabana-1-bedroom-80-sqm-idz174/",
-        "/flats/pattaya-property/secondary/copacabana-2-bedroom-64-sqm-idz167/"
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/secondary/copacabana-1-bedroom-47-sqm-id-1185/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/secondary/copacabana-1-bedroom-35-sqm-idz173/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/secondary/copacabana-1-bedroom-45-sqm-idz185/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/secondary/copacabana-1-bedroom-46-sqm-jacuzzi/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/secondary/copacabana-1-bedroom-46-5-sqm-idz-166/"
+        },
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/pattaya-property/secondary/copacabana-2-bedroom-72-sqm-idz168/"
+        },
+        {
+          "bedrooms": 2,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/secondary/copacabana-1-bedroom-80-sqm-idz174/"
+        },
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/pattaya-property/secondary/copacabana-2-bedroom-64-sqm-idz167/"
+        }
       ]
     }
   },
@@ -1456,6 +1787,7 @@
     "title": "Arom Wongamat Паттайя",
     "description": "Район: Вонгамат | До моря:на первой линии\nОкончание строительства:Сдан в 2024.\nЦены от:$ 234 000\nПанорамный Infinity-бассейн на крыше с великолепными видами на побережье",
     "link": "/zk/pattaya-property/arom-wongamat-pattay%D0%B0/",
+    "id": "5b094a7a-5556-425f-9ed9-379e04f7f1fa",
     "detailedInfo": {
       "images": [
         "https://royal-property.pro/upload/iblock/3d0/19fv2xqja4y3tiktetaejmhh8cdcseuw.webp",
@@ -1517,9 +1849,21 @@
         "https://royal-property.pro/upload/iblock/8b5/k2h6kustysxm3usck7hp31mr4neb40x8.webp"
       ],
       "apartments": [
-        "/flats/pattaya-property/developments/arom-wongamat-2-bedroom-82-6-88-8-m-/",
-        "/flats/pattaya-property/developments/arom-wongamat-1-bedroom-37-9-57-4-m/",
-        "/flats/pattaya-property/developments/arom-wongamat-1-bedroom-plus-54-4-64-9-m/"
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/pattaya-property/developments/arom-wongamat-2-bedroom-82-6-88-8-m-/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/arom-wongamat-1-bedroom-37-9-57-4-m/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/arom-wongamat-1-bedroom-plus-54-4-64-9-m/"
+        }
       ]
     }
   },
@@ -1528,6 +1872,7 @@
     "title": "Harmonia City Garden Паттайя",
     "description": "Район: Джомтьен | До пляжа: 1.3 км\n Окончание строительства: 2й квартал 2028\n Цены от: $ 41 500\n Комплекс из 4 зданий с бассейнами и зелеными зонами.",
     "link": "/zk/pattaya-property/harmonia-city-garden/",
+    "id": "7e45e40a-8329-4402-9f29-f53c29e04bab",
     "detailedInfo": {
       "images": [
         "https://royal-property.pro/upload/iblock/34c/f2tx7blp8yh4gh5mxlupgsiqaehntb8q.webp",
@@ -1574,10 +1919,26 @@
         "https://royal-property.pro/upload/iblock/bc7/bc758604d51a246e56afd76232d5a5d8.jpeg"
       ],
       "apartments": [
-        "/flats/pattaya-property/developments/harmonia-city-garden-1-bedroom-c/",
-        "/flats/pattaya-property/developments/harmonia-city-garden-2-bedroom/",
-        "/flats/pattaya-property/developments/harmonia-city-garden-1-bedroom-a/",
-        "/flats/pattaya-property/secondary/harmonia-city-garden-studio-20-m-/"
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/harmonia-city-garden-1-bedroom-c/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/harmonia-city-garden-2-bedroom/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/harmonia-city-garden-1-bedroom-a/"
+        },
+        {
+          "bedrooms": null,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/secondary/harmonia-city-garden-studio-20-m-/"
+        }
       ]
     }
   },
@@ -1586,6 +1947,7 @@
     "title": "Wyndham Grand Residence Паттайя",
     "description": "Район: Вонгамат | До пляжа: 250 м\n Окончание строительства: Июнь 2028\n Цены от: $ 147 000\n 36-этажный комплекс с панорамной крышей.",
     "link": "/zk/pattaya-property/wyndham-grand-residence/",
+    "id": "23391ea4-fcc8-4de8-bb78-32026f24d1d7",
     "detailedInfo": {
       "images": [
         "https://royal-property.pro/upload/iblock/09b/0tr41ymfcpbqaroskr5qmi630qec0ok6.webp",
@@ -1720,9 +2082,21 @@
         "https://royal-property.pro/upload/iblock/196/86nz2su0vizq24f9xdtioijgydjn6455.webp"
       ],
       "apartments": [
-        "/flats/pattaya-property/developments/wyndham-grand-residence-1-bedroom-plus-55-66-m-/",
-        "/flats/pattaya-property/developments/wyndham-grand-residence-2-bedroom-70-79-m/",
-        "/flats/pattaya-property/developments/wyndham-grand-residence-1-bedroom-28-33-m/"
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/wyndham-grand-residence-1-bedroom-plus-55-66-m-/"
+        },
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/pattaya-property/developments/wyndham-grand-residence-2-bedroom-70-79-m/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/wyndham-grand-residence-1-bedroom-28-33-m/"
+        }
       ]
     }
   },
@@ -1731,6 +2105,7 @@
     "title": "Grand Solaire Паттайя",
     "description": "Район: Таппрая | Расстояние до пляжа: 2 км\n Окончание строительства: конец 2025 г\n Цены от: $ 100 000\n Самый высокий проект Паттайи. 67 этажей, 2 326 квартир на площади 23 200 м².",
     "link": "/zk/pattaya-property/grand-solaire/",
+    "id": "596dc918-d64b-48b9-ad48-886ea2ee4887",
     "detailedInfo": {
       "images": [
         "https://royal-property.pro/upload/iblock/86f/m2iz0l5e3rcrxlxqenhhjjcbf09xovws.webp",
@@ -1805,17 +2180,61 @@
         "https://royal-property.pro/upload/iblock/566/56692ea6b1fe69e6c4254e92b0ea8cd0.jpg"
       ],
       "apartments": [
-        "/flats/pattaya-property/secondary/grand-solaire-2-bedroom-41-m-z02/",
-        "/flats/pattaya-property/secondary/grand-solaire-2-bedroom-41-m-/",
-        "/flats/pattaya-property/secondary/grand-solaire-1-bedroom-29-m-z04/",
-        "/flats/pattaya-property/secondary/grand-solaire-1-bedroom-29-m-z03/",
-        "/flats/pattaya-property/developments/grand-solaire-2-bedroom-idz450/",
-        "/flats/pattaya-property/developments/grand-solaire-2-bedroom-idz449/",
-        "/flats/pattaya-property/developments/grand-solaire-2-bedroom-idz451/",
-        "/flats/pattaya-property/developments/grand-solaire-1-bedroom-29-m2-id537212/",
-        "/flats/pattaya-property/developments/grand-solaire-1-bedroom-idz448/",
-        "/flats/pattaya-property/secondary/grand-solaire-2-bedroom-41m-id-537186/",
-        "/flats/pattaya-property/developments/grand-solaire-1-bedroom-idz447/"
+        {
+          "bedrooms": 2,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/secondary/grand-solaire-2-bedroom-41-m-z02/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/secondary/grand-solaire-2-bedroom-41-m-/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/secondary/grand-solaire-1-bedroom-29-m-z04/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/secondary/grand-solaire-1-bedroom-29-m-z03/"
+        },
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/pattaya-property/developments/grand-solaire-2-bedroom-idz450/"
+        },
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/pattaya-property/developments/grand-solaire-2-bedroom-idz449/"
+        },
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/pattaya-property/developments/grand-solaire-2-bedroom-idz451/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/grand-solaire-1-bedroom-29-m2-id537212/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/grand-solaire-1-bedroom-idz448/"
+        },
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/pattaya-property/secondary/grand-solaire-2-bedroom-41m-id-537186/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/grand-solaire-1-bedroom-idz447/"
+        }
       ]
     }
   },
@@ -1824,6 +2243,7 @@
     "title": "Arom Jomtien Паттайя",
     "description": "Район: Джомтьен | До пляжа: 1.3 км\n Окончание строительства: Завершен\n Цены от: $ 140 000\n Новый проект на первой линии с 45 этажами и 315 квартирами.",
     "link": "/zk/pattaya-property/arom-jomtien/",
+    "id": "bb5b17b2-ba43-49bf-b733-d913baf57b08",
     "detailedInfo": {
       "images": [
         "https://royal-property.pro/upload/iblock/57d/82cnp2b257e0b97np0b22r4cdj0g2j1a.jpeg",
@@ -1879,10 +2299,107 @@
         "https://royal-property.pro/upload/iblock/f3f/f3f02e28f748d48ab0ad9a6d5368c1fe.png"
       ],
       "apartments": [
-        "/flats/pattaya-property/developments/arom-jomtien-1-bedroom-id-537077/",
-        "/flats/pattaya-property/developments/arom-jomtien-1-bedroom-junior/",
-        "/flats/pattaya-property/developments/arom-jomtien-1-bedroom/",
-        "/flats/pattaya-property/developments/arom-jomtien-2-bedroom/"
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/arom-jomtien-1-bedroom-id-537077/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/arom-jomtien-1-bedroom-junior/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/pattaya-property/developments/arom-jomtien-1-bedroom/"
+        },
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/pattaya-property/developments/arom-jomtien-2-bedroom/"
+        }
+      ]
+    }
+  },
+  {
+    "selectorKey": "PhuketOffer",
+    "title": "The Title Katabello",
+    "description": "Район: Ката | До моря: 500 м\n Окончание строительства: 3 квартал 2027 года\n Цены от: 2 900 000 бат\n Современный комплекс от проверенного застройщика.",
+    "link": "/zk/phuket-property/the-title-katabello/",
+    "id": "b160c93d-fc09-4eb8-b4b9-28dd72c7551d",
+    "detailedInfo": {
+      "images": [
+        "https://royal-property.pro/upload/iblock/d26/nbvywqzjm28muakxfg5z2m6jtp2uhkf2.webp",
+        "https://royal-property.pro/upload/iblock/6d8/8211jpo6kw9ncxv7q7rgwbfx0frmk4cd.webp",
+        "https://royal-property.pro/upload/iblock/bbb/qlctzco79plyvadpu9ni7n9059bixpbn.webp",
+        "https://royal-property.pro/upload/iblock/f54/ww2g9kclxcnvfkxs7qmtnogd341lzxhu.webp",
+        "https://royal-property.pro/upload/iblock/8ed/7nigg6014an3syd1hzkkjibicgkg6akx.webp",
+        "https://royal-property.pro/upload/iblock/f50/cx484yerang19f8j6gp5728rkx50w8hv.webp",
+        "https://royal-property.pro/upload/iblock/f75/u30kg7wg8nz1xoguhojv56m9ljh922ud.webp",
+        "https://royal-property.pro/upload/iblock/98f/1ii9ixnua6mqm60q1i8d09dcrxndtmdb.webp",
+        "https://royal-property.pro/upload/iblock/270/6pzzg17okyxleqipam5dyjl9021inens.webp",
+        "https://royal-property.pro/upload/iblock/8f1/le78qeudvnycxgdxpbh2wh2z04i28w0b.webp",
+        "https://royal-property.pro/upload/iblock/cf0/w83ojyaf86khkg3w4fpvytoaiyp7duji.webp",
+        "https://royal-property.pro/upload/iblock/f6e/rp99q030693xxerq5mv377jbgpg6zzl3.webp",
+        "https://royal-property.pro/upload/iblock/fc9/splcq5laaakm14vklbt3z41pfg8y0nai.webp"
+      ],
+      "presaleText": "Доходная инвестиция в престижном районе Пхукета! Высокий спрос на аренду, стабильный доход в валюте и стартовая цена всего 2.9 млн бат. Katabello — единственный новый комплекс на пляже Ката, готовый к проживанию и росту стоимости.",
+      "description": "<p>  \n <b>Район:</b> Пляж Ката | <b>Расстояние до пляжа:</b> 500 м<br>  \n <b>Окончание строительства:</b> 3 квартал 2027 года  \n</p>  \n<p>  \n\tKatabello — единственный новый жилой комплекс в престижном районе Ката! Уникальное предложение для инвесторов: нет конкурентов, высокий спрос на аренду, стабильный рост цен. Проект от надежных застройщиков Rhom Bho Property и Asset Wise объединяет стиль, комфорт и передовые технологии. Вас ждут просторные апартаменты с высокими потолками, продуманная инфраструктура, 350 парковочных мест (включая EV-стоянки) и даже зона для домашних животных, специальное пространство для ваших питомцев.\n</p>  \n<h2>Специальное предложение:</h2>  \n<p>  \n\tСтартовая цена, всего 2.9 млн бат — и ваша недвижимость в топовом районе Пхукета! Живите в 500 метрах от моря, наслаждайтесь лазурной водой и золотистым песком, инвестируйте в проект, которому нет равных.  \n</p>  \n<h2>Расположение:</h2>  \n<p>  \n\tПляж Ката — один из самых живописных уголков Пхукета: белоснежный песок, кристально чистая вода, коралловые рифы. Здесь расположены знаменитые пляжи Ката Ной и Ката Яй, идеальные для серфинга и дайвинга. Район востребован у туристов и арендаторов, что делает Katabello идеальным инвестиционным проектом.  \n</p>  \n<h2>Почему стоит инвестировать?</h2>  \n<ul>  \n  <li>Единственный новый проект в районе — спрос обеспечен</li>  \n  <li>Доходная аренда: 7-10% годовых средняя доходность от аренды в районе Ката</li>  \n  <li>Рост стоимости: +20% на первой стадии, +40% к завершению</li>  \n</ul>  \n<h2>О застройщике:</h2>  \n<p>  \n\t Rhom Bho Property и Asset Wise — лидеры рынка недвижимости с безупречной репутацией. Katabello — это стиль, инновации и надежные инвестиции.\n</p>  \n<p>  \n\t Подробнее о районе&nbsp;  \n\t<!--noindex--><a href=\"/articles/kata/\" rel=\"nofollow\" target=\"_blank\">смотрите здесь</a><!--/noindex-->&nbsp;<br>  \n</p>",
+      "floorPlans": [
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/54c/pa3y4mfbonlv8o5doyorl5943m2qkwrw.webp",
+          "title": "1 Этаж"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/9d0/qgu0y165i6eda83r43k6mtuml3dt01s5.webp",
+          "title": "3-6 Этаж"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/11f/f1q3j0tt0b71wzxxflmr1gife9gjtjbh.webp",
+          "title": "7 Этаж"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/65d/7pfbexpmblcn3rau56n6pir454srrav8.webp",
+          "title": "Крыша"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/0ae/eyf5kha6t9r6zv7wzze1k7bfcvan3bho.webp",
+          "title": "Инфраструктура"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/4f1/tz4u1d4g26gsbvtecnp2z7b0iwzcky4c.webp",
+          "title": "Мастер"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/815/uecaa4o3h0ylifp39nsw0xxv9a0yhz9h.webp",
+          "title": "Мастер територия"
+        }
+      ],
+      "apartmentsLayouts": [
+        "https://royal-property.pro/upload/iblock/8ec/1dvd5x8w5308mp7vr18j56kugzz1rj59.webp",
+        "https://royal-property.pro/upload/iblock/0a4/5ou2jnq0aowku42ikry2w0b3kohgxtze.webp",
+        "https://royal-property.pro/upload/iblock/379/cpjx0tvxuk144s16r8lf2ptqhcs8jeoi.webp",
+        "https://royal-property.pro/upload/iblock/050/e30oyjblsk86kl4fayrnjzohhzp2ji3h.webp",
+        "https://royal-property.pro/upload/iblock/296/ztupv4rj0zgnzd64un5dorc56y8wuxa1.webp",
+        "https://royal-property.pro/upload/iblock/bd2/ethr8i5mema4kex0q8yxiq4qy6zrie85.webp"
+      ],
+      "apartments": [
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/phuket-property/the-title-katabello-1-bedroom-28-37-m/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/phuket-property/the-title-katabello-1-bedroom-plus-41-61-m/"
+        },
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/phuket-property/the-title-katabello-2-bedroom-66-71-m/"
+        }
       ]
     }
   },
@@ -1891,6 +2408,7 @@
     "title": "The Title ARTRIO Bang-Tao",
     "description": "Район: Bang Tao | До моря: 1.5 км\n Период строительства: 2024-2026 год\n Цены от: $125,000\n Доход от аренды: до 7% годовых",
     "link": "/zk/phuket-property/the-title-artrio-bang-tao/",
+    "id": "a18a3e05-3f3d-4d3b-85bb-d544ff5c4b5d",
     "detailedInfo": {
       "images": [
         "https://royal-property.pro/upload/iblock/0d3/r9cwxazh4kb1a0t2q19p42us0gc02dgf.webp",
@@ -2111,9 +2629,21 @@
         "https://royal-property.pro/upload/iblock/d3e/wy7nqd5wx2kdmxneju41j8qw0ln1eq76.webp"
       ],
       "apartments": [
-        "/flats/phuket-property/the-title-artrio-2-bedroom-66-92-m/",
-        "/flats/phuket-property/the-title-artrio-1-bedroom-l-40-58-m-/",
-        "/flats/phuket-property/the-title-artrio-1-bedroom-s-28-38-m-/"
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/phuket-property/the-title-artrio-2-bedroom-66-92-m/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/phuket-property/the-title-artrio-1-bedroom-l-40-58-m-/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/phuket-property/the-title-artrio-1-bedroom-s-28-38-m-/"
+        }
       ]
     }
   },
@@ -2122,27 +2652,36 @@
     "title": "AYANA Heights Пхукет Seaview Residence",
     "description": "Район: Лаян | До моря: 1,5 км\n Период строительства: середина 2024 – 4 квартал 2026\n Цены от: $ 109 000.\n Доход от аренды: от 7% годовых",
     "link": "/zk/phuket-property/ayana-heights-seaview-residence/",
+    "id": "717ae5c4-5369-407e-b390-4fe631af42a8",
     "detailedInfo": {
       "images": [
-        "https://royal-property.pro/upload/iblock/e31/pse5eqzc67upbbc8tyb4dq2bbksb9n0w.webp",
-        "https://royal-property.pro/upload/iblock/e6f/vsgnqx1kh0rsk87fwa2jrmsxzl4rc75t.webp",
-        "https://royal-property.pro/upload/iblock/8b9/0569wnjanftfvalncc5kr3stfcplncuf.webp",
-        "https://royal-property.pro/upload/iblock/9de/rsmx45opvibvqyvk4vui8hpj1ov7ulr7.webp",
-        "https://royal-property.pro/upload/iblock/882/bkiaym6l8vkn12fi2z4ymi26fmyokct2.webp",
-        "https://royal-property.pro/upload/iblock/dfb/mauf4hjbp8pb2ijpxup92vgefm74o1yq.webp",
-        "https://royal-property.pro/upload/iblock/c79/bkjhz4y08pxhfbh79f6b1l6an81wxqht.webp",
-        "https://royal-property.pro/upload/iblock/e0a/oxhl77b32lf71ydv5wzbs2nmmbvjqi4p.webp",
-        "https://royal-property.pro/upload/iblock/2e9/va6pt3385pw1bh5v9sbkr5euviqsn2w1.webp",
-        "https://royal-property.pro/upload/iblock/c01/z734aatx42s0opyx1qj6f40ir5h61zb0.webp",
-        "https://royal-property.pro/upload/iblock/6e0/ttsa0tqc1f2dhrodea9avjag2f5cnst2.webp",
-        "https://royal-property.pro/upload/iblock/36f/1fry9a4l70eyjdceqzhjk1omylepflwn.webp",
-        "https://royal-property.pro/upload/iblock/f66/w55dq2lv3c8q0km2llursnql2yb4107l.webp",
-        "https://royal-property.pro/upload/iblock/e5a/tzvslyepytlnfnlwpzdolsj167po5izx.webp",
-        "https://royal-property.pro/upload/iblock/19a/ur80v1101idhsvbeo4i5clpf93fexzjt.webp",
-        "https://royal-property.pro/upload/iblock/68d/e85woxt3kd5s1sduhxbthysqpo505euo.webp"
+        "https://royal-property.pro/upload/iblock/991/9srrhlzs1vaw6cosz0nktohon43fej5y.webp",
+        "https://royal-property.pro/upload/iblock/8a4/cng40m24mm80aiobusugy6b22c1s56v7.webp",
+        "https://royal-property.pro/upload/iblock/aec/6sjm37uninjj1za84oukbljo3wp6vhas.webp",
+        "https://royal-property.pro/upload/iblock/83f/kyyuvob87v47fq0pvk84kslr0cs07b5a.webp",
+        "https://royal-property.pro/upload/iblock/5ec/aovz07f5s8bcx380qd9kvonauhw5w1ty.webp",
+        "https://royal-property.pro/upload/iblock/fc4/i2ux634gsxsgrvq7y8zs3f31ga9hiec1.webp",
+        "https://royal-property.pro/upload/iblock/7ab/tc6g2ppa3kh6ge4s8jw6usplzq53s21u.webp",
+        "https://royal-property.pro/upload/iblock/4a6/amm21lvq8lbqjg9sn4gmhhdoxi2xzop4.webp",
+        "https://royal-property.pro/upload/iblock/735/65024u3oorovhh3j3oygm3p1v42n47be.webp",
+        "https://royal-property.pro/upload/iblock/87e/xajjd55o9rm1ftzl0wqntiwfb5jqfcnd.webp",
+        "https://royal-property.pro/upload/iblock/c32/edh4vu6y5e2kiin9diqe4nocr06m3o1y.webp",
+        "https://royal-property.pro/upload/iblock/9b8/t0zno1rjzprhj028alrlo3y3r06crczh.webp",
+        "https://royal-property.pro/upload/iblock/91f/bbw7b1xi3y4krx7ddf5bpt0knlrn9p8c.webp",
+        "https://royal-property.pro/upload/iblock/9c2/a8w8ftyweosc7k5dj0tgwmknnxvizzj3.webp",
+        "https://royal-property.pro/upload/iblock/76b/edqhclzmge7l48idafaycv7j7egf469o.webp",
+        "https://royal-property.pro/upload/iblock/fdc/sfafv50zt4e13v2dtz01u1jam8g7j5aq.webp",
+        "https://royal-property.pro/upload/iblock/582/izco39kqcu9o06d0moq7gday9bvs5ft3.webp",
+        "https://royal-property.pro/upload/iblock/469/6ol46x06387pa3tyqiahrkjus3wt7yql.webp",
+        "https://royal-property.pro/upload/iblock/779/2y8rb5gw4btt0lln7s4yq2cmz45j3abk.webp",
+        "https://royal-property.pro/upload/iblock/7a1/ogj3o8ir6jt48wan5g9hnkemcggf2owa.webp",
+        "https://royal-property.pro/upload/iblock/226/v5756l6fihb0zbnu1hin9biy47aycfjg.webp",
+        "https://royal-property.pro/upload/iblock/67f/ftel6diib6vbzbctio7pt9zf8ytd734c.webp",
+        "https://royal-property.pro/upload/iblock/a2b/yv9hag1yl3ms5oatktciw0kvbegkvjq1.webp",
+        "https://royal-property.pro/upload/iblock/b2f/cctj2xhdabnqeyq9scu6zkjmnwkt4ius.webp"
       ],
       "presaleText": "Желаете увеличить свой капитал? Мы предлагаем индивидуальный подход к каждому клиенту и гарантируем детальный расчет доходности вашего инвестирования. Нажмите кнопку ниже, чтобы оставить заявку и начать зарабатывать больше!",
-      "description": "<p>\n\t Район — Лаян<br>\n\t До пляжа — 1,5 км<br>\n\t Окончание строительства — 4 квартал 2026\n</p>\n<p>\n <b>Элитный Проект от Ведущего Застройщика на Пхукете: T.H. Group Phuket</b> теперь становится синонимом изысканной жизни на острове. Новейший проект, AYANA Heights, является плодом совместных усилий трех известных компаний: Hong Kong Safe Gold Group, Golden Invest Group и AUTA Group из Южной Австралии. Эти компании зарекомендовали себя благодаря успешной реализации проекта Sunshine Beach, расположенного на живописном побережье пляжа Лаян.\n</p>\n<p>\n\t AYANA Heights отличается уникальной архитектурой в стиле каскадного строительства. Благодаря этому, многие апартаменты могут похвастаться великолепным видом на море — настоящая редкость для кондоминиумов на Пхукете.\n</p>\n<h2>Инвестиционный Потенциал и Рост Стоимости</h2>\n<p>\n\t Первоначальная цена на недвижимость в комплексе составляла 100,000 бат за м². Сегодня она выросла до 228,000 бат за м², подтверждая высокий инвестиционный потенциал нашего проекта. Ожидаемая дата ввода в эксплуатацию — лето 2024 года. <br>\n\t AYANA Heights не просто жилье — это выгодный инвестиционный актив, который подойдет как для перепродажи, так и для сдачи в аренду.\n</p>\n<h2>Расположение</h2>\n<p>\n\t AYANA Heights расположен всего в 1 км от пляжа Лаян, в окружении национальных парков и тропической растительности, недалеко от знаменитого пляжа Банг Тао. Лаян — это уединенный рай с легким доступом ко всем городским удобствам. Все необходимое для комфортного отдыха и жизни находится в 10 минутах езды: торговый квартал Porto De Phuket, Boat Avenue, популярные бич клабы, пятизвездочные отели, гольф-поля, международные школы и СПА-центры.\n</p>\n<h2>О застройщике</h2>\n<p>\n <b>Инновационный Игрок на Рынке Недвижимости Пхукета – T.H. Group Phuket Co., Ltd.</b> Открывая новые горизонты на рынке недвижимости Пхукета, компания T.H. Group Phuket Co., Ltd. представляет себя как многообещающее и динамичное имя в этой индустрии. Образованная в результате стратегического союза трех ведущих игроков – Hong Kong Safe Gold Group, Golden Invest Group и AUTA Group из Южной Австралии, организация гордится своим первым выдающимся проектом в Таиланде – Sunshine Beach.\n</p>\n<p>\n <b>Sunshine Beach – Воплощение Элиты и Качества:</b> Будучи флагманским проектом T.H. Group в Таиланде, Sunshine Beach задает новые стандарты в сфере роскошной недвижимости. Они не только следуют высоким австралийским стандартам качества в строительстве, но и внедряют инновационные подходы и профессиональный опыт лучших сотрудников в каждый аспект разработки курортного комплекса.\n</p>\n<p>\n <b>Гарантия Надежности и Качества:</b> Строительство каждого проекта ведется с неизменной скоростью и высочайшим вниманием к деталям. Репутация основана на безупречном качестве и строгих стандартах – отражение чего видно в каждом квадратном метре объектов. С уставным капиталом в 475 миллионов бат и полной собственностью на землю всех проектов, T.H. Group гарантирует выполнение обязательств перед каждым клиентом.\n</p>\n<p>\n <br>\n</p>\n<p>\n\t Подробнее о районе Банг-Тао вы можете узнать в&nbsp; \n\t<!--noindex--><a href=\"/articles/bang-tao/\" rel=\"nofollow\" target=\"_blank\">этой статье</a><!--/noindex-->.\n</p>\n <br>",
+      "description": "<p>\n\t Район — Лаян<br>\n\t До пляжа — 1,5 км<br>\n\t Окончание строительства — 4 квартал 2026\n</p>\n<p>\n <b>Элитный проект от ведущего застройщика на Пхукете: T.H. Group Phuket</b> представляет AYANA Heights — новый уровень проживания в одном из самых живописных уголков острова. Этот проект создан совместными усилиями трех мощных компаний: Hong Kong Safe Gold Group, Golden Invest Group и AUTA Group из Южной Австралии, которые зарекомендовали себя успешной реализацией Sunshine Beach, расположенного на живописном побережье пляжа Лаян.\n</p>\n<p>\n\t AYANA Heights — это архитектурный шедевр, сочетающий каскадное строительство и панорамные виды на Андаманское море. Уникальная концепция проекта позволяет большинству апартаментов иметь вид на океан, а эргономичная планировка обеспечивает максимальный комфорт и приватность.\n</p>\n<h2>Инвестиционный потенциал и рост стоимости</h2>\n<p>\n\t Первоначальная цена на недвижимость в комплексе составляла 100,000 бат за м², а на сегодняшний день она выросла до 228,000 бат за м², что подчеркивает высокий инвестиционный потенциал проекта. Ожидаемая дата ввода в эксплуатацию — 4 квартал 2026 года.  \n\t AYANA Heights — это не просто жилье, а актив с высоким доходом, идеально подходящий как для перепродажи, так и для аренды благодаря востребованному местоположению и премиальному уровню сервиса.\n</p>\n<h2>Расположение</h2>\n<p>\n\t Проект находится всего в 1 км от пляжа Лаян, в окружении национальных парков и тропических пейзажей. Локация сочетает уединение и доступность ко всей необходимой инфраструктуре: в 10 минутах езды расположены торговые центры Porto De Phuket и Boat Avenue, престижные бич-клубы, гольф-клуб Laguna, международные школы, медицинские центры и пятизвездочные отели.\n</p>\n<h2>О застройщике</h2>\n<p>\n <b>Новатор в сфере недвижимости — T.H. Group Phuket Co., Ltd.</b> Компания представляет собой мощное объединение трех ведущих корпораций: Hong Kong Safe Gold Group, Golden Invest Group и AUTA Group. Их флагманский проект Sunshine Beach стал эталоном элитной недвижимости, задавая новый стандарт для курортного жилья на Пхукете.\n</p>\n<p>\n <b>Высокие стандарты строительства:</b> Все объекты компании возводятся по строгим австралийским стандартам, что гарантирует качество и долговечность. Инвесторы получают надежные активы с высокими перспективами роста.  \n</p>\n<p>\n <b>Финансовая стабильность:</b> С уставным капиталом в 475 миллионов бат и полной собственностью на земельные участки всех проектов, T.H. Group Phuket обеспечивает 100% выполнение обязательств перед клиентами.\n</p>\n<p>\n\t Подробнее о районе Банг-Тао вы можете узнать в&nbsp; \n\t<!--noindex--><a href=\"/articles/bang-tao/\" rel=\"nofollow\" target=\"_blank\">этой статье</a><!--/noindex-->.\n</p>\n <br>",
       "floorPlans": [
         {
           "imgSrc": "https://royal-property.pro/upload/iblock/d68/iqh9ticnf82rrk5ns0z27zwxypkx1tz5.jpeg",
@@ -2173,8 +2712,16 @@
         "https://royal-property.pro/upload/iblock/3db/3dbb41fa398a8b758a09acfc41fd6542.jpeg"
       ],
       "apartments": [
-        "/flats/phuket-property/ayana-heights-type-a-37/",
-        "/flats/phuket-property/ayana-heights-type-b1/"
+        {
+          "bedrooms": null,
+          "bathrooms": 1,
+          "link": "/flats/phuket-property/ayana-heights-type-a-37/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/phuket-property/ayana-heights-type-b1/"
+        }
       ]
     }
   },
@@ -2183,6 +2730,7 @@
     "title": "THE MODEVA",
     "description": "Район: Bang Tao | До моря: 200 км\n Период строительства: 2025-2026 год\n Цены от: $ 122 000\n Доход от аренды: от 7,5% годовых",
     "link": "/zk/phuket-property/the-modeva/",
+    "id": "a8d91bba-21e3-4a3a-8c09-5f501abfe446",
     "detailedInfo": {
       "images": [
         "https://royal-property.pro/upload/iblock/a94/9o82t5krxurpafzgjvt70aoal1zzz4ol.webp",
@@ -2313,74 +2861,112 @@
         "https://royal-property.pro/upload/iblock/b67/zngxw0vbkd8zepk1e7c59ppqlrk75i5l.webp"
       ],
       "apartments": [
-        "/flats/phuket-property/the-modeva-3-bedroom-130-148-m-/",
-        "/flats/phuket-property/the-modeva-2-bedroom-65-118-m-/",
-        "/flats/phuket-property/the-modeva-1-bedroom-29-58-m-/"
+        {
+          "bedrooms": 3,
+          "bathrooms": 3,
+          "link": "/flats/phuket-property/the-modeva-3-bedroom-130-148-m-/"
+        },
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/phuket-property/the-modeva-2-bedroom-65-118-m-/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/phuket-property/the-modeva-1-bedroom-29-58-m-/"
+        }
       ]
     }
   },
   {
     "selectorKey": "PhuketOffer",
-    "title": "The Title Katabello",
-    "description": "Район: Ката | До моря: 500 м\n Окончание строительства: 3 квартал 2027 года\n Цены от: 2 900 000 бат\n Современный комплекс от проверенного застройщика.",
-    "link": "/zk/phuket-property/the-title-katabello/",
+    "title": "THE BASE Cherngtalay",
+    "description": "Местоположение: Банг Тао | До моря: 2,6 км\n\t   Окончание строительства: Август 2026 года\n\t   Этажность: 8 этажей\n\t   Цены от: 2 890 000 бат (83 200 $) за квартиру",
+    "link": "/zk/phuket-property/the-base-cherngtalay/",
+    "id": "6199e560-0da1-4a96-9acd-72fb074bad7d",
     "detailedInfo": {
       "images": [
-        "https://royal-property.pro/upload/iblock/6bd/oa9b2bx5dkirx3r5ahxqy7mxlndwyei5.webp",
-        "https://royal-property.pro/upload/iblock/270/6pzzg17okyxleqipam5dyjl9021inens.webp",
-        "https://royal-property.pro/upload/iblock/481/s3ggtgl033fwo6dzxz8icjxs2kd0ov0q.webp",
-        "https://royal-property.pro/upload/iblock/bbb/qlctzco79plyvadpu9ni7n9059bixpbn.webp",
-        "https://royal-property.pro/upload/iblock/8f1/le78qeudvnycxgdxpbh2wh2z04i28w0b.webp",
-        "https://royal-property.pro/upload/iblock/52b/1pt2u0vatc6dhif3o7l7jporh4y9433j.webp",
-        "https://royal-property.pro/upload/iblock/cf0/w83ojyaf86khkg3w4fpvytoaiyp7duji.webp",
-        "https://royal-property.pro/upload/iblock/f6e/rp99q030693xxerq5mv377jbgpg6zzl3.webp",
-        "https://royal-property.pro/upload/iblock/3fe/1ovr87t4gjrd7v2v4m1wo6ck0xhnhvij.webp",
-        "https://royal-property.pro/upload/iblock/fc9/splcq5laaakm14vklbt3z41pfg8y0nai.webp"
+        "https://royal-property.pro/upload/iblock/719/5m7u6hmctzd7cdjxum0jbyyg3wksy5ru.webp",
+        "https://royal-property.pro/upload/iblock/993/pf3azi4mgeusm1iel2u96hlfj6b13wc4.webp",
+        "https://royal-property.pro/upload/iblock/3d9/fdb7sixfusede3u1hkruj9eik3240ohn.webp",
+        "https://royal-property.pro/upload/iblock/070/zht9ig26ymomojvry3btl913j7pex0xi.webp",
+        "https://royal-property.pro/upload/iblock/ed9/t4gbw6jkp485uhv78n3wvmd9iog8tll6.webp",
+        "https://royal-property.pro/upload/iblock/fee/r5er2f0qecytm7g7bsk1ye3fncrrtx9b.webp",
+        "https://royal-property.pro/upload/iblock/c28/h1wmafd3hp6d3oc3e91zz1fj7f34jpdj.webp",
+        "https://royal-property.pro/upload/iblock/f58/531651t867u69gifjdbgd0wkqjzb33th.webp",
+        "https://royal-property.pro/upload/iblock/e95/282eccyn1m0tjt22zcpvn6ylq77c5ac2.webp"
       ],
-      "presaleText": "Хороший доход от аренды в стабильной валюте и стартовая цена всего 2.9 млн бат. Отличная возможность инвестировать в готовый к проживанию комплекс на пляже Ката.",
-      "description": "<p>\n <b>Район:</b> Пляж Ката | <b>Расстояние до пляжа:</b> 500 м<br>\n <b>Окончание строительства:</b> 3 квартал 2027 года\n</p>\n<p>\n\t Katabello — новый средиземноморский жилой комплекс от надежных застройщиков Rhom Bho Property и Asset Wise. Проект включает 8 жилых корпусов на участке площадью 23 606 м². Уникальный дизайн и инфраструктура создают идеальные условия для комфортной жизни и инвестиций. Район Ката — это место, где не существует аналогичных предложений, что делает Katabello еще более привлекательным.\n</p>\n<p>\n</p>\n<h2>Специальное предложение:</h2>\n<p>\n\t Стартовая цена — всего 2.9 млн бат! Наслаждайтесь современными апартаментами с высокими потолками, зоной для домашних животных и удобным доступом к лучшим пляжам Пхукета.\n</p>\n<h2>Расположение:</h2>\n<p>\n\t Katabello находится в престижном районе пляжа Ката. Этот живописный уголок Пхукета славится белоснежным песком, прозрачной водой и коралловыми рифами. Пляжи Ката Ной и Ката Яй, а также остров Кох Пу идеально подходят для серфинга, дайвинга и отдыха на природе. Кроме того, проект расположен в популярном туристическом районе, который всегда востребован у арендаторов.\n</p>\n<p>\n\t Уникальное расположение: наслаждайтесь морем, уютной атмосферой и удобствами, находясь в шаговой доступности от всех необходимых инфраструктурных объектов. Близость к пляжу и отсутствие альтернатив в районе делают Katabello отличной инвестицией.\n</p>\n<h2>О застройщике:</h2>\n<p>\n\t Rhom Bho Property и Asset Wise — ведущие компании на рынке недвижимости, известные своими современными проектами высокого качества. Katabello — это сочетание стиля, инноваций и уюта, идеально подходящее для жизни и инвестиций. Застройщик имеет четкий план роста стоимости недвижимости, который включает:\n</p>\n<ul>\n  <li>1-я стадия: рост на 20%</li>\n  <li>2-я стадия: рост на 30%</li>\n  <li>3-я стадия: рост на 40% от первоначальной стоимости</li>\n</ul>\n<p>\n\t Подробнее о районе&nbsp; \n\t<!--noindex--><a href=\"/articles/kata/\" rel=\"nofollow\" target=\"_blank\">смотрите здесь</a><!--/noindex-->&nbsp;<br>\n</p>",
+      "presaleText": "- Разрешено проживание с животными на втором этаже корпуса B  \n- Квартиры от 27 м² до 63 м²  \n- Стоимость начинается от 2 890 000 бат (около 83 200 $)",
+      "description": "<p>  \n  <b>Местоположение:</b> THE BASE Cherngtalay расположен в районе Банг Тао, Чоэнг Тале, Таланг, Пхукет.<br>  \n  <b>Расстояние до пляжа:</b> 2,6 км до пляжа Банг Тао<br>  \n  <b>Окончание строительства:</b> Август 2026 года<br>  \n  <b>Этажность:</b> 8 этажей<br>  \n  <b>Количество зданий:</b> 2 здания<br>  \n  <b>Количество квартир:</b> 341 квартира<br>  \n  <b>Цены от:</b> 2 890 000 бат (83 200 $)<br>  \n</p>  \n<p>  \n  THE BASE Cherngtalay – это современный жилой комплекс, который привлекает своим стильным дизайном и развитой инфраструктурой. Комплекс находится в популярном районе Банг Тао, в шаговой доступности от лучших объектов инфраструктуры: международных школ, торговых центров, ресторанов и спортивных площадок.  \n</p>  \n<p>  \n  Проект предлагает комфортное проживание и отдых. Среди ключевых удобств – бассейн и горячий источник, фитнес-центр, коворкинг, органический сад и площадка для животных. Комплекс идеально подходит как для постоянного проживания, так и для инвестиции в арендный бизнес.  \n</p>  \n<h2>Расположение:</h2>  \n<p>  \n  Уникальное расположение позволяет наслаждаться природной красотой и быть всего в нескольких минутах от торгового центра Porto de Phuket, шопинг-комплекса Boat Avenue и Лагуны Пхукет.  \n</p>  \n<p>  \n  Для владельцев квартир предусмотрены продуманные условия: современные планировки, качественные материалы отделки и доступ к развитой инфраструктуре.  \n</p>  \n<h2>О застройщике:</h2>  \n<p>  \n  Застройщик Sansiri успешно развивается в Таиланде на протяжении 40 лет и входит в Топ-3 застройщиков по всему Королевству. Компания продолжала свою деятельность даже в период пандемии Covid, демонстрируя устойчивость и стабильность.  \n</p>  \n<p>  \n  Пост исполнительного директора долгое время занимал Сретта Тависин, недавно избранный премьер-министром Таиланда.  \n</p>  \n<p>  \n  На счету компании 439 реализованных проектов и более 120 000 единиц недвижимости. Sansiri предлагает широкий спектр недвижимости — от бюджетных квартир до элитной недвижимости с начальной ценой 11 000 $/м².  \n</p>  \n<p>  \n  Sansiri является компанией полного цикла, объединяющей архитектурное бюро, строительную компанию, управляющую компанию и пост-продажный сервис. Это гарантирует высокое качество на всех этапах реализации и управления проектами.  \n</p>  \n<p>  \n  Подробнее о районе Банг Тао вы можете узнать в <a target=\"_blank\" href=\"/articles/bang-tao/\">этой статье.</a>  \n</p>",
       "floorPlans": [
         {
-          "imgSrc": "https://royal-property.pro/upload/iblock/54c/pa3y4mfbonlv8o5doyorl5943m2qkwrw.webp",
-          "title": "1 Этаж"
+          "imgSrc": "https://royal-property.pro/upload/iblock/6a7/todqrk5vvqqk5rkhs9c3mh4l2arg56z7.jpeg",
+          "title": "Мастер План"
         },
         {
-          "imgSrc": "https://royal-property.pro/upload/iblock/9d0/qgu0y165i6eda83r43k6mtuml3dt01s5.webp",
-          "title": "3-6 Этаж"
+          "imgSrc": "https://royal-property.pro/upload/iblock/24e/ml4bc21o2rdbryiasw38n2ha05h80z60.jpeg",
+          "title": "2 Этаж"
         },
         {
-          "imgSrc": "https://royal-property.pro/upload/iblock/11f/f1q3j0tt0b71wzxxflmr1gife9gjtjbh.webp",
+          "imgSrc": "https://royal-property.pro/upload/iblock/643/8t20i2y9527fyo0zvktba651nxh913fe.jpeg",
+          "title": "3 Этаж"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/5fd/xnp0pmcpd6irpljiohmz3sb2mlsvon21.jpeg",
+          "title": "4 Этаж"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/284/ypmqidz4kl4o1jsnhf70j1rmlstvjf9p.jpeg",
+          "title": "5 Этаж"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/d2e/obyu2ymu4tm05mdge1f4p1lfro3gl50d.jpeg",
+          "title": "6 Этаж"
+        },
+        {
+          "imgSrc": "https://royal-property.pro/upload/iblock/4f4/n3sxo3n0dliaxqr1t30n0ljtskqn6gsn.jpeg",
           "title": "7 Этаж"
         },
         {
-          "imgSrc": "https://royal-property.pro/upload/iblock/65d/7pfbexpmblcn3rau56n6pir454srrav8.webp",
-          "title": "Крыша"
-        },
-        {
-          "imgSrc": "https://royal-property.pro/upload/iblock/0ae/eyf5kha6t9r6zv7wzze1k7bfcvan3bho.webp",
-          "title": "Инфраструктура"
-        },
-        {
-          "imgSrc": "https://royal-property.pro/upload/iblock/4f1/tz4u1d4g26gsbvtecnp2z7b0iwzcky4c.webp",
-          "title": "Мастер"
-        },
-        {
-          "imgSrc": "https://royal-property.pro/upload/iblock/815/uecaa4o3h0ylifp39nsw0xxv9a0yhz9h.webp",
-          "title": "Мастер територия"
+          "imgSrc": "https://royal-property.pro/upload/iblock/043/ptg7jftk00wie1ov7h34kfiy2sqtv0v9.jpeg",
+          "title": "8 Этаж"
         }
       ],
       "apartmentsLayouts": [
-        "https://royal-property.pro/upload/iblock/8ec/1dvd5x8w5308mp7vr18j56kugzz1rj59.webp",
-        "https://royal-property.pro/upload/iblock/0a4/5ou2jnq0aowku42ikry2w0b3kohgxtze.webp",
-        "https://royal-property.pro/upload/iblock/379/cpjx0tvxuk144s16r8lf2ptqhcs8jeoi.webp",
-        "https://royal-property.pro/upload/iblock/050/e30oyjblsk86kl4fayrnjzohhzp2ji3h.webp",
-        "https://royal-property.pro/upload/iblock/296/ztupv4rj0zgnzd64un5dorc56y8wuxa1.webp",
-        "https://royal-property.pro/upload/iblock/bd2/ethr8i5mema4kex0q8yxiq4qy6zrie85.webp"
+        "https://royal-property.pro/upload/iblock/2ca/63yfvin0ac7doakrmeyx2mfudboh0a67.jpeg",
+        "https://royal-property.pro/upload/iblock/6e4/gjswblfm5n8fx4nhzo91a4cdlcapwhrp.jpeg",
+        "https://royal-property.pro/upload/iblock/509/cqv3493xqovom6xacgcyag07f3pesnld.jpeg",
+        "https://royal-property.pro/upload/iblock/9aa/zg4rkcrwso96d8nq21i5u6xon3b2knor.jpeg",
+        "https://royal-property.pro/upload/iblock/84c/bmgshyvnuy19a6g3l1mbuj5eku1wz2tu.jpeg",
+        "https://royal-property.pro/upload/iblock/c5d/k31p8tjtekaf9o7n05tf87tf37ybqjat.jpeg",
+        "https://royal-property.pro/upload/iblock/f53/yrb6hteeeevumum4bbk7xxr449287swc.jpeg",
+        "https://royal-property.pro/upload/iblock/e99/xk0d01fwj2zdb9nxv4zna3lqa1sl6rpk.jpeg",
+        "https://royal-property.pro/upload/iblock/cae/w67ndthxeb6hifwynase1brl2j20rbkk.jpeg",
+        "https://royal-property.pro/upload/iblock/42c/tpkrardhwuesap5k7yn7yvrswtw9kc8d.jpeg",
+        "https://royal-property.pro/upload/iblock/9fe/ye9ynza5k6r0hg266zljqpxywj2ofatk.jpeg",
+        "https://royal-property.pro/upload/iblock/294/3dbmp0paou29odit18k3zqpl2695yg70.jpeg",
+        "https://royal-property.pro/upload/iblock/86e/kgicnh6xudwm8zt19o7cf5hxo7b34fte.jpeg",
+        "https://royal-property.pro/upload/iblock/621/v7lq170w5et9qe4q2zqtgmvvzbmm2ccz.jpeg",
+        "https://royal-property.pro/upload/iblock/ea3/d392ipqig1cafmdd819e4m5uo8k6cny0.jpeg",
+        "https://royal-property.pro/upload/iblock/aab/7vcda7xp66lyltvufg05mw6iza55rmy2.jpeg",
+        "https://royal-property.pro/upload/iblock/5a1/v3r0fcyvevan08g3j4so2107x9h9c7ba.jpeg",
+        "https://royal-property.pro/upload/iblock/172/6orahn0q6vqs0msmx1v8abk2y32r7i7z.jpeg",
+        "https://royal-property.pro/upload/iblock/192/dl3l931f22phv1ahh0m7yuhhvocfqodg.jpeg",
+        "https://royal-property.pro/upload/iblock/393/kku40buth1qfa1xl7i61vhiuc222posg.jpeg",
+        "https://royal-property.pro/upload/iblock/93b/eckfnp0580ywdm13pcnpymyyw4fwhrbg.jpeg"
       ],
       "apartments": [
-        "/flats/phuket-property/the-title-katabello-1-bedroom-28-37-m/",
-        "/flats/phuket-property/the-title-katabello-1-bedroom-plus-41-61-m/",
-        "/flats/phuket-property/the-title-katabello-2-bedroom-66-71-m/"
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/phuket-property/the-base-cherngtalay-2-bedroom-60-63-m/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/phuket-property/the-base-cherngtalay-1-bedroom-27-35-m/"
+        }
       ]
     }
   },
@@ -2389,6 +2975,7 @@
     "title": "The Title Serenity Пхукет",
     "description": "Район: Найянг | До моря: 450 м\n Период строительства: 3 квартал 2024 - 2 квартал 2026\n Цены от: $ 78 200\nДоход от аренды: от 7% годовых",
     "link": "/zk/phuket-property/the-title-serenity/",
+    "id": "7b967327-8950-4fe1-8ceb-83713ce8ba6e",
     "detailedInfo": {
       "images": [
         "https://royal-property.pro/upload/iblock/e31/e31d6688cbb9888b241ffdf77a2f69ad.jpeg",
@@ -2427,11 +3014,36 @@
         "https://royal-property.pro/upload/iblock/1da/1daeb8fee6663682ff4c9b5bfbcfabef.jpeg"
       ],
       "apartments": [
-        "/flats/phuket-property/the-title-serenity-3-bedroom-115m/",
-        "/flats/phuket-property/the-title-serenity-2-bedroom-56m/",
-        "/flats/phuket-property/the-title-serenity-1-bedroom-37m/",
-        "/flats/phuket-property/the-title-serenity-1-bedroom-30m/",
-        "/flats/phuket-property/vtorichnyy-rynok/the-title-serenity-2-bedroom-61m-e503/"
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/phuket-property/vtorichnyy-rynok/title-serenity-1-bedroom-32-m-c317/"
+        },
+        {
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "link": "/flats/phuket-property/the-title-serenity-3-bedroom-115m/"
+        },
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/phuket-property/the-title-serenity-2-bedroom-56m/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/phuket-property/the-title-serenity-1-bedroom-37m/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/phuket-property/the-title-serenity-1-bedroom-30m/"
+        },
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/phuket-property/vtorichnyy-rynok/the-title-serenity-2-bedroom-61m-e503/"
+        }
       ]
     }
   },
@@ -2440,6 +3052,7 @@
     "title": "Pier22 @Bangtao Beach",
     "description": "Район: Чоенг Тхале | До пляжа: 1.9 км\n Окончание строительства: Октябрь 2026\n Цены от: $100,000\nАпартаменты с современными удобствами в престижном районе рядом с пляжем.",
     "link": "/zk/phuket-property/pier22-bangtao-beach/",
+    "id": "ac161888-44bb-44f6-80f3-4451a1f8a974",
     "detailedInfo": {
       "images": [
         "https://royal-property.pro/upload/iblock/a32/iravz2k770c736bult283xq9fm4jqa4t.webp",
@@ -2516,10 +3129,26 @@
         "https://royal-property.pro/upload/iblock/276/84wwceaa4wahk29fgto1s576fwcn6ein.webp"
       ],
       "apartments": [
-        "/flats/phuket-property/pier22-bangtao-beach-2-bedroom-plus-66-70-m/",
-        "/flats/phuket-property/pier22-bangtao-beach-2-bedroom-57-70-m/",
-        "/flats/phuket-property/pier22-bangtao-beach-1-bedroom-plus-48-54-m-/",
-        "/flats/phuket-property/pier22-bangtao-beach-1-bedroom-37-43-m-/"
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/phuket-property/pier22-bangtao-beach-2-bedroom-plus-66-70-m/"
+        },
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/phuket-property/pier22-bangtao-beach-2-bedroom-57-70-m/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/phuket-property/pier22-bangtao-beach-1-bedroom-plus-48-54-m-/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/phuket-property/pier22-bangtao-beach-1-bedroom-37-43-m-/"
+        }
       ]
     }
   },
@@ -2528,6 +3157,7 @@
     "title": "Bamboo Forest",
     "description": "Район: Банг Тао | До пляжа: 1,3 км \n Окончание строительства: декабрь 2027 \n Цены от: $157 000 \nАпартаменты с изысканным дизайном и современными удобствами.",
     "link": "/zk/phuket-property/bamboo-forest/",
+    "id": "10d4d65c-3883-4441-a09d-951f70566bf6",
     "detailedInfo": {
       "images": [
         "https://royal-property.pro/upload/iblock/fa9/4zp9js5h002vnstv6u1r1lrlra3ijvpf.webp",
@@ -2649,9 +3279,21 @@
         "https://royal-property.pro/upload/iblock/f0e/63kozojyvnkko8f9o8tiwz4khf9dyo32.webp"
       ],
       "apartments": [
-        "/flats/phuket-property/bamboo-forest-2-bedroom-74-144-m/",
-        "/flats/phuket-property/bamboo-forest-1-bedroom-50-83-m/",
-        "/flats/phuket-property/bamboo-forest-studio-42-52-m/"
+        {
+          "bedrooms": 1,
+          "bathrooms": 2,
+          "link": "/flats/phuket-property/bamboo-forest-2-bedroom-74-144-m/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/phuket-property/bamboo-forest-1-bedroom-50-83-m/"
+        },
+        {
+          "bedrooms": null,
+          "bathrooms": 1,
+          "link": "/flats/phuket-property/bamboo-forest-studio-42-52-m/"
+        }
       ]
     }
   },
@@ -2660,6 +3302,7 @@
     "title": "The Ozone Signature Пхукет",
     "description": "Район: Бангтао | До моря: 2,8 км\n Окончание строительства: 4 квартал 2026\n Цены от: $ 101 500\n Близость к мировым гольф-полям, роскошным отелям и изысканным ресторанам",
     "link": "/zk/phuket-property/ozone-signature/",
+    "id": "79cf4bfe-d5e9-4557-8a39-3292d58f834d",
     "detailedInfo": {
       "images": [
         "https://royal-property.pro/upload/iblock/0ed/v8wssuagzlsbctv45m3vt03znlp2jqku.jpeg",
@@ -2709,10 +3352,26 @@
         "https://royal-property.pro/upload/iblock/49d/08ubn1pkjeklb3vm70czxgl59xwbd8sa.jpeg"
       ],
       "apartments": [
-        "/flats/phuket-property/vtorichnyy-rynok/ozone-signature-1-bedroom-37m-b111/",
-        "/flats/phuket-property/ozone-signature-3-bedroom-111m/",
-        "/flats/phuket-property/ozone-signature-2-bedroom-56m/",
-        "/flats/phuket-property/ozone-signature-1-bedroom-32-37m/"
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/phuket-property/vtorichnyy-rynok/ozone-signature-1-bedroom-37m-b111/"
+        },
+        {
+          "bedrooms": 3,
+          "bathrooms": 3,
+          "link": "/flats/phuket-property/ozone-signature-3-bedroom-111m/"
+        },
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/phuket-property/ozone-signature-2-bedroom-56m/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/phuket-property/ozone-signature-1-bedroom-32-37m/"
+        }
       ]
     }
   },
@@ -2721,6 +3380,7 @@
     "title": "The Title Heritage Пхукет",
     "description": "Район: Bang Tao | До моря: 2.5 км\n Период строительства: второй квартал 2024 – май 2026\n Цены от: $ 125 000\n Доход от аренды: от 8% годовых",
     "link": "/zk/phuket-property/the-title-heritage/",
+    "id": "661cac8e-df4e-494e-9caa-4a08172cf6e6",
     "detailedInfo": {
       "images": [
         "https://royal-property.pro/upload/iblock/f00/yihadczk5wnp2awej9al4g3etjvvvdm7.webp",
@@ -2747,7 +3407,7 @@
         "https://royal-property.pro/upload/iblock/9f7/tr713utlxq06zpb34ssfor0j0nstddn7.webp"
       ],
       "presaleText": "Мы уточним ваш бюджет и предпочтения, предоставим подробный расчёт доходности.\n\t Нажмите кнопку ниже, чтобы оставить заявку и усилить свои инвестиции!",
-      "description": "<p>  \n\t<b>Район:</b> Бангтао | <b>Расстояние до пляжа:</b> 2,5 км<br>  \n\t<b>Окончание строительства:</b> декабрь 2025  \n</p>  \n<p>  \n\tThe Title Heritage — это новейший жилой комплекс от Rhom Bho Property в престижном районе Бангтао, Пхукет. Проект включает семь семиэтажных зданий с современными апартаментами и два отдельных здания для парковки, что обеспечивает парковочные места для 80% квартир. Комплекс предлагает удобное расположение рядом с Porto de Phuket и Boat Avenue, предоставляя жильцам доступ к лучшим ресторанам, магазинам и зонам отдыха.  \n</p>  \n<p>\n\t Высокий спрос на аренду: Завершенные проекты этого застройщика всегда пользуются большим спросом, как в высокий, так и в низкий сезон.\n</p>\n<h2>Расположение:</h2>  \n<p>  \n\tThe Title Heritage находится всего в 2,5 км от пляжа Бангтао. Престижный район славится своей элитной инфраструктурой, красивыми пляжами, магазинами и ресторанами. Удобное расположение делает проект привлекательным как для проживания, так и для аренды.  \n</p>  \n<h2>О застройщике:</h2>  \n<p>  \n\tRhom Bho Property — признанный лидер в сфере недвижимости, основанный в 1989 году. В портфолио компании пять успешно реализованных проектов, включая Title Phase 1–3, Title Residence и Title V Rawai. Надежность застройщика гарантирует высокое качество строительства и исключительные стандарты жилья.  \n</p>  \n<p>  \n\tПодробнее о районе Бангтао вы можете <a target=\"_blank\" href=\"/articles/bang-tao/\">узнать тут</a>.  \n</p>",
+      "description": "<p>  \n\t<b>Район:</b> Бангтао | <b>Расстояние до пляжа:</b> 2,5 км<br>  \n\t<b>Окончание строительства:</b> декабрь 2025  \n</p>  \n<p>  \n\t<b>The Title Heritage</b> — новейший жилой комплекс от <b>Rhom Bho Property</b> в престижном районе Бангтао. Проект включает семь семиэтажных зданий с современными апартаментами и два отдельных здания для парковки, что обеспечивает места для 80% квартир. Комплекс расположен рядом с <b>Porto de Phuket</b> и <b>Boat Avenue</b>, крупнейшими торговыми и развлекательными центрами, предлагая жильцам доступ к лучшим ресторанам, бутикам и зонам отдыха.  \n</p>  \n<p>  \n\t<b>Идеален для инвестиций:</b> высокий спрос на аренду благодаря локации, качеству строительства и надежности застройщика. Завершенные проекты Rhom Bho Property неизменно востребованы как в высокий, так и в низкий сезон.  \n</p>  \n<h2>Расположение:</h2>  \n<p>  \n\t<b>The Title Heritage</b> находится в <b>элитном районе Бангтао</b>, всего в 2,5 км от живописного пляжа с белоснежным песком и лазурной водой. Этот район славится люксовыми курортами, элитными ресторанами и бутиками. Близость к пляжному клубу <b>Catch Beach Club</b> и гольф-клубу <b>Laguna</b> делает проект привлекательным как для отдыха, так и для долгосрочного проживания.  \n</p>  \n<h2>Почему стоит инвестировать?</h2>  \n<ul>  \n  <li>Топовая локация: рядом с Porto de Phuket и Boat Avenue</li>  \n  <li>Высокий спрос на аренду: проект востребован круглый год</li>  \n  <li>Парковка для 80% квартир — редкость для Пхукета</li>  \n</ul>  \n<h2>О застройщике:</h2>  \n<p>  \n\t<b>Rhom Bho Property</b> — лидер рынка недвижимости с 1989 года. В портфолио компании пять успешно реализованных проектов: Title Phase 1–3, Title Residence и Title V Rawai. Опыт, качество и надежность — главные принципы застройщика.  \n</p>  \n<p>  \n\tПодробнее о районе Бангтао вы можете <a target=\"_blank\" href=\"/articles/bang-tao/\">узнать тут</a>.  \n</p>",
       "floorPlans": [
         {
           "imgSrc": "https://royal-property.pro/upload/iblock/9f5/9f5ea99b4d73ed32fc3e1d4f1af3305a.jpeg",
@@ -2788,13 +3448,46 @@
         "https://royal-property.pro/upload/iblock/042/042a9d7c52e6f35d25767221e8252a42.jpg"
       ],
       "apartments": [
-        "/flats/phuket-property/vtorichnyy-rynok/the-title-heritage-1-bedroom-plus-56m-d510/",
-        "/flats/phuket-property/vtorichnyy-rynok/the-title-heritage-1-bedroom-36m-c505/",
-        "/flats/phuket-property/vtorichnyy-rynok/the-title-heritage-1-bedroom-32m-h510/",
-        "/flats/phuket-property/the-title-heritage-1-bedroom-56m/",
-        "/flats/phuket-property/the-title-heritage-1-bedroom-49m/",
-        "/flats/phuket-property/the-title-heritage-1-bedroom-37m/",
-        "/flats/phuket-property/the-title-heritage-1-bedroom-36m/"
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/phuket-property/vtorichnyy-rynok/the-title-heritage-1-bedroom-42-m-c603/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/phuket-property/vtorichnyy-rynok/the-title-heritage-1-bedroom-plus-56m-d510/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/phuket-property/vtorichnyy-rynok/the-title-heritage-1-bedroom-36m-c505/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/phuket-property/vtorichnyy-rynok/the-title-heritage-1-bedroom-32m-h510/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/phuket-property/the-title-heritage-1-bedroom-56m/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/phuket-property/the-title-heritage-1-bedroom-49m/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/phuket-property/the-title-heritage-1-bedroom-37m/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/phuket-property/the-title-heritage-1-bedroom-36m/"
+        }
       ]
     }
   },
@@ -2803,6 +3496,7 @@
     "title": "Sunshine Beach Resort",
     "description": "Местоположение: Чоэнг Тале | До моря: 50 метров\nОкончание строительства: 2025 год\nЭтажность: 4-5 этажей\nЦены от: 7,580,243 THB за квартиру",
     "link": "/zk/phuket-property/sunshine-beach-resort/",
+    "id": "031a6631-6170-4c75-b20e-cda9f506723c",
     "detailedInfo": {
       "images": [
         "https://royal-property.pro/upload/iblock/b3f/6w0h21pq08487avjcltt7j9b31zojhlt.jpg",
@@ -2867,7 +3561,11 @@
         "https://royal-property.pro/upload/iblock/9d9/a61165wxmkd3upo20li48li35n72goel.jpg"
       ],
       "apartments": [
-        "/flats/phuket-property/vtorichnyy-rynok/sunshine-beach-resort-2-bedroom-92m-building-d/"
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/phuket-property/vtorichnyy-rynok/sunshine-beach-resort-2-bedroom-92m-building-d/"
+        }
       ]
     }
   },
@@ -2876,6 +3574,7 @@
     "title": "Gardens of Eden - Park Residence",
     "description": "Местоположение:Чоэнг Тале | До моря: 50 метров\n Окончание строительства: Декабрь 2026 года\n Этажность: 7 этажей\n Цены от: 252 999 USD за квартиру",
     "link": "/zk/phuket-property/gardens-of-eden-park-residence/",
+    "id": "6280a337-c59f-407b-ae5c-d8eeb68e3fbe",
     "detailedInfo": {
       "images": [
         "https://royal-property.pro/upload/iblock/d68/iq50i3ht54rkllphnuxvax2ij7k48id2.webp",
@@ -2941,10 +3640,26 @@
         "https://royal-property.pro/upload/iblock/578/wcej0ayd5iw34ol177lup13rof6tz362.webp"
       ],
       "apartments": [
-        "/flats/phuket-property/eden-park-residence-3-bedroom-penthouses-206-m/",
-        "/flats/phuket-property/eden-park-residence-3-bedroom-122-161-m/",
-        "/flats/phuket-property/eden-park-residence-2-bedroom-79-112-m/",
-        "/flats/phuket-property/eden-park-residence-1-bedroom-47-63-m/"
+        {
+          "bedrooms": 3,
+          "bathrooms": 4,
+          "link": "/flats/phuket-property/eden-park-residence-3-bedroom-penthouses-206-m/"
+        },
+        {
+          "bedrooms": 3,
+          "bathrooms": 3,
+          "link": "/flats/phuket-property/eden-park-residence-3-bedroom-122-161-m/"
+        },
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/phuket-property/eden-park-residence-2-bedroom-79-112-m/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/phuket-property/eden-park-residence-1-bedroom-47-63-m/"
+        }
       ]
     }
   },
@@ -2953,6 +3668,7 @@
     "title": "Eden Residences",
     "description": "Местоположение: Лаян-Бич | До моря: 5 мин\n Окончание строительства: 4 квартал 2025 года\n Этажность: 4 этажа\n Цены от: 16 600 000 бат за 72 м²",
     "link": "/zk/phuket-property/eden-residences/",
+    "id": "57837939-071c-4027-b77b-ad263ad27bc7",
     "detailedInfo": {
       "images": [
         "https://royal-property.pro/upload/iblock/858/8guk1kg5a3ywidrgi5t25fto6z9wl7in.webp",
@@ -3009,10 +3725,26 @@
         "https://royal-property.pro/upload/iblock/bd7/5rrsn1dd3pr5fnamm0865xxqzg1y15j5.webp"
       ],
       "apartments": [
-        "/flats/phuket-property/eden-residences-4-bedroom-penthouses-381-m/",
-        "/flats/phuket-property/eden-residences-3-bedroom-179-230-m/",
-        "/flats/phuket-property/eden-residences-2-bedroom-105-260-m/",
-        "/flats/phuket-property/eden-residences-1-bedroom-72-75-m/"
+        {
+          "bedrooms": 4,
+          "bathrooms": 5,
+          "link": "/flats/phuket-property/eden-residences-4-bedroom-penthouses-381-m/"
+        },
+        {
+          "bedrooms": 3,
+          "bathrooms": 3,
+          "link": "/flats/phuket-property/eden-residences-3-bedroom-179-230-m/"
+        },
+        {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "link": "/flats/phuket-property/eden-residences-2-bedroom-105-260-m/"
+        },
+        {
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/phuket-property/eden-residences-1-bedroom-72-75-m/"
+        }
       ]
     }
   },
@@ -3021,6 +3753,7 @@
     "title": "Fantasea Condo Kamala Пхукет",
     "description": "Район: Камала | До моря: 1,5 км\n Период строительства: 4 квартал 2022 – 4 квартал 2024\n Цены от: $ 70 565\n Доход от аренды: от 7% годовых",
     "link": "/zk/phuket-property/fantasea-condo-kamala/",
+    "id": "fa8214b5-0ab8-4b26-94c2-7891509134cb",
     "detailedInfo": {
       "images": [
         "https://royal-property.pro/upload/iblock/ed3/c3yj2atnvzr6i939edzjuchu7ftzu4nr.jpg",
@@ -3056,87 +3789,21 @@
         "https://royal-property.pro/upload/iblock/62b/62b36f60e023fa3aeaaf623df2282932.jpg"
       ],
       "apartments": [
-        "/flats/phuket-property/fantasea-a207/",
-        "/flats/phuket-property/1-bedroom-34m-b308/",
-        "/flats/phuket-property/b211/"
-      ]
-    }
-  },
-  {
-    "selectorKey": "PhuketOffer",
-    "title": "The Title Cielo Rawai Пхукет",
-    "description": "Район: Раваи | До моря: 50 м\n Период строительства: 1 кв. 2025 – 3 кв. 2026\n Цены от: $ 112 000\n Доход от аренды: от 7% годовых",
-    "link": "/zk/phuket-property/the-title-cielo-rawai/",
-    "detailedInfo": {
-      "images": [
-        "https://royal-property.pro/upload/iblock/115/r3f87wqrtuodt955n6i2bvnjnyq7f1mb.webp",
-        "https://royal-property.pro/upload/iblock/b5d/rjwkadpe0b2x8uc38ne5oq40cg8snz36.webp",
-        "https://royal-property.pro/upload/iblock/e59/x33ehfxzg6n9q2irxos5h2pdy2lu5rmc.webp",
-        "https://royal-property.pro/upload/iblock/bf2/bk2atiocbfgyirm31k6bw0cjvxp9tc2a.webp",
-        "https://royal-property.pro/upload/iblock/1f5/sg8olwsdbenvcusucuw2y3k3euqm6o7d.webp",
-        "https://royal-property.pro/upload/iblock/211/ogj8rf1lki8h5x5hrh5a5sl5kt3q685n.webp",
-        "https://royal-property.pro/upload/iblock/995/kdaqgq1t8go5klkxsftly6j8vcptqj5e.webp",
-        "https://royal-property.pro/upload/iblock/e13/pi6hdpviuz9i8pyvne412sjz1ahgcmc3.webp",
-        "https://royal-property.pro/upload/iblock/ae4/hs8kvaxv5mrsyobca0qir8qpz364uv8c.webp",
-        "https://royal-property.pro/upload/iblock/ef2/8d1ul3jwu2x1vxrbmbmgh462nsni8tiy.webp",
-        "https://royal-property.pro/upload/iblock/07e/999hi998t3ou1ykm7caatpo6yjd3cx0p.webp",
-        "https://royal-property.pro/upload/iblock/2f2/5jxk9yw5hwsqdj759ewyq75vc8c0ptz4.webp",
-        "https://royal-property.pro/upload/iblock/bf6/bijnfe89o5yilpklqtn974kpl9k2mm6f.webp",
-        "https://royal-property.pro/upload/iblock/ad9/2kfqr9l21il8hfdjxjfu5lyd30po1ocr.webp",
-        "https://royal-property.pro/upload/iblock/cac/dxb4m9a8obx7rv07y8kzvc60i90v8dlv.webp"
-      ],
-      "presaleText": "Мы предлагаем эксклюзивные условия для тех, кто ценит уникальные предложения на рынке недвижимости. Индивидуальный подбор апартаментов с учетом ваших пожеланий делают этот проект особенно привлекательным. Ограниченное количество квартир и премиальные условия покупки подчёркивают уровень предложения. Не упустите шанс стать обладателем жилья в одном из самых престижных районов Пхукета по выгодной цене.",
-      "description": "<p>\n  <b>Характеристики:</b><br>\n  <b>Местоположение:</b> The Title Cielo Rawai расположен в районе Раваи, Пхукет.<br>\n  <b>Расстояние до пляжа:</b> 50 м<br>\n  <b>Окончание строительства:</b> 3 кв. 2026 года<br>\n  <b>Этажность:</b> 7 этажей<br>\n  <b>Количество квартир:</b> 171<br>\n</p>\n<p>\n  <b>Описание:</b><br>\n  The Title Cielo Rawai – это новый жилой комплекс на юге Пхукета, разработанный надежным застройщиком Rhom Bho Property. Комплекс расположен всего в 50 метрах от пляжа Раваи и включает 171 квартиру с уникальной планировкой, сочетающей комфорт и функциональность. Комплекс предлагает такие удобства, как семь бассейнов, спа-центр, фитнес-зал, зона коворкинга и библиотека, детская зона и парковка. Проект воплощает итальянскую эстетику в дизайне и создан для тех, кто ценит элегантность и комфорт.\n</p>\n<h2>Расположение:</h2>\n<p>\n  The Title Cielo Rawai находится в районе Раваи на южном побережье Пхукета. Этот район славится своим спокойным пляжем и развитой инфраструктурой для жизни и отдыха. Магазины, рестораны и развлекательные заведения находятся в шаговой доступности. Раваи – это идеальное место для тех, кто ищет гармоничное сочетание городской жизни и природной красоты.\n</p>\n<h2>О застройщике:</h2>\n<p>\n  Застройщик комплекса – Rhom Bho Property, тайская публичная компания, работающая на рынке недвижимости с 1989 года. На счету компании успешные проекты под брендом The Title, создающие атмосферу курортной жизни благодаря обилию зеленых зон и разнообразной инфраструктуре.\n</p>\n<p>\n  Подробнее о районе <a href=\"https://royal-property.pro/articles/ravai/\" target=\"_blank\">смотрите здесь</a>.\n</p>",
-      "floorPlans": [
         {
-          "imgSrc": "https://royal-property.pro/upload/iblock/750/b10z5a1pvwoyfa5t3k6wwawwzeacl1nt.jpeg",
-          "title": "Паркинг"
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/phuket-property/fantasea-a207/"
         },
         {
-          "imgSrc": "https://royal-property.pro/upload/iblock/de0/7z3jvsvj2a5lgo7e6yibzekcfbsaddni.jpeg",
-          "title": "Этаж 2"
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "link": "/flats/phuket-property/1-bedroom-34m-b308/"
         },
         {
-          "imgSrc": "https://royal-property.pro/upload/iblock/9f2/miwl0i3e1z00iokz2upvmmdw0gmwkwbw.jpeg",
-          "title": "Этаж 3"
-        },
-        {
-          "imgSrc": "https://royal-property.pro/upload/iblock/8b0/0pgv2e2tt4229p8nxjiukjt0tvo6c2jj.jpeg",
-          "title": "Этаж 4"
-        },
-        {
-          "imgSrc": "https://royal-property.pro/upload/iblock/c77/ajsjsnuz08kzbj3l64zmy75uv5t09dsd.jpeg",
-          "title": "Этаж 5"
+          "bedrooms": 2,
+          "bathrooms": 1,
+          "link": "/flats/phuket-property/b211/"
         }
-      ],
-      "apartmentsLayouts": [
-        "https://royal-property.pro/upload/iblock/056/rppxehv3kqowt1ty4dmdhz6h60kjdd86.webp",
-        "https://royal-property.pro/upload/iblock/5c3/b2f4t9xa6vjiwi3amh5dr4a3wg0iupew.webp",
-        "https://royal-property.pro/upload/iblock/b59/j3m6xfkmbpdg2h0u15n61n4an3qzaa8k.webp",
-        "https://royal-property.pro/upload/iblock/b4e/hriku5k27cb5rya0p1orxhjqie0pkjwf.webp",
-        "https://royal-property.pro/upload/iblock/dce/30kprlj1g0nu3lh1upv8hnf45ump0v2g.webp",
-        "https://royal-property.pro/upload/iblock/e98/j4eue8o08rlw62xp5q721cu6747au74r.webp",
-        "https://royal-property.pro/upload/iblock/9b4/higrhc79kf3rsejqo86wa0skngpnv5hi.webp",
-        "https://royal-property.pro/upload/iblock/adf/n05ufgtcrfo1xgdyz89t2u8aovz09u59.webp",
-        "https://royal-property.pro/upload/iblock/f73/n18iryoaoa1tbbhmj5dd6zvu65vitcc1.webp",
-        "https://royal-property.pro/upload/iblock/19b/l5b9qfdlbl6952tiijp5mwkeqf8b59ns.webp",
-        "https://royal-property.pro/upload/iblock/143/875943ks3ud4qq6coh5i6llhw3hi7arb.webp",
-        "https://royal-property.pro/upload/iblock/c34/debfy3e8cxhncvexi0vwc4zg2cz7wfty.webp",
-        "https://royal-property.pro/upload/iblock/0b1/j3u73qqrdl444zszqqedl23hq8gdvcoz.webp",
-        "https://royal-property.pro/upload/iblock/ce8/elxqkpuu4ecd815oci9bm2wc5bwiws2q.webp",
-        "https://royal-property.pro/upload/iblock/01a/y29xbmvqa3e146xl4x1x30audcokmdjn.webp",
-        "https://royal-property.pro/upload/iblock/09e/cxt9ha366rk4z5y7zfrc9scuglyz9n41.webp",
-        "https://royal-property.pro/upload/iblock/a2b/6ourlyz6y4mioxy07rj6bxo02hlxsxrd.webp",
-        "https://royal-property.pro/upload/iblock/dfd/477fzw63gzwx9ehexnk608yfypg3qcu5.webp",
-        "https://royal-property.pro/upload/iblock/2ef/551ey69jzjqpdwns9zhmq45v8qapkgb3.webp",
-        "https://royal-property.pro/upload/iblock/0e6/7213i4bks3oye78vfqkvi5vw5hnlapd6.webp",
-        "https://royal-property.pro/upload/iblock/3fd/egz70fwjkeyzipli6plhivadxxjzym4f.webp",
-        "https://royal-property.pro/upload/iblock/197/0bhbaidgizj2fsgkq1pyln4iqx6tmmqb.webp"
-      ],
-      "apartments": [
-        "/flats/phuket-property/the-title-cielo-rawai-2-bedroom-69-148-m-/",
-        "/flats/phuket-property/the-title-cielo-rawai-1-bedroom-plus-51-61-m-/",
-        "/flats/phuket-property/the-title-cielo-rawai-1-bedroom-31-51-m-/"
       ]
     }
   }
