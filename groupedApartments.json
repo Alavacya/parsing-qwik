@@ -9,11 +9,11 @@
     },
     "object_type": "1 bedroom",
     "floor": "2-36",
-    "quota": "Иностранная",
+    "quota": "Тайская",
     "furniture": "Полная меблировка и бытовая техника.",
     "prices": [
       {
-        "value": 71610,
+        "value": 73802,
         "currency": "USD",
         "symbol": "$"
       },
@@ -89,11 +89,11 @@
     },
     "object_type": "2 bedroom",
     "floor": "2-36",
-    "quota": "Иностранная",
+    "quota": "Тайская",
     "furniture": "Полная меблировка и бытовая техника.",
     "prices": [
       {
-        "value": 124183,
+        "value": 127985,
         "currency": "USD",
         "symbol": "$"
       },
@@ -157,11 +157,11 @@
     },
     "object_type": "3 bedroom",
     "floor": "34",
-    "quota": "Иностранная",
+    "quota": "Тайская",
     "furniture": "Полная меблировка и бытовая техника.",
     "prices": [
       {
-        "value": 459085,
+        "value": 473139,
         "currency": "USD",
         "symbol": "$"
       },
@@ -209,7 +209,7 @@
     "furniture": "стандартная-полная меблировка от застройщика",
     "prices": [
       {
-        "value": 106410,
+        "value": 109667,
         "currency": "USD",
         "symbol": "$"
       },
@@ -289,7 +289,7 @@
     "furniture": "стандартная-полная меблировка от застройщика",
     "prices": [
       {
-        "value": 314349,
+        "value": 323971,
         "currency": "USD",
         "symbol": "$"
       },
@@ -393,7 +393,7 @@
     "furniture": "стандартная-полная меблировка от застройщика",
     "prices": [
       {
-        "value": 205010,
+        "value": 211286,
         "currency": "USD",
         "symbol": "$"
       },
@@ -441,7 +441,7 @@
     "furniture": "стандартная-полная меблировка от застройщика",
     "prices": [
       {
-        "value": 136156,
+        "value": 140324,
         "currency": "USD",
         "symbol": "$"
       },
@@ -521,7 +521,7 @@
     "furniture": "квартира сдается с мебельным пакетом и комплектом бытовой техники.",
     "prices": [
       {
-        "value": 173684,
+        "value": 179001,
         "currency": "USD",
         "symbol": "$"
       },
@@ -567,7 +567,7 @@
     "furniture": "квартира сдается с мебельным пакетом и комплектом бытовой техники.",
     "prices": [
       {
-        "value": 80367,
+        "value": 82828,
         "currency": "USD",
         "symbol": "$"
       },
@@ -617,7 +617,7 @@
     "furniture": "квартира сдается с мебельным пакетом и комплектом бытовой техники.",
     "prices": [
       {
-        "value": 146149,
+        "value": 150622,
         "currency": "USD",
         "symbol": "$"
       },
@@ -697,7 +697,7 @@
     "furniture": "квартира сдается с мебельным пакетом и комплектом бытовой техники.",
     "prices": [
       {
-        "value": 97337,
+        "value": 100316,
         "currency": "USD",
         "symbol": "$"
       },
@@ -767,7 +767,7 @@
     "furniture": "квартира сдается с мебельным пакетом и комплектом бытовой техники.",
     "prices": [
       {
-        "value": 62881,
+        "value": 64806,
         "currency": "USD",
         "symbol": "$"
       },
@@ -827,7 +827,7 @@
     "furniture": "меблировка: Уточняйте у менеджера",
     "prices": [
       {
-        "value": 338525,
+        "value": 348888,
         "currency": "USD",
         "symbol": "$"
       },
@@ -889,7 +889,7 @@
     "furniture": "меблировка: Уточняйте у менеджера",
     "prices": [
       {
-        "value": 586030,
+        "value": 603969,
         "currency": "USD",
         "symbol": "$"
       },
@@ -951,7 +951,7 @@
     "furniture": "меблировка: Уточняйте у менеджера",
     "prices": [
       {
-        "value": 123752,
+        "value": 127541,
         "currency": "USD",
         "symbol": "$"
       },
@@ -1015,7 +1015,7 @@
     "furniture": "меблировка от застройщика",
     "prices": [
       {
-        "value": 491679,
+        "value": 506731,
         "currency": "USD",
         "symbol": "$"
       },
@@ -1063,7 +1063,7 @@
     "furniture": "меблировка от застройщика",
     "prices": [
       {
-        "value": 348861,
+        "value": 359541,
         "currency": "USD",
         "symbol": "$"
       },
@@ -1115,7 +1115,7 @@
     "furniture": "меблировка от застройщика",
     "prices": [
       {
-        "value": 161079,
+        "value": 166010,
         "currency": "USD",
         "symbol": "$"
       },
@@ -1169,7 +1169,7 @@
     "furniture": "меблировка от застройщика",
     "prices": [
       {
-        "value": 108334,
+        "value": 111650,
         "currency": "USD",
         "symbol": "$"
       },
@@ -1225,7 +1225,7 @@
     "furniture": "стандартная меблировка от застройщика",
     "prices": [
       {
-        "value": 115110,
+        "value": 118634,
         "currency": "USD",
         "symbol": "$"
       },
@@ -1277,7 +1277,7 @@
     "furniture": "стандартная меблировка от застройщика",
     "prices": [
       {
-        "value": 654826,
+        "value": 674871,
         "currency": "USD",
         "symbol": "$"
       },
@@ -1339,7 +1339,7 @@
     "furniture": "стандартная меблировка от застройщика",
     "prices": [
       {
-        "value": 166506,
+        "value": 171603,
         "currency": "USD",
         "symbol": "$"
       },
@@ -1395,7 +1395,7 @@
     "furniture": "стандартная меблировка от застройщика",
     "prices": [
       {
-        "value": 2088689,
+        "value": 2152629,
         "currency": "USD",
         "symbol": "$"
       },
@@ -1455,7 +1455,7 @@
     "furniture": "стандартная меблировка от застройщика",
     "prices": [
       {
-        "value": 341224,
+        "value": 351669,
         "currency": "USD",
         "symbol": "$"
       },
@@ -1509,7 +1509,7 @@
     "furniture": "меблировка от застройщика",
     "prices": [
       {
-        "value": 106869,
+        "value": 110141,
         "currency": "USD",
         "symbol": "$"
       },
@@ -1567,7 +1567,7 @@
     "furniture": "меблировка от застройщика",
     "prices": [
       {
-        "value": 97164,
+        "value": 100139,
         "currency": "USD",
         "symbol": "$"
       },
@@ -1623,7 +1623,7 @@
     "furniture": "меблировка от застройщика",
     "prices": [
       {
-        "value": 221003,
+        "value": 227768,
         "currency": "USD",
         "symbol": "$"
       },
@@ -1679,7 +1679,7 @@
     "furniture": "меблировка от застройщика",
     "prices": [
       {
-        "value": 127342,
+        "value": 131240,
         "currency": "USD",
         "symbol": "$"
       },
@@ -1721,7 +1721,7 @@
   },
   {
     "name": "Copacabana Coral Reef Condo – 1 bedroom (34.30 m)",
-    "description": "Продается 1-комнатная квартира в Copacabana Coral Reef Condo, Джомтьен. Площадь – 34 м², этажи с 22 по 28. Строящееся жилье, до пляжа 800 м. Цена: 3 515 015 THB. Элегантное жилье с современной отделкой от застройщика, удобное для проживания или аренды. Высокое качество строительства и престижное расположение делают эту квартиру выгодным приобретением.",
+    "description": "Продается 1-комнатная квартира в Copacabana Coral Reef Condo, Джомтьен. Площадь – 34 м², этажи с 22 по 28. Строящееся жилье, до пляжа 800 м. Цена: 3 752 400 THB. Элегантное жилье с современной отделкой от застройщика, удобное для проживания или аренды. Высокое качество строительства и престижное расположение делают эту квартиру выгодным приобретением.",
     "area": "Джомтьен",
     "size": {
       "value": 34.3,
@@ -1733,22 +1733,22 @@
     "furniture": "меблировка от застройщика",
     "prices": [
       {
-        "value": 100926,
+        "value": 111040,
         "currency": "USD",
         "symbol": "$"
       },
       {
-        "value": 10193544,
+        "value": 10881960,
         "currency": "RUB",
         "symbol": "₽"
       },
       {
-        "value": 784119,
+        "value": 837074,
         "currency": "CNY",
         "symbol": "¥"
       },
       {
-        "value": 3515015,
+        "value": 3752400,
         "currency": "THB",
         "symbol": "฿"
       }
@@ -1789,7 +1789,7 @@
     "furniture": "меблировка от застройщика",
     "prices": [
       {
-        "value": 119281,
+        "value": 122933,
         "currency": "USD",
         "symbol": "$"
       },
@@ -1831,7 +1831,7 @@
   },
   {
     "name": "Copacabana Coral Reef Condo – 2 bedroom (67.60 m)",
-    "description": "Продается 2-комнатная квартира в Copacabana Coral Reef Condo, Джомтьен. Площадь – 68 м², этажи с 9 по 46. Строящееся жилье, 800 м до пляжа. Стоимость: 8 011 000 THB. Просторная квартира с современной отделкой и качественными материалами. Отличное расположение обеспечивает близость к пляжу и местной инфраструктуре. Идеальный выбор для комфортного проживания в популярном районе Джомтьен.",
+    "description": "Продается 2-комнатная квартира в Copacabana Coral Reef Condo, Джомтьен. Площадь – 68 м², этажи с 9 по 46. Строящееся жилье, 800 м до пляжа. Стоимость: 9 515 646 THB. Просторная квартира с современной отделкой и качественными материалами. Отличное расположение обеспечивает близость к пляжу и местной инфраструктуре. Идеальный выбор для комфортного проживания в популярном районе Джомтьен.",
     "area": "Джомтьен",
     "size": {
       "value": 67.6,
@@ -1843,22 +1843,22 @@
     "furniture": "меблировка от застройщика",
     "prices": [
       {
-        "value": 230019,
+        "value": 281585,
         "currency": "USD",
         "symbol": "$"
       },
       {
-        "value": 23231900,
+        "value": 27595373,
         "currency": "RUB",
         "symbol": "₽"
       },
       {
-        "value": 1787069,
+        "value": 2122721,
         "currency": "CNY",
         "symbol": "¥"
       },
       {
-        "value": 8011000,
+        "value": 9515646,
         "currency": "THB",
         "symbol": "฿"
       }
@@ -1884,8 +1884,324 @@
     "parentId": "41155208e78dc13cbed8f0ec531642bb"
   },
   {
-    "name": "Embassy - 2 bedroom (55 м²)",
-    "description": "Продается 2-комнатная квартира в The Embassy, Джомтьен. Площадь – 55 м², этажи с 1 по 8. Строящееся жилье. Стоимость: 6 500 000 THB. Просторная квартира с современной отделкой и стандартной полной меблировкой, идеально подходит для семьи. Это предложение представляет собой отличное соотношение цены и качества в перспективном районе Джомтьен.",
+    "name": "Copacabana Coral Reef - (38.5 м²) ID537316",
+    "description": "Продается 1-комнатная квартира в комплексе Copacabana Coral Reef, Джомтьен. Площадь – 38.5 м². Готовое жилье с полной стандартной меблировкой от застройщика. Современное и удобное пространство с качественной отделкой. Отличное предложение для комфортного проживания или аренды у моря. Цена – 5 600 000 THB.",
+    "area": "Джомтьен",
+    "size": {
+      "value": 39,
+      "uom": "м2"
+    },
+    "object_type": "1 bedroom",
+    "floor": "36",
+    "quota": "Иностранная",
+    "furniture": "Полная мебелировка",
+    "prices": [
+      {
+        "value": 165714,
+        "currency": "USD",
+        "symbol": "$"
+      },
+      {
+        "value": 16240000,
+        "currency": "RUB",
+        "symbol": "₽"
+      },
+      {
+        "value": 1249231,
+        "currency": "CNY",
+        "symbol": "¥"
+      },
+      {
+        "value": 5600000,
+        "currency": "THB",
+        "symbol": "฿"
+      }
+    ],
+    "images": [
+      "https://royal-property.pro/upload/iblock/946/pako4b4t2mdh450d5tw245613i2cb4xo.jpeg",
+      "https://royal-property.pro/upload/iblock/8f3/6yutcjuckkf50h53gcf8oyxd4matpwy2.jpeg",
+      "https://royal-property.pro/upload/iblock/ac5/91r5fxc9kmhpe51mxi73pt9osvcsy448.jpeg",
+      "https://royal-property.pro/upload/iblock/969/6qde5cs7g3uax1fhzmxpn0qwbfpdx2pk.jpeg",
+      "https://royal-property.pro/upload/iblock/31f/w3x5a8lttcbnhx3djlznnf2arxhl3vhm.jpeg",
+      "https://royal-property.pro/upload/iblock/f86/hkp5v3k72sbqh52dkpn3yczfhwoqu2vh.jpeg",
+      "https://royal-property.pro/upload/iblock/a68/66x26m33er1sewu9ursqx5zpx3vn0odc.jpeg",
+      "https://royal-property.pro/upload/iblock/bbb/r4taznukf82g2mj9z50ihfvaly4cp398.jpeg",
+      "https://royal-property.pro/upload/iblock/c87/s19jvjlicfr5z4vuwy1ju3lst8279r5q.jpeg",
+      "https://royal-property.pro/upload/iblock/c00/4074htdladgsygsep86whhobd7apb7pa.jpeg",
+      "https://royal-property.pro/upload/iblock/97e/u61rrxp1c5lcr8vc422xqfuexx8sqw7b.jpeg",
+      "https://royal-property.pro/upload/iblock/48a/n17o65ha0p7908ufthfi0tw6xtoxxf8h.jpeg",
+      "https://royal-property.pro/upload/iblock/2bb/ogz2ow3mxu1mgz4bv4nn4p8duoo4ehz9.jpeg",
+      "https://royal-property.pro/upload/iblock/d63/ghznpl3htl9eu3d39s564wytfw4esad1.jpeg",
+      "https://royal-property.pro/upload/iblock/c66/j2zfgqcsqu36b9js76dku9gi3orfyqf2.jpeg",
+      "https://royal-property.pro/upload/iblock/711/hitvw0q0a1xtrjq680fssx3orom2018f.jpeg",
+      "https://royal-property.pro/upload/iblock/946/pako4b4t2mdh450d5tw245613i2cb4xo.jpeg",
+      "https://royal-property.pro/upload/iblock/8f3/6yutcjuckkf50h53gcf8oyxd4matpwy2.jpeg",
+      "https://royal-property.pro/upload/iblock/ac5/91r5fxc9kmhpe51mxi73pt9osvcsy448.jpeg",
+      "https://royal-property.pro/upload/iblock/969/6qde5cs7g3uax1fhzmxpn0qwbfpdx2pk.jpeg",
+      "https://royal-property.pro/upload/iblock/31f/w3x5a8lttcbnhx3djlznnf2arxhl3vhm.jpeg",
+      "https://royal-property.pro/upload/iblock/f86/hkp5v3k72sbqh52dkpn3yczfhwoqu2vh.jpeg",
+      "https://royal-property.pro/upload/iblock/a68/66x26m33er1sewu9ursqx5zpx3vn0odc.jpeg",
+      "https://royal-property.pro/upload/iblock/bbb/r4taznukf82g2mj9z50ihfvaly4cp398.jpeg",
+      "https://royal-property.pro/upload/iblock/c87/s19jvjlicfr5z4vuwy1ju3lst8279r5q.jpeg",
+      "https://royal-property.pro/upload/iblock/c00/4074htdladgsygsep86whhobd7apb7pa.jpeg",
+      "https://royal-property.pro/upload/iblock/97e/u61rrxp1c5lcr8vc422xqfuexx8sqw7b.jpeg",
+      "https://royal-property.pro/upload/iblock/48a/n17o65ha0p7908ufthfi0tw6xtoxxf8h.jpeg",
+      "https://royal-property.pro/upload/iblock/2bb/ogz2ow3mxu1mgz4bv4nn4p8duoo4ehz9.jpeg",
+      "https://royal-property.pro/upload/iblock/d63/ghznpl3htl9eu3d39s564wytfw4esad1.jpeg",
+      "https://royal-property.pro/upload/iblock/c66/j2zfgqcsqu36b9js76dku9gi3orfyqf2.jpeg",
+      "https://royal-property.pro/upload/iblock/711/hitvw0q0a1xtrjq680fssx3orom2018f.jpeg"
+    ],
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "country": "Таиланд",
+    "city": "Паттайа",
+    "link": "/flats/pattaya-property/secondary/copacabana-coral-reef-38-5-m-id537316/",
+    "id": "b28b72afd0da3152cc3d758f5fc6790f",
+    "parentId": "41155208e78dc13cbed8f0ec531642bb"
+  },
+  {
+    "name": "Copacabana Coral Reef - (38.6 м²) 31A04",
+    "description": "Продается 1-комнатная квартира в комплексе Copacabana Coral Reef, Джомтьен. Площадь – 39 м². Готовое жилье с полной стандартной меблировкой от застройщика. Современное и удобное пространство с качественной отделкой. Отличное предложение для комфортного проживания или аренды у моря. Цена – 6 600 000 THB.",
+    "area": "Джомтьен",
+    "size": {
+      "value": 39,
+      "uom": "м2"
+    },
+    "object_type": "1 bedroom",
+    "floor": "31",
+    "quota": "Иностранная",
+    "furniture": "Полная мебелировка",
+    "prices": [
+      {
+        "value": 195306,
+        "currency": "USD",
+        "symbol": "$"
+      },
+      {
+        "value": 19140000,
+        "currency": "RUB",
+        "symbol": "₽"
+      },
+      {
+        "value": 1472308,
+        "currency": "CNY",
+        "symbol": "¥"
+      },
+      {
+        "value": 6600000,
+        "currency": "THB",
+        "symbol": "฿"
+      }
+    ],
+    "images": [
+      "https://royal-property.pro/upload/iblock/f30/r7foeqeit849vt9wv13lbgn2r5ecd4c8.webp",
+      "https://royal-property.pro/upload/iblock/2c5/tqtpbryxdbajpbkql0f2cs2ecwl8iauu.webp",
+      "https://royal-property.pro/upload/iblock/2aa/to18d9ug2wz3br139nyiscvq39619ewh.webp",
+      "https://royal-property.pro/upload/iblock/219/fiyjivy6q9xto0sxuslft9btkxsunz0x.webp",
+      "https://royal-property.pro/upload/iblock/ebf/kb4i17ic8vapeiubqx7kvffervm911mr.webp",
+      "https://royal-property.pro/upload/iblock/7dd/hbr498pueicv4epo71grpijuu2i7vrig.webp",
+      "https://royal-property.pro/upload/iblock/172/3n5hhztacakx0yxgevb9sbqvviz149rb.webp",
+      "https://royal-property.pro/upload/iblock/609/dmvpbfokqxsijc8whkng0ds15gt9dfu3.webp",
+      "https://royal-property.pro/upload/iblock/10c/aujr5fl2fakyk4ug958msqkndgg3psu2.webp",
+      "https://royal-property.pro/upload/iblock/8fd/6dgz6w58yjze7ld0slkj3bkoo576o09k.webp",
+      "https://royal-property.pro/upload/iblock/dff/a677mjrtw7z3esnqltsw1xrctzf7mwvn.webp",
+      "https://royal-property.pro/upload/iblock/55e/wt4gfqgrl58uv6k4tnfzzvlsa0793j6x.webp",
+      "https://royal-property.pro/upload/iblock/b05/te7yja02xhm12xpxaoi20m4bhgj8sdn3.webp",
+      "https://royal-property.pro/upload/iblock/bfe/pr34m8xkajjmazjc4k40ufdqs9pxlqbr.webp",
+      "https://royal-property.pro/upload/iblock/da6/nc155q0j7b7nhod0q7sy83z7hf17ao72.webp",
+      "https://royal-property.pro/upload/iblock/d2a/5zpcx3l499gfbee88txcrlzohv117k99.jpg",
+      "https://royal-property.pro/upload/iblock/f30/r7foeqeit849vt9wv13lbgn2r5ecd4c8.webp",
+      "https://royal-property.pro/upload/iblock/2c5/tqtpbryxdbajpbkql0f2cs2ecwl8iauu.webp",
+      "https://royal-property.pro/upload/iblock/2aa/to18d9ug2wz3br139nyiscvq39619ewh.webp",
+      "https://royal-property.pro/upload/iblock/219/fiyjivy6q9xto0sxuslft9btkxsunz0x.webp",
+      "https://royal-property.pro/upload/iblock/ebf/kb4i17ic8vapeiubqx7kvffervm911mr.webp",
+      "https://royal-property.pro/upload/iblock/7dd/hbr498pueicv4epo71grpijuu2i7vrig.webp",
+      "https://royal-property.pro/upload/iblock/172/3n5hhztacakx0yxgevb9sbqvviz149rb.webp",
+      "https://royal-property.pro/upload/iblock/609/dmvpbfokqxsijc8whkng0ds15gt9dfu3.webp",
+      "https://royal-property.pro/upload/iblock/10c/aujr5fl2fakyk4ug958msqkndgg3psu2.webp",
+      "https://royal-property.pro/upload/iblock/8fd/6dgz6w58yjze7ld0slkj3bkoo576o09k.webp",
+      "https://royal-property.pro/upload/iblock/dff/a677mjrtw7z3esnqltsw1xrctzf7mwvn.webp",
+      "https://royal-property.pro/upload/iblock/55e/wt4gfqgrl58uv6k4tnfzzvlsa0793j6x.webp",
+      "https://royal-property.pro/upload/iblock/b05/te7yja02xhm12xpxaoi20m4bhgj8sdn3.webp",
+      "https://royal-property.pro/upload/iblock/bfe/pr34m8xkajjmazjc4k40ufdqs9pxlqbr.webp",
+      "https://royal-property.pro/upload/iblock/da6/nc155q0j7b7nhod0q7sy83z7hf17ao72.webp",
+      "https://royal-property.pro/upload/iblock/d2a/5zpcx3l499gfbee88txcrlzohv117k99.jpg"
+    ],
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "country": "Таиланд",
+    "city": "Паттайа",
+    "link": "/flats/pattaya-property/secondary/copacabana-coral-reef-38-6-m-31a04/",
+    "id": "1cd930349169aaf972f58e3532a88e08",
+    "parentId": "41155208e78dc13cbed8f0ec531642bb"
+  },
+  {
+    "name": "Once Wongamat - 3 bedroom (123-171 м²)",
+    "description": "Продается трехкомнатная квартира площадью от 123-171 м² в новом жилом комплексе Once Wongamat. Стартовая цена от: 33.894.000 бат. Квартиры расположены на 49 этаже, идеально подходит для иностранных покупателей. Этот объект сочетает комфорт и инвестиционную привлекательность.",
+    "area": "НаКлуа",
+    "size": {
+      "value": 123,
+      "uom": "м2"
+    },
+    "object_type": "3 bedroom",
+    "floor": "49",
+    "quota": "Иностранная",
+    "furniture": "Включает встроенную мебель",
+    "prices": [
+      {
+        "value": 1002986,
+        "currency": "USD",
+        "symbol": "$"
+      },
+      {
+        "value": 98292600,
+        "currency": "RUB",
+        "symbol": "₽"
+      },
+      {
+        "value": 7560969,
+        "currency": "CNY",
+        "symbol": "¥"
+      },
+      {
+        "value": 33894000,
+        "currency": "THB",
+        "symbol": "฿"
+      }
+    ],
+    "images": [
+      "https://royal-property.pro/upload/iblock/1bb/b3bp29vi6d77xrfspwhxopqvepfyb1ih.webp",
+      "https://royal-property.pro/upload/iblock/259/nzk47r5rleql63qmvpniow54rcfkjtnq.webp",
+      "https://royal-property.pro/upload/iblock/649/hixaha34fay15pr9ctys848ewr2c8ex0.webp",
+      "https://royal-property.pro/upload/iblock/a4e/kujgul3djyvsu59k1q0dmrylon0ywrni.webp",
+      "https://royal-property.pro/upload/iblock/db9/1tujqjq0xewnx600ra7jvcyff6fkmz3h.webp",
+      "https://royal-property.pro/upload/iblock/1bb/b3bp29vi6d77xrfspwhxopqvepfyb1ih.webp",
+      "https://royal-property.pro/upload/iblock/259/nzk47r5rleql63qmvpniow54rcfkjtnq.webp",
+      "https://royal-property.pro/upload/iblock/649/hixaha34fay15pr9ctys848ewr2c8ex0.webp",
+      "https://royal-property.pro/upload/iblock/a4e/kujgul3djyvsu59k1q0dmrylon0ywrni.webp",
+      "https://royal-property.pro/upload/iblock/db9/1tujqjq0xewnx600ra7jvcyff6fkmz3h.webp"
+    ],
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "country": "Таиланд",
+    "city": "Паттайа",
+    "link": "/flats/pattaya-property/developments/once-wongamat-3-bedroom-123-171-m-/",
+    "id": "c3194b92a781a5aac76dec5a95ca77d0",
+    "parentId": "791373fa4c1f519c7316ee3ea49b4c4b"
+  },
+  {
+    "name": "Once Wongamat - 2 bedroom (73-89 м²)",
+    "description": "Продается двухкомнатная квартира площадью от 73-89 м² в новом жилом комплексе Once Wongamat. Стартовая цена от: 19.070.000 бат. Квартиры расположены с 18-49 этаж, идеально подходит для иностранных покупателей. Этот объект сочетает комфорт и инвестиционную привлекательность.",
+    "area": "НаКлуа",
+    "size": {
+      "value": 73,
+      "uom": "м2"
+    },
+    "object_type": "2 bedroom",
+    "floor": "18-49",
+    "quota": "Иностранная",
+    "furniture": "Включает встроенную мебель",
+    "prices": [
+      {
+        "value": 564316,
+        "currency": "USD",
+        "symbol": "$"
+      },
+      {
+        "value": 55303000,
+        "currency": "RUB",
+        "symbol": "₽"
+      },
+      {
+        "value": 4254077,
+        "currency": "CNY",
+        "symbol": "¥"
+      },
+      {
+        "value": 19070000,
+        "currency": "THB",
+        "symbol": "฿"
+      }
+    ],
+    "images": [
+      "https://royal-property.pro/upload/iblock/647/put0535j9gum539fgpahr49u31eq0uu6.webp",
+      "https://royal-property.pro/upload/iblock/04f/u1ta5rpdwa7gqozvcnyeeo9v9j0z2cu6.webp",
+      "https://royal-property.pro/upload/iblock/19c/bkrzfu2nhs9zm4ag717cw6kcajnohlm6.webp",
+      "https://royal-property.pro/upload/iblock/36b/lcpiyuyikqihhuj7hn9u029n0fr6j3fn.webp",
+      "https://royal-property.pro/upload/iblock/0e8/hx6men8r50701ak2c4jozix6xk8tsooz.webp",
+      "https://royal-property.pro/upload/iblock/71e/4ov2aef6ttaqf60gldra0dyarn8ek16f.webp",
+      "https://royal-property.pro/upload/iblock/647/put0535j9gum539fgpahr49u31eq0uu6.webp",
+      "https://royal-property.pro/upload/iblock/04f/u1ta5rpdwa7gqozvcnyeeo9v9j0z2cu6.webp",
+      "https://royal-property.pro/upload/iblock/19c/bkrzfu2nhs9zm4ag717cw6kcajnohlm6.webp",
+      "https://royal-property.pro/upload/iblock/36b/lcpiyuyikqihhuj7hn9u029n0fr6j3fn.webp",
+      "https://royal-property.pro/upload/iblock/0e8/hx6men8r50701ak2c4jozix6xk8tsooz.webp",
+      "https://royal-property.pro/upload/iblock/71e/4ov2aef6ttaqf60gldra0dyarn8ek16f.webp"
+    ],
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "country": "Таиланд",
+    "city": "Паттайа",
+    "link": "/flats/pattaya-property/developments/once-wongamat-2-bedroom-73-89-m-/",
+    "id": "40f58a9f4f52c19a1bf03779bdd7ae3d",
+    "parentId": "791373fa4c1f519c7316ee3ea49b4c4b"
+  },
+  {
+    "name": "Once Wongamat - 1 bedroom (34-56 м²)",
+    "description": "Продается однокомнатная квартира площадью от 34-56 м² в новом жилом комплексе Once Wongamat. Стартовая цена от: 6.840.000 бат. Квартиры расположены с 18-45 этаж, идеально подходит для иностранных покупателей. Этот объект сочетает комфорт и инвестиционную привлекательность.",
+    "area": "НаКлуа",
+    "size": {
+      "value": 34,
+      "uom": "м2"
+    },
+    "object_type": "1 bedroom",
+    "floor": "18-45",
+    "quota": "Иностранная",
+    "furniture": "Включает встроенную мебель",
+    "prices": [
+      {
+        "value": 202408,
+        "currency": "USD",
+        "symbol": "$"
+      },
+      {
+        "value": 19836000,
+        "currency": "RUB",
+        "symbol": "₽"
+      },
+      {
+        "value": 1525846,
+        "currency": "CNY",
+        "symbol": "¥"
+      },
+      {
+        "value": 6840000,
+        "currency": "THB",
+        "symbol": "฿"
+      }
+    ],
+    "images": [
+      "https://royal-property.pro/upload/iblock/920/ovfcpppfolfywfmz9gpl82qbgwas1pjs.webp",
+      "https://royal-property.pro/upload/iblock/b60/jirct38phj6azdixlcx0jw37stw7pd3y.webp",
+      "https://royal-property.pro/upload/iblock/d13/jgo16fw8zw2yqqlckzlo3z7efn7vu730.webp",
+      "https://royal-property.pro/upload/iblock/31e/10pe9rxzasvfn405wq7jc36pfmjug59h.webp",
+      "https://royal-property.pro/upload/iblock/c9b/sqe0lvj0zc7eu1fj8iizkh96sj6fljat.webp",
+      "https://royal-property.pro/upload/iblock/920/ovfcpppfolfywfmz9gpl82qbgwas1pjs.webp",
+      "https://royal-property.pro/upload/iblock/b60/jirct38phj6azdixlcx0jw37stw7pd3y.webp",
+      "https://royal-property.pro/upload/iblock/d13/jgo16fw8zw2yqqlckzlo3z7efn7vu730.webp",
+      "https://royal-property.pro/upload/iblock/31e/10pe9rxzasvfn405wq7jc36pfmjug59h.webp",
+      "https://royal-property.pro/upload/iblock/c9b/sqe0lvj0zc7eu1fj8iizkh96sj6fljat.webp"
+    ],
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "country": "Таиланд",
+    "city": "Паттайа",
+    "link": "/flats/pattaya-property/developments/once-wongamat-1-bedroom-34-56-m-/",
+    "id": "21957c5ccd075504dd8b70f706ac4e80",
+    "parentId": "791373fa4c1f519c7316ee3ea49b4c4b"
+  },
+  {
+    "name": "Embassy - 2 bedroom (55 м²) ID537306",
+    "description": "Продается 2-комнатная квартира в The Embassy, Джомтьен. Площадь – 55 м², этаж 8. Строящееся жилье. Стоимость: 6 480 000 THB. Просторная квартира с современной отделкой и стандартной полной меблировкой, идеально подходит для семьи. Это предложение представляет собой отличное соотношение цены и качества в перспективном районе Джомтьен.",
     "area": "Джомтьен",
     "size": {
       "value": 55,
@@ -1897,22 +2213,22 @@
     "furniture": "Стандартная-полная меблировка от застройщика",
     "prices": [
       {
-        "value": 186634,
+        "value": 191755,
         "currency": "USD",
         "symbol": "$"
       },
       {
-        "value": 18850000,
+        "value": 18792000,
         "currency": "RUB",
         "symbol": "₽"
       },
       {
-        "value": 1450000,
+        "value": 1445538,
         "currency": "CNY",
         "symbol": "¥"
       },
       {
-        "value": 6500000,
+        "value": 6480000,
         "currency": "THB",
         "symbol": "฿"
       }
@@ -1924,7 +2240,6 @@
       "https://royal-property.pro/upload/iblock/ab0/1wae9369oj0rzmjing8kwttbcp593ku5.webp",
       "https://royal-property.pro/upload/iblock/e0d/seydx6pkn9qkly86g2x0905xmu2l0scn.webp",
       "https://royal-property.pro/upload/iblock/a7c/31a2eqaruniv5tygqguinf7ypxmkjqs6.webp",
-      "https://royal-property.pro/upload/iblock/fe8/zhuwkacvtb93z32powds6782b461bvdw.webp",
       "https://royal-property.pro/upload/iblock/d2c/nld4upkef9urw442aje0e26akg23hezf.webp",
       "https://royal-property.pro/upload/iblock/d8c/3de67vcevwgiqg00a6nm82gc72l3p1pe.webp",
       "https://royal-property.pro/upload/iblock/f5f/7mvw8qmwodl3c7z3tzykbdn4j2qw69ky.webp",
@@ -1945,7 +2260,6 @@
       "https://royal-property.pro/upload/iblock/ab0/1wae9369oj0rzmjing8kwttbcp593ku5.webp",
       "https://royal-property.pro/upload/iblock/e0d/seydx6pkn9qkly86g2x0905xmu2l0scn.webp",
       "https://royal-property.pro/upload/iblock/a7c/31a2eqaruniv5tygqguinf7ypxmkjqs6.webp",
-      "https://royal-property.pro/upload/iblock/fe8/zhuwkacvtb93z32powds6782b461bvdw.webp",
       "https://royal-property.pro/upload/iblock/d2c/nld4upkef9urw442aje0e26akg23hezf.webp",
       "https://royal-property.pro/upload/iblock/d8c/3de67vcevwgiqg00a6nm82gc72l3p1pe.webp",
       "https://royal-property.pro/upload/iblock/f5f/7mvw8qmwodl3c7z3tzykbdn4j2qw69ky.webp",
@@ -1965,8 +2279,8 @@
     "bathrooms": null,
     "country": "Таиланд",
     "city": "Паттайа",
-    "link": "/flats/pattaya-property/secondary/embassy-2-bedroom-55-m/",
-    "id": "7620e0bc1d49af83c03ee489b21c2ee6",
+    "link": "/flats/pattaya-property/secondary/embassy-2-bedroom-55-m-id537306/",
+    "id": "d212d09277cb5af8318552c8bb39851c",
     "parentId": "90686c581829cbc6f31c6c22a1ff52b4"
   },
   {
@@ -1983,7 +2297,7 @@
     "furniture": "стандартная-полная меблировка от застройщика",
     "prices": [
       {
-        "value": 82980,
+        "value": 85520,
         "currency": "USD",
         "symbol": "$"
       },
@@ -2065,7 +2379,7 @@
     "furniture": "стандартная-полная меблировка от застройщика",
     "prices": [
       {
-        "value": 128921,
+        "value": 132867,
         "currency": "USD",
         "symbol": "$"
       },
@@ -2175,7 +2489,7 @@
     "furniture": "меблировка от застройщика",
     "prices": [
       {
-        "value": 69514,
+        "value": 71642,
         "currency": "USD",
         "symbol": "$"
       },
@@ -2243,7 +2557,7 @@
     "furniture": "меблировка от застройщика",
     "prices": [
       {
-        "value": 52556,
+        "value": 54165,
         "currency": "USD",
         "symbol": "$"
       },
@@ -2315,7 +2629,7 @@
     "furniture": "меблировка от застройщика",
     "prices": [
       {
-        "value": 197500,
+        "value": 203546,
         "currency": "USD",
         "symbol": "$"
       },
@@ -2394,7 +2708,173 @@
     "parentId": "4acb5c6d60016f3b1dc40a18fec01d34"
   },
   {
-    "name": "The Riviera Malibu - 1 bedroom (36 м²)",
+    "name": "The Riviera Malibu - 1 bedroom (46 м²) ID537350",
+    "description": "Перепродажа однокомнатной квартиры площадью 46 м² в новом жилом комплексе Riviera Malibu. Цена: 7 900 000 бат. Квартира расположена на 20 этаже и идеально подходит для иностранных покупателей (Квартира на ИНОСТРАННОЙ квоте).\nФронтальный вид на море\nЛюкс отделка и джакузи на балконе\nОстаток застройщику : 50% - 3,864,000\nНа смену имени: 4,036,000\nЭта квартира является отличным выбором для комфортного проживания и выгодных инвестиций. Не упустите возможность стать владельцем этого прекрасного объекта!",
+    "area": "Пратумнак",
+    "size": {
+      "value": 46,
+      "uom": "м2"
+    },
+    "object_type": "1 bedroom",
+    "floor": "20",
+    "quota": "Иностранная",
+    "furniture": "Полная меблировка и бытовая техника.",
+    "prices": [
+      {
+        "value": 233776,
+        "currency": "USD",
+        "symbol": "$"
+      },
+      {
+        "value": 22910000,
+        "currency": "RUB",
+        "symbol": "₽"
+      },
+      {
+        "value": 1762308,
+        "currency": "CNY",
+        "symbol": "¥"
+      },
+      {
+        "value": 7900000,
+        "currency": "THB",
+        "symbol": "฿"
+      }
+    ],
+    "images": [
+      "https://royal-property.pro/upload/iblock/94c/e4tudbp4uhqojlj9klcc67h6vjxgmx99.jpg",
+      "https://royal-property.pro/upload/iblock/8a4/tmcpc6jep5aqkw58h2jwuz6z3f0ol6z4.jpg",
+      "https://royal-property.pro/upload/iblock/ef1/4chpcmnmcqap0kjxzl6raaqg1o983mkf.jpg",
+      "https://royal-property.pro/upload/iblock/ca8/27myctr1j38g100fwrhnekmpn44acqhr.jpg",
+      "https://royal-property.pro/upload/iblock/546/v0akq04cxismxfax2fc1ybgdy1pxkb98.webp",
+      "https://royal-property.pro/upload/iblock/94c/e4tudbp4uhqojlj9klcc67h6vjxgmx99.jpg",
+      "https://royal-property.pro/upload/iblock/8a4/tmcpc6jep5aqkw58h2jwuz6z3f0ol6z4.jpg",
+      "https://royal-property.pro/upload/iblock/ef1/4chpcmnmcqap0kjxzl6raaqg1o983mkf.jpg",
+      "https://royal-property.pro/upload/iblock/ca8/27myctr1j38g100fwrhnekmpn44acqhr.jpg",
+      "https://royal-property.pro/upload/iblock/546/v0akq04cxismxfax2fc1ybgdy1pxkb98.webp"
+    ],
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "country": "Таиланд",
+    "city": "Паттайа",
+    "link": "/flats/pattaya-property/secondary/the-riviera-malibu-1-bedroom-46-m-id537350/",
+    "id": "9bf9d5c2507a81142950bae57af78d1e",
+    "parentId": "9f891336c3ed5e3546c6aad943d83fd1"
+  },
+  {
+    "name": "The Riviera Malibu - 1 bedroom (34 м²) ID537311",
+    "description": "Перепродажа однокомнатной квартиры площадью 34 м² в новом жилом комплексе Riviera Malibu. Цена: 5 215 000 бат. Квартира расположена на 7 этаже и идеально подходит для иностранных покупателей (Квартира на тайской квоте). Эта квартира является отличным выбором для комфортного проживания и выгодных инвестиций. Не упустите возможность стать владельцем этого прекрасного объекта!",
+    "area": "Пратумнак",
+    "size": {
+      "value": 34,
+      "uom": "м2"
+    },
+    "object_type": "1 bedroom",
+    "floor": "7",
+    "quota": "Тайская",
+    "furniture": "Полная меблировка и бытовая техника.",
+    "prices": [
+      {
+        "value": 154321,
+        "currency": "USD",
+        "symbol": "$"
+      },
+      {
+        "value": 15123500,
+        "currency": "RUB",
+        "symbol": "₽"
+      },
+      {
+        "value": 1163346,
+        "currency": "CNY",
+        "symbol": "¥"
+      },
+      {
+        "value": 5215000,
+        "currency": "THB",
+        "symbol": "฿"
+      }
+    ],
+    "images": [
+      "https://royal-property.pro/upload/iblock/df0/88gm8j44460vyiwh88z58osxzmg8nijn.jpg",
+      "https://royal-property.pro/upload/iblock/00f/4nx8dwrhboygeyhynjm3ms24pewazboq.jpg",
+      "https://royal-property.pro/upload/iblock/843/wzb8shwkbv1vw4djxwjuzcl7ba5uc9ps.jpg",
+      "https://royal-property.pro/upload/iblock/fe6/57x6at57kwinf1x9de8n23eo9b5j2p55.jpeg",
+      "https://royal-property.pro/upload/iblock/21a/9g0m3ylm3dfym5qokvzzurimy94a86h6.jpg",
+      "https://royal-property.pro/upload/iblock/b9b/w3a46qnde8971gxqwskywehml1i2snik.jpeg",
+      "https://royal-property.pro/upload/iblock/df0/88gm8j44460vyiwh88z58osxzmg8nijn.jpg",
+      "https://royal-property.pro/upload/iblock/00f/4nx8dwrhboygeyhynjm3ms24pewazboq.jpg",
+      "https://royal-property.pro/upload/iblock/843/wzb8shwkbv1vw4djxwjuzcl7ba5uc9ps.jpg",
+      "https://royal-property.pro/upload/iblock/fe6/57x6at57kwinf1x9de8n23eo9b5j2p55.jpeg",
+      "https://royal-property.pro/upload/iblock/21a/9g0m3ylm3dfym5qokvzzurimy94a86h6.jpg",
+      "https://royal-property.pro/upload/iblock/b9b/w3a46qnde8971gxqwskywehml1i2snik.jpeg"
+    ],
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "country": "Таиланд",
+    "city": "Паттайа",
+    "link": "/flats/pattaya-property/secondary/the-riviera-malibu-1-bedroom-34-m-id537311/",
+    "id": "e389aef78190ef41c4e8c63a63a5af1c",
+    "parentId": "9f891336c3ed5e3546c6aad943d83fd1"
+  },
+  {
+    "name": "The Riviera Malibu - 1 bedroom (31 м²) ID537310",
+    "description": "Перепродажа однокомнатной квартиры площадью 31 м² в новом жилом комплексе Riviera Malibu. Цена: 5 180 000 бат. Квартира расположена на 10 этаже и идеально подходит для иностранных покупателей (Квартира на тайской квоте). Эта квартира является отличным выбором для комфортного проживания и выгодных инвестиций. Не упустите возможность стать владельцем этого прекрасного объекта!",
+    "area": "Пратумнак",
+    "size": {
+      "value": 31,
+      "uom": "м2"
+    },
+    "object_type": "1 bedroom",
+    "floor": "8",
+    "quota": "Тайская",
+    "furniture": "Полная меблировка и бытовая техника.",
+    "prices": [
+      {
+        "value": 153286,
+        "currency": "USD",
+        "symbol": "$"
+      },
+      {
+        "value": 15022000,
+        "currency": "RUB",
+        "symbol": "₽"
+      },
+      {
+        "value": 1155538,
+        "currency": "CNY",
+        "symbol": "¥"
+      },
+      {
+        "value": 5180000,
+        "currency": "THB",
+        "symbol": "฿"
+      }
+    ],
+    "images": [
+      "https://royal-property.pro/upload/iblock/3c3/90bmwrzogq50mni2dvmay5kg6i272t5f.jpg",
+      "https://royal-property.pro/upload/iblock/d5f/z0g51p32j9vkstpeiuk14m8ptyilnq9o.jpg",
+      "https://royal-property.pro/upload/iblock/fe2/6m2bmcu9rkor5gibq51yckac2lz7jvzh.jpg",
+      "https://royal-property.pro/upload/iblock/fc5/3z9tzdfr3sl0dt4nlblovhro3i02y1f9.jpg",
+      "https://royal-property.pro/upload/iblock/193/4jrkss96257ydnu0mnn9iotzvqefqtuz.jpeg",
+      "https://royal-property.pro/upload/iblock/c1d/zvavx1ww3awf2q9zgdwe7bt22t7cbep8.jpeg",
+      "https://royal-property.pro/upload/iblock/3c3/90bmwrzogq50mni2dvmay5kg6i272t5f.jpg",
+      "https://royal-property.pro/upload/iblock/d5f/z0g51p32j9vkstpeiuk14m8ptyilnq9o.jpg",
+      "https://royal-property.pro/upload/iblock/fe2/6m2bmcu9rkor5gibq51yckac2lz7jvzh.jpg",
+      "https://royal-property.pro/upload/iblock/fc5/3z9tzdfr3sl0dt4nlblovhro3i02y1f9.jpg",
+      "https://royal-property.pro/upload/iblock/193/4jrkss96257ydnu0mnn9iotzvqefqtuz.jpeg",
+      "https://royal-property.pro/upload/iblock/c1d/zvavx1ww3awf2q9zgdwe7bt22t7cbep8.jpeg"
+    ],
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "country": "Таиланд",
+    "city": "Паттайа",
+    "link": "/flats/pattaya-property/secondary/the-riviera-malibu-1-bedroom-31-m-id537310/",
+    "id": "d593420b412689df408f441cff89ce72",
+    "parentId": "9f891336c3ed5e3546c6aad943d83fd1"
+  },
+  {
+    "name": "The Riviera Malibu - 1 bedroom (36 м²) ID537309",
     "description": "Перепродажа однокомнатной квартиры площадью 36 м² в новом жилом комплексе Riviera Malibu. Цена: 4 550 000 бат. Квартира расположена на 10 этаже и идеально подходит для иностранных покупателей (Квартира на тайской квоте). Эта квартира является отличным выбором для комфортного проживания и выгодных инвестиций. Не упустите возможность стать владельцем этого прекрасного объекта!",
     "area": "Пратумнак",
     "size": {
@@ -2407,7 +2887,7 @@
     "furniture": "Полная меблировка и бытовая техника.",
     "prices": [
       {
-        "value": 130644,
+        "value": 134643,
         "currency": "USD",
         "symbol": "$"
       },
@@ -2461,7 +2941,7 @@
     "furniture": "меблировка; готова к сдаче в аренду",
     "prices": [
       {
-        "value": 408822,
+        "value": 421337,
         "currency": "USD",
         "symbol": "$"
       },
@@ -2513,7 +2993,7 @@
     "furniture": "меблировка; готова к сдаче в аренду",
     "prices": [
       {
-        "value": 135668,
+        "value": 139821,
         "currency": "USD",
         "symbol": "$"
       },
@@ -2554,6 +3034,60 @@
     "parentId": "9f891336c3ed5e3546c6aad943d83fd1"
   },
   {
+    "name": "Riviera Malibu – 2 bedroom (69 m²) ID 537312",
+    "description": "Продается 2-комнатная квартира в комплексе Riviera Malibu, Пратумнак. Площадь – 69 м². Готова к сдаче в аренду, меблировка соответствует требованиям аренды. Квартира с качественной отделкой и современной планировкой, удобным расположением и высоким качеством жилья, что делает ее отличным выбором для комфортного проживания или инвестиции. Цена – 13 000 000 THB.",
+    "area": "Пратумнак",
+    "size": {
+      "value": 69,
+      "uom": "м2"
+    },
+    "object_type": "Планировка 2 Bedroom. Уютная двухкомнатная квартира с отдельной спальней и всеми удобствами.",
+    "floor": "17",
+    "quota": "Иностранная",
+    "furniture": "меблировка; готова к сдаче в аренду",
+    "prices": [
+      {
+        "value": 384694,
+        "currency": "USD",
+        "symbol": "$"
+      },
+      {
+        "value": 37700000,
+        "currency": "RUB",
+        "symbol": "₽"
+      },
+      {
+        "value": 2900000,
+        "currency": "CNY",
+        "symbol": "¥"
+      },
+      {
+        "value": 13000000,
+        "currency": "THB",
+        "symbol": "฿"
+      }
+    ],
+    "images": [
+      "https://royal-property.pro/upload/iblock/1af/bqx6ln1eg6lik3i34y7w2d5z18zgz0kd.webp",
+      "https://royal-property.pro/upload/iblock/a47/vltdiykdsklcqfr2qg8vgq12k7k0q83z.webp",
+      "https://royal-property.pro/upload/iblock/e82/n6fdckhl8rc230eramu6iukeeoh0nyr0.webp",
+      "https://royal-property.pro/upload/iblock/59c/10eps99xgjmr9evkckjrx5iyd4pur1f3.jpg",
+      "https://royal-property.pro/upload/iblock/3af/pekl952q8gyrvgptyzwo2kg738q3fz64.jpeg",
+      "https://royal-property.pro/upload/iblock/1af/bqx6ln1eg6lik3i34y7w2d5z18zgz0kd.webp",
+      "https://royal-property.pro/upload/iblock/a47/vltdiykdsklcqfr2qg8vgq12k7k0q83z.webp",
+      "https://royal-property.pro/upload/iblock/e82/n6fdckhl8rc230eramu6iukeeoh0nyr0.webp",
+      "https://royal-property.pro/upload/iblock/59c/10eps99xgjmr9evkckjrx5iyd4pur1f3.jpg",
+      "https://royal-property.pro/upload/iblock/3af/pekl952q8gyrvgptyzwo2kg738q3fz64.jpeg"
+    ],
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "country": "Таиланд",
+    "city": "Паттайа",
+    "link": "/flats/pattaya-property/secondary/riviera-malibu-2-bedroom-69-m-id-537312/",
+    "id": "edc9173e4739cdbad708b556492c942b",
+    "parentId": "9f891336c3ed5e3546c6aad943d83fd1"
+  },
+  {
     "name": "Riviera Malibu – 2 bedroom (64m) id-537191",
     "description": "Продается 2-комнатная квартира в комплексе Riviera Malibu, Пратумнак. Площадь – 64 м². Готова к сдаче в аренду, меблировка соответствует требованиям аренды. Квартира с качественной отделкой и современной планировкой, удобным расположением и высоким качеством жилья, что делает ее отличным выбором для комфортного проживания или инвестиции. Цена – 12 600 000 THB.",
     "area": "Пратумнак",
@@ -2567,7 +3101,7 @@
     "furniture": "меблировка; готова к сдаче в аренду",
     "prices": [
       {
-        "value": 361782,
+        "value": 372857,
         "currency": "USD",
         "symbol": "$"
       },
@@ -2619,7 +3153,7 @@
     "furniture": "меблировка; готова к сдаче в аренду",
     "prices": [
       {
-        "value": 226832,
+        "value": 233776,
         "currency": "USD",
         "symbol": "$"
       },
@@ -2669,7 +3203,7 @@
     "furniture": "стандартная-полная меблировка",
     "prices": [
       {
-        "value": 473805,
+        "value": 488310,
         "currency": "USD",
         "symbol": "$"
       },
@@ -2729,7 +3263,7 @@
     "furniture": "меблировка; готова к сдаче в аренду",
     "prices": [
       {
-        "value": 119199,
+        "value": 122848,
         "currency": "USD",
         "symbol": "$"
       },
@@ -2785,7 +3319,7 @@
     "furniture": "меблировка: готова к сдаче в аренду",
     "prices": [
       {
-        "value": 279950,
+        "value": 288520,
         "currency": "USD",
         "symbol": "$"
       },
@@ -2842,6 +3376,82 @@
     "parentId": "c4055adb22b9c60a65c3548edddae3db"
   },
   {
+    "name": "Copacabana Coral Reef – 1 bedroom (44.8 м²) ID537315",
+    "description": "Продается 1-комнатная квартира в Copacabana, Джомтьен. Площадь – 44.8 м², этаж 25. Готова к сдаче в аренду, до пляжа 500 м. Цена: 6 700 000 THB. Уютное жилье с современным дизайном и качественной отделкой. Квартира предлагает великолепный вид, современные удобства и удобное расположение в близости к пляжу и местным удобствам. Отличное предложение для тех, кто хочет приобрести качественную недвижимость в престижном районе.",
+    "area": "Джомтьен",
+    "size": {
+      "value": 45,
+      "uom": "м2"
+    },
+    "object_type": "1 bedroom",
+    "floor": "25",
+    "quota": "Иностранная",
+    "furniture": "меблировка: готова к сдаче в аренду",
+    "prices": [
+      {
+        "value": 198265,
+        "currency": "USD",
+        "symbol": "$"
+      },
+      {
+        "value": 19430000,
+        "currency": "RUB",
+        "symbol": "₽"
+      },
+      {
+        "value": 1494615,
+        "currency": "CNY",
+        "symbol": "¥"
+      },
+      {
+        "value": 6700000,
+        "currency": "THB",
+        "symbol": "฿"
+      }
+    ],
+    "images": [
+      "https://royal-property.pro/upload/iblock/49d/3ei1quivaydk80ln6z7lfbnnrydoxng7.jpeg",
+      "https://royal-property.pro/upload/iblock/075/ivdtdiz6c9eel4txl2cvx5e7lvn2zz8o.jpeg",
+      "https://royal-property.pro/upload/iblock/023/8vrrs7i1e8v57tm70u2nc6j29tec8or9.jpeg",
+      "https://royal-property.pro/upload/iblock/2be/kzoehqcpzo9wx3y5y8tirlxj1wy24l18.jpeg",
+      "https://royal-property.pro/upload/iblock/a22/u17xzju5ks2ktp79x00lumhpfdyq2oqs.jpeg",
+      "https://royal-property.pro/upload/iblock/dab/h9ylfa2e228ynk1y3vc6bwtszbx1ouct.jpeg",
+      "https://royal-property.pro/upload/iblock/791/ljijr161ytzx80ai7kn9vz4mzid6ag7f.jpeg",
+      "https://royal-property.pro/upload/iblock/d0b/wzp86nhofo3mrsuiiy620jt4skv3p3y6.jpeg",
+      "https://royal-property.pro/upload/iblock/424/ywwurixkmb2gtvomicqfug7szdhu4rr1.jpeg",
+      "https://royal-property.pro/upload/iblock/61f/rk897tc4yyef5asx3n1ulcuqq996m98m.jpeg",
+      "https://royal-property.pro/upload/iblock/ed8/t639l0mpa1h32v9w9cjysvpjqsdmpwm9.jpeg",
+      "https://royal-property.pro/upload/iblock/016/u549c4awme4i6d3aie3jtj3dqzr439yu.jpeg",
+      "https://royal-property.pro/upload/iblock/45a/2alzt1mhic5y67kqf5cso7v8kfmy6bnw.jpeg",
+      "https://royal-property.pro/upload/iblock/b32/r85p2z5am7ilmxgvzg4wpip2f5wgzvm6.jpeg",
+      "https://royal-property.pro/upload/iblock/556/ozwcod8alta0e5c6fg3thd0m9z0i4ikh.jpeg",
+      "https://royal-property.pro/upload/iblock/419/zyg49qvge4d0pdvoqzv6y0iwtxk698ec.jpeg",
+      "https://royal-property.pro/upload/iblock/49d/3ei1quivaydk80ln6z7lfbnnrydoxng7.jpeg",
+      "https://royal-property.pro/upload/iblock/075/ivdtdiz6c9eel4txl2cvx5e7lvn2zz8o.jpeg",
+      "https://royal-property.pro/upload/iblock/023/8vrrs7i1e8v57tm70u2nc6j29tec8or9.jpeg",
+      "https://royal-property.pro/upload/iblock/2be/kzoehqcpzo9wx3y5y8tirlxj1wy24l18.jpeg",
+      "https://royal-property.pro/upload/iblock/a22/u17xzju5ks2ktp79x00lumhpfdyq2oqs.jpeg",
+      "https://royal-property.pro/upload/iblock/dab/h9ylfa2e228ynk1y3vc6bwtszbx1ouct.jpeg",
+      "https://royal-property.pro/upload/iblock/791/ljijr161ytzx80ai7kn9vz4mzid6ag7f.jpeg",
+      "https://royal-property.pro/upload/iblock/d0b/wzp86nhofo3mrsuiiy620jt4skv3p3y6.jpeg",
+      "https://royal-property.pro/upload/iblock/424/ywwurixkmb2gtvomicqfug7szdhu4rr1.jpeg",
+      "https://royal-property.pro/upload/iblock/61f/rk897tc4yyef5asx3n1ulcuqq996m98m.jpeg",
+      "https://royal-property.pro/upload/iblock/ed8/t639l0mpa1h32v9w9cjysvpjqsdmpwm9.jpeg",
+      "https://royal-property.pro/upload/iblock/016/u549c4awme4i6d3aie3jtj3dqzr439yu.jpeg",
+      "https://royal-property.pro/upload/iblock/45a/2alzt1mhic5y67kqf5cso7v8kfmy6bnw.jpeg",
+      "https://royal-property.pro/upload/iblock/b32/r85p2z5am7ilmxgvzg4wpip2f5wgzvm6.jpeg",
+      "https://royal-property.pro/upload/iblock/556/ozwcod8alta0e5c6fg3thd0m9z0i4ikh.jpeg",
+      "https://royal-property.pro/upload/iblock/419/zyg49qvge4d0pdvoqzv6y0iwtxk698ec.jpeg"
+    ],
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "country": "Таиланд",
+    "city": "Паттайа",
+    "link": "/flats/pattaya-property/secondary/copacabana-coral-reef-1-bedroom-44-8-m-id537315/",
+    "id": "662cec7049a3f1e4b57f2240bce6184e",
+    "parentId": "c4055adb22b9c60a65c3548edddae3db"
+  },
+  {
     "name": "Copacabana – 1 bedroom 35 sqm – idZ173",
     "description": "Продается 1-комнатная квартира в комплексе Copacabana, Джомтьен. Площадь – 35 м². Готовое жилье с полной стандартной меблировкой от застройщика. Современное и удобное пространство с качественной отделкой. Отличное предложение для комфортного проживания или аренды у моря. Цена – 5 390 000 THB.",
     "area": "Джомтьен",
@@ -2855,7 +3465,7 @@
     "furniture": "стандартная-полная меблировка от застройщика",
     "prices": [
       {
-        "value": 154762,
+        "value": 159500,
         "currency": "USD",
         "symbol": "$"
       },
@@ -2935,7 +3545,7 @@
     "furniture": "стандартная-полная меблировка от застройщика",
     "prices": [
       {
-        "value": 253248,
+        "value": 261000,
         "currency": "USD",
         "symbol": "$"
       },
@@ -3013,22 +3623,22 @@
     "furniture": "стандартная-полная меблировка от застройщика",
     "prices": [
       {
-        "value": 229703,
+        "value": 224898,
         "currency": "USD",
         "symbol": "$"
       },
       {
-        "value": 23200000,
+        "value": 22040000,
         "currency": "RUB",
         "symbol": "₽"
       },
       {
-        "value": 1784615,
+        "value": 1695385,
         "currency": "CNY",
         "symbol": "¥"
       },
       {
-        "value": 8000000,
+        "value": 7600000,
         "currency": "THB",
         "symbol": "฿"
       }
@@ -3077,7 +3687,7 @@
     "furniture": "стандартная-полная меблировка от застройщика",
     "prices": [
       {
-        "value": 258416,
+        "value": 266327,
         "currency": "USD",
         "symbol": "$"
       },
@@ -3161,7 +3771,7 @@
     "furniture": "стандартная-полная меблировка от застройщика",
     "prices": [
       {
-        "value": 319402,
+        "value": 329180,
         "currency": "USD",
         "symbol": "$"
       },
@@ -3247,7 +3857,7 @@
     "furniture": "стандартная-полная меблировка от застройщика",
     "prices": [
       {
-        "value": 374847,
+        "value": 386321,
         "currency": "USD",
         "symbol": "$"
       },
@@ -3333,7 +3943,7 @@
     "furniture": "стандартная-полная меблировка от застройщика",
     "prices": [
       {
-        "value": 429430,
+        "value": 442576,
         "currency": "USD",
         "symbol": "$"
       },
@@ -3429,7 +4039,7 @@
     "furniture": "Полностью меблированная кухня, Гардеробная",
     "prices": [
       {
-        "value": 510312,
+        "value": 525933,
         "currency": "USD",
         "symbol": "$"
       },
@@ -3486,8 +4096,8 @@
       "https://royal-property.pro/upload/iblock/3f9/9ur7clwu0fl09t70xj5e3q7q3zo2uy0m.webp",
       "https://royal-property.pro/upload/iblock/b6c/l2zatx9kj6pmlry3uzc04nj9bhtb27vl.webp",
       "https://royal-property.pro/upload/iblock/832/85lzlxft935nb4c000v8we8e8l9rsgdm.webp",
-      "https://royal-property.pro/upload/iblock/2f0/g06u06z5sv1vf0ivfb30c3stu1cshmjw.webp",
-      "https://royal-property.pro/upload/iblock/d95/jt449wghox22mj7f9lekjcd55aptgk3y.webp",
+      "https://royal-property.pro/upload/iblock/c3d/a5oawl4hzsschv4bycl1laia97ra9ltw.webp",
+      "https://royal-property.pro/upload/iblock/aab/h0r8u9atyzd7uo1zgxuj7s17yravljq3.webp",
       "https://royal-property.pro/upload/iblock/1f6/1umas3ia559oidplbu4540hv71z43hw8.webp",
       "https://royal-property.pro/upload/iblock/d4c/kbmolw4n3osu87tulqs9uzv1jqq1r8rm.webp",
       "https://royal-property.pro/upload/iblock/49d/tz4a73mugx1dpy3wwnsg9c9ziqfruvzq.webp",
@@ -3525,8 +4135,8 @@
       "https://royal-property.pro/upload/iblock/3f9/9ur7clwu0fl09t70xj5e3q7q3zo2uy0m.webp",
       "https://royal-property.pro/upload/iblock/b6c/l2zatx9kj6pmlry3uzc04nj9bhtb27vl.webp",
       "https://royal-property.pro/upload/iblock/832/85lzlxft935nb4c000v8we8e8l9rsgdm.webp",
-      "https://royal-property.pro/upload/iblock/2f0/g06u06z5sv1vf0ivfb30c3stu1cshmjw.webp",
-      "https://royal-property.pro/upload/iblock/d95/jt449wghox22mj7f9lekjcd55aptgk3y.webp",
+      "https://royal-property.pro/upload/iblock/c3d/a5oawl4hzsschv4bycl1laia97ra9ltw.webp",
+      "https://royal-property.pro/upload/iblock/aab/h0r8u9atyzd7uo1zgxuj7s17yravljq3.webp",
       "https://royal-property.pro/upload/iblock/1f6/1umas3ia559oidplbu4540hv71z43hw8.webp"
     ],
     "bedrooms": 2,
@@ -3551,7 +4161,7 @@
     "furniture": "Полностью меблированная кухня, Гардеробная",
     "prices": [
       {
-        "value": 232925,
+        "value": 240055,
         "currency": "USD",
         "symbol": "$"
       },
@@ -3590,11 +4200,11 @@
       "https://royal-property.pro/upload/iblock/6f2/eleqliga953u4ufajbqspscy2tefl4f8.webp",
       "https://royal-property.pro/upload/iblock/671/6jexa2pjxubdulpf2r2guoy7i2809hfn.webp",
       "https://royal-property.pro/upload/iblock/904/fuyid8i5fu69g0j3rplyn30cznz0ghz1.webp",
-      "https://royal-property.pro/upload/iblock/a2e/hkgbfbfaomtgme0hqb6f3z5say5ata1h.webp",
-      "https://royal-property.pro/upload/iblock/b9a/m45f1if3h169m8un780y2s4998i50gud.webp",
+      "https://royal-property.pro/upload/iblock/23b/01sd0zc3tc5u752ltl1t3762xf1bhsjz.webp",
+      "https://royal-property.pro/upload/iblock/803/7imvjwrr6kq3hisqvkvsbj3st1t3a804.webp",
       "https://royal-property.pro/upload/iblock/3f3/x94epnzeo5j00unvdfpkymf6827399lm.webp",
-      "https://royal-property.pro/upload/iblock/47f/gkc4q5aus9sdn4ukg2aljqvckgs3mqr0.webp",
-      "https://royal-property.pro/upload/iblock/7e8/sy8pqsqr775zw9brdrm3qh6wbx0n1e6v.webp",
+      "https://royal-property.pro/upload/iblock/7bc/thf3itumaad6p4nt6j00n49flmru0jji.webp",
+      "https://royal-property.pro/upload/iblock/997/tzf3ob3z23v0mystlz872jlvyqvyuywn.webp",
       "https://royal-property.pro/upload/iblock/48e/oixqekoxe6rqjocd5apvteks6ja639os.webp",
       "https://royal-property.pro/upload/iblock/529/e08kvzdqw675uu3nygxa5udrocd161dj.webp",
       "https://royal-property.pro/upload/iblock/41f/667ej0veshxpt9q17su8vrtqdnp8crc0.webp",
@@ -3614,11 +4224,11 @@
       "https://royal-property.pro/upload/iblock/6f2/eleqliga953u4ufajbqspscy2tefl4f8.webp",
       "https://royal-property.pro/upload/iblock/671/6jexa2pjxubdulpf2r2guoy7i2809hfn.webp",
       "https://royal-property.pro/upload/iblock/904/fuyid8i5fu69g0j3rplyn30cznz0ghz1.webp",
-      "https://royal-property.pro/upload/iblock/a2e/hkgbfbfaomtgme0hqb6f3z5say5ata1h.webp",
-      "https://royal-property.pro/upload/iblock/b9a/m45f1if3h169m8un780y2s4998i50gud.webp",
+      "https://royal-property.pro/upload/iblock/23b/01sd0zc3tc5u752ltl1t3762xf1bhsjz.webp",
+      "https://royal-property.pro/upload/iblock/803/7imvjwrr6kq3hisqvkvsbj3st1t3a804.webp",
       "https://royal-property.pro/upload/iblock/3f3/x94epnzeo5j00unvdfpkymf6827399lm.webp",
-      "https://royal-property.pro/upload/iblock/47f/gkc4q5aus9sdn4ukg2aljqvckgs3mqr0.webp",
-      "https://royal-property.pro/upload/iblock/7e8/sy8pqsqr775zw9brdrm3qh6wbx0n1e6v.webp",
+      "https://royal-property.pro/upload/iblock/7bc/thf3itumaad6p4nt6j00n49flmru0jji.webp",
+      "https://royal-property.pro/upload/iblock/997/tzf3ob3z23v0mystlz872jlvyqvyuywn.webp",
       "https://royal-property.pro/upload/iblock/48e/oixqekoxe6rqjocd5apvteks6ja639os.webp"
     ],
     "bedrooms": 1,
@@ -3643,7 +4253,7 @@
     "furniture": "Полностью меблированная кухня, Гардеробная",
     "prices": [
       {
-        "value": 430509,
+        "value": 443688,
         "currency": "USD",
         "symbol": "$"
       },
@@ -3673,8 +4283,8 @@
       "https://royal-property.pro/upload/iblock/289/yi86wkccwkzpgyzy2a20r513rqvfpnes.jpeg",
       "https://royal-property.pro/upload/iblock/d90/sialy0un3bab5u8jenkaq4r3kbt7t8lh.jpeg",
       "https://royal-property.pro/upload/iblock/dde/0508bop5b9tm6b7vli2yohmt6zfey7ly.webp",
-      "https://royal-property.pro/upload/iblock/134/u0s4pdzwuicwzg75646hzhmzjwpne1ah.webp",
-      "https://royal-property.pro/upload/iblock/744/wp0005cgx62whxj4mj7x2ak70tex2by6.webp",
+      "https://royal-property.pro/upload/iblock/0ec/bhmj6sss31pplbjuhnsh1bhs21xwmwrg.webp",
+      "https://royal-property.pro/upload/iblock/f43/mpmyupx1xzjwgn90tdhzzjzvinqfbvm4.webp",
       "https://royal-property.pro/upload/iblock/c4c/710c4ncexslt0vq2aqx8xesyvjbx16bs.jpeg",
       "https://royal-property.pro/upload/iblock/598/8v67p9rsde57sk31lv3t0dky9s997b6a.jpeg",
       "https://royal-property.pro/upload/iblock/5a9/n3kthbx3iiyjy56ml9y28ryzc1q3jc4q.jpeg",
@@ -3684,8 +4294,8 @@
       "https://royal-property.pro/upload/iblock/289/yi86wkccwkzpgyzy2a20r513rqvfpnes.jpeg",
       "https://royal-property.pro/upload/iblock/d90/sialy0un3bab5u8jenkaq4r3kbt7t8lh.jpeg",
       "https://royal-property.pro/upload/iblock/dde/0508bop5b9tm6b7vli2yohmt6zfey7ly.webp",
-      "https://royal-property.pro/upload/iblock/134/u0s4pdzwuicwzg75646hzhmzjwpne1ah.webp",
-      "https://royal-property.pro/upload/iblock/744/wp0005cgx62whxj4mj7x2ak70tex2by6.webp"
+      "https://royal-property.pro/upload/iblock/0ec/bhmj6sss31pplbjuhnsh1bhs21xwmwrg.webp",
+      "https://royal-property.pro/upload/iblock/f43/mpmyupx1xzjwgn90tdhzzjzvinqfbvm4.webp"
     ],
     "bedrooms": 1,
     "bathrooms": 1,
@@ -3709,7 +4319,7 @@
     "furniture": "меблировка: стандартная-полная меблировка от застройщика",
     "prices": [
       {
-        "value": 66423,
+        "value": 68456,
         "currency": "USD",
         "symbol": "$"
       },
@@ -3769,7 +4379,7 @@
     "furniture": "меблировка: готова к сдаче в аренду",
     "prices": [
       {
-        "value": 136652,
+        "value": 140835,
         "currency": "USD",
         "symbol": "$"
       },
@@ -3841,7 +4451,7 @@
     "furniture": "меблировка: стандартная-полная меблировка от застройщика",
     "prices": [
       {
-        "value": 70355,
+        "value": 72509,
         "currency": "USD",
         "symbol": "$"
       },
@@ -3895,7 +4505,7 @@
     "furniture": "меблировка: стандартная-полная меблировка от застройщика",
     "prices": [
       {
-        "value": 40198,
+        "value": 41429,
         "currency": "USD",
         "symbol": "$"
       },
@@ -3951,7 +4561,7 @@
     "furniture": "меблировка от застройщика",
     "prices": [
       {
-        "value": 387187,
+        "value": 399040,
         "currency": "USD",
         "symbol": "$"
       },
@@ -4033,7 +4643,7 @@
     "furniture": "меблировка от застройщика",
     "prices": [
       {
-        "value": 378505,
+        "value": 390091,
         "currency": "USD",
         "symbol": "$"
       },
@@ -4131,7 +4741,7 @@
     "furniture": "меблировка от застройщика",
     "prices": [
       {
-        "value": 145034,
+        "value": 149474,
         "currency": "USD",
         "symbol": "$"
       },
@@ -4217,7 +4827,7 @@
     "furniture": "стандартная-полная меблировка от застройщика",
     "prices": [
       {
-        "value": 146436,
+        "value": 150918,
         "currency": "USD",
         "symbol": "$"
       },
@@ -4285,7 +4895,7 @@
     "furniture": "стандартная-полная меблировка от застройщика",
     "prices": [
       {
-        "value": 163663,
+        "value": 168673,
         "currency": "USD",
         "symbol": "$"
       },
@@ -4342,6 +4952,54 @@
     "parentId": "e15907a27190f6229afd2db232ca1800"
   },
   {
+    "name": "Grand Solaire – Studio (20 м²) ID537304",
+    "description": "Продается студия в Grand Solaire, Таппрая. Площадь – 20 кв.м, 39-й этаж с видом на Бассейн. Иностранная квота. Стоимость: 2 850 000 THB. Уютное жилье с качественной меблировкой от застройщика. Отличное расположение в Таппрае, близость к ключевым удобноствам и инфраструктуре обеспечивает комфортное проживание и доступ к необходимым объектам. Подходит как для постоянного проживания, так и для аренды, гарантируя высокий уровень удобства и практичности.",
+    "area": "Таппрая",
+    "size": {
+      "value": 20,
+      "uom": "м2"
+    },
+    "object_type": "Studio",
+    "floor": "39",
+    "quota": "Иностранная",
+    "furniture": "стандартная-полная меблировка от застройщика",
+    "prices": [
+      {
+        "value": 84337,
+        "currency": "USD",
+        "symbol": "$"
+      },
+      {
+        "value": 8265000,
+        "currency": "RUB",
+        "symbol": "₽"
+      },
+      {
+        "value": 635769,
+        "currency": "CNY",
+        "symbol": "¥"
+      },
+      {
+        "value": 2850000,
+        "currency": "THB",
+        "symbol": "฿"
+      }
+    ],
+    "images": [
+      "https://royal-property.pro/upload/iblock/ec9/xlpyj745w4o7qbxyvvpwgt4su4z9ua0j.jpeg",
+      "https://royal-property.pro/upload/iblock/55c/y872i2o0t0urhpu1jgu155t2n7zf32ba.jpeg",
+      "https://royal-property.pro/upload/iblock/ec9/xlpyj745w4o7qbxyvvpwgt4su4z9ua0j.jpeg",
+      "https://royal-property.pro/upload/iblock/55c/y872i2o0t0urhpu1jgu155t2n7zf32ba.jpeg"
+    ],
+    "bedrooms": null,
+    "bathrooms": 1,
+    "country": "Таиланд",
+    "city": "Паттайа",
+    "link": "/flats/pattaya-property/secondary/grand-solaire-studio-20-m-id537304/",
+    "id": "4999583d0428c65cb1209f17dc383958",
+    "parentId": "e15907a27190f6229afd2db232ca1800"
+  },
+  {
     "name": "Grand Solaire – 1 bedroom (29 м²) Z04",
     "description": "Продается 1-комнатная квартира в Grand Solaire, Таппрая. Площадь – 29 кв.м, 19-й этаж с видом на Бассейн. Иностранная квота. Стоимость: 3 500 000 THB. Уютное жилье с качественной меблировкой от застройщика. Отличное расположение в Таппрае, близость к ключевым удобноствам и инфраструктуре обеспечивает комфортное проживание и доступ к необходимым объектам. Подходит как для постоянного проживания, так и для аренды, гарантируя высокий уровень удобства и практичности.",
     "area": "Таппрая",
@@ -4355,7 +5013,7 @@
     "furniture": "стандартная-полная меблировка от застройщика",
     "prices": [
       {
-        "value": 100495,
+        "value": 103571,
         "currency": "USD",
         "symbol": "$"
       },
@@ -4388,8 +5046,8 @@
     "parentId": "e15907a27190f6229afd2db232ca1800"
   },
   {
-    "name": "Grand Solaire – 1 bedroom (29 м²) Z03",
-    "description": "Продается 1-комнатная квартира в Grand Solaire, Таппрая. Площадь – 29 кв.м, 39-й этаж с видом на Бали хай. Иностранная квота. Стоимость: 3 700 000 THB. Уютное жилье с качественной меблировкой от застройщика. Отличное расположение в Таппрае, близость к ключевым удобноствам и инфраструктуре обеспечивает комфортное проживание и доступ к необходимым объектам. Подходит как для постоянного проживания, так и для аренды, гарантируя высокий уровень удобства и практичности.",
+    "name": "Grand Solaire – 1 bedroom (29 м²) ID537303",
+    "description": "Продается 1-комнатная квартира в Grand Solaire, Таппрая. Площадь – 29 кв.м, 29-й этаж с видом на Бали хай. Иностранная квота. Стоимость: 3 700 000 THB. Уютное жилье с качественной меблировкой от застройщика. Отличное расположение в Таппрае, близость к ключевым удобноствам и инфраструктуре обеспечивает комфортное проживание и доступ к необходимым объектам. Подходит как для постоянного проживания, так и для аренды, гарантируя высокий уровень удобства и практичности.",
     "area": "Таппрая",
     "size": {
       "value": 29,
@@ -4401,29 +5059,41 @@
     "furniture": "стандартная-полная меблировка от застройщика",
     "prices": [
       {
-        "value": 106238,
+        "value": 109194,
         "currency": "USD",
         "symbol": "$"
       },
       {
-        "value": 10730000,
+        "value": 10701000,
         "currency": "RUB",
         "symbol": "₽"
       },
       {
-        "value": 825385,
+        "value": 823154,
         "currency": "CNY",
         "symbol": "¥"
       },
       {
-        "value": 3700000,
+        "value": 3690000,
         "currency": "THB",
         "symbol": "฿"
       }
     ],
     "images": [
+      "https://royal-property.pro/upload/iblock/3b8/o31fzdy7063aaji611vekm1nq9cu6ui9.jpeg",
+      "https://royal-property.pro/upload/iblock/529/15uqq5n7rf1quz36q1ax0595gqcef2hi.jpeg",
+      "https://royal-property.pro/upload/iblock/7c8/hgdc671p3rej7wvoysmkh5ka8yfb5uvi.jpeg",
+      "https://royal-property.pro/upload/iblock/b1d/3wmfvfc15joan93orfu5x0d21k2d1iga.jpeg",
+      "https://royal-property.pro/upload/iblock/158/u99n6jljdbdp39s6xtxvxklusx605ck1.jpeg",
+      "https://royal-property.pro/upload/iblock/70f/yn85hs6ltj2j4c3uf7oltzsyfujpnig4.jpeg",
       "https://royal-property.pro/upload/iblock/b1f/7ks5wh7jai1ruvm06uhcs5rsj3h2ligo.jpg",
       "https://royal-property.pro/upload/iblock/c4b/nnqdo5ubzbg0mg4lt0yihm0mkjkkf5g7.jpg",
+      "https://royal-property.pro/upload/iblock/3b8/o31fzdy7063aaji611vekm1nq9cu6ui9.jpeg",
+      "https://royal-property.pro/upload/iblock/529/15uqq5n7rf1quz36q1ax0595gqcef2hi.jpeg",
+      "https://royal-property.pro/upload/iblock/7c8/hgdc671p3rej7wvoysmkh5ka8yfb5uvi.jpeg",
+      "https://royal-property.pro/upload/iblock/b1d/3wmfvfc15joan93orfu5x0d21k2d1iga.jpeg",
+      "https://royal-property.pro/upload/iblock/158/u99n6jljdbdp39s6xtxvxklusx605ck1.jpeg",
+      "https://royal-property.pro/upload/iblock/70f/yn85hs6ltj2j4c3uf7oltzsyfujpnig4.jpeg",
       "https://royal-property.pro/upload/iblock/b1f/7ks5wh7jai1ruvm06uhcs5rsj3h2ligo.jpg",
       "https://royal-property.pro/upload/iblock/c4b/nnqdo5ubzbg0mg4lt0yihm0mkjkkf5g7.jpg"
     ],
@@ -4431,8 +5101,8 @@
     "bathrooms": 1,
     "country": "Таиланд",
     "city": "Паттайа",
-    "link": "/flats/pattaya-property/secondary/grand-solaire-1-bedroom-29-m-z03/",
-    "id": "c3a431a53cfbe0cc26f13dc18bbc1b48",
+    "link": "/flats/pattaya-property/secondary/grand-solaire-1-bedroom-29-m-id537303/",
+    "id": "f37275ccead68e22494a9bdf354a6e00",
     "parentId": "e15907a27190f6229afd2db232ca1800"
   },
   {
@@ -4449,7 +5119,7 @@
     "furniture": "стандартная-полная меблировка от застройщика",
     "prices": [
       {
-        "value": 148015,
+        "value": 152546,
         "currency": "USD",
         "symbol": "$"
       },
@@ -4507,7 +5177,7 @@
     "furniture": "стандартная-полная меблировка от застройщика",
     "prices": [
       {
-        "value": 148446,
+        "value": 152990,
         "currency": "USD",
         "symbol": "$"
       },
@@ -4565,7 +5235,7 @@
     "furniture": "стандартная-полная меблировка от застройщика",
     "prices": [
       {
-        "value": 196396,
+        "value": 202408,
         "currency": "USD",
         "symbol": "$"
       },
@@ -4625,7 +5295,7 @@
     "furniture": "стандартная-полная меблировка от застройщика",
     "prices": [
       {
-        "value": 110832,
+        "value": 114224,
         "currency": "USD",
         "symbol": "$"
       },
@@ -4683,7 +5353,7 @@
     "furniture": "стандартная-полная меблировка от застройщика",
     "prices": [
       {
-        "value": 135525,
+        "value": 139673,
         "currency": "USD",
         "symbol": "$"
       },
@@ -4739,7 +5409,7 @@
     "furniture": "стандартная-полная меблировка от застройщика",
     "prices": [
       {
-        "value": 185198,
+        "value": 190867,
         "currency": "USD",
         "symbol": "$"
       },
@@ -4799,7 +5469,7 @@
     "furniture": "стандартная-полная меблировка от застройщика",
     "prices": [
       {
-        "value": 100208,
+        "value": 103276,
         "currency": "USD",
         "symbol": "$"
       },
@@ -4840,390 +5510,8 @@
     "parentId": "e15907a27190f6229afd2db232ca1800"
   },
   {
-    "name": "Arom Jomtien – 1 bedroom id 537077",
-    "description": "Продается 1-комнатная квартира в Arom Jomtien, Джомтьен. Площадь – 47 м², этаж 26. Строящееся жилье, 50 м до пляжа. Цена: 8 925 000 THB. Просторная квартира с качественной отделкой и по запросу меблировкой от застройщика. Отличное месторасположение с близким доступом к пляжу и ключевым объектам инфраструктуры, что обеспечивает высокий уровень комфорта.",
-    "area": "Джомтьен",
-    "size": {
-      "value": 47,
-      "uom": "м2"
-    },
-    "object_type": "1 bedroom junior: ван бедрум, где совмещены гостинная с кухней (большая комната) и отделена спальня",
-    "floor": "26",
-    "quota": "Иностранная",
-    "furniture": "по запросу",
-    "prices": [
-      {
-        "value": 256262,
-        "currency": "USD",
-        "symbol": "$"
-      },
-      {
-        "value": 25882500,
-        "currency": "RUB",
-        "symbol": "₽"
-      },
-      {
-        "value": 1990962,
-        "currency": "CNY",
-        "symbol": "¥"
-      },
-      {
-        "value": 8925000,
-        "currency": "THB",
-        "symbol": "฿"
-      }
-    ],
-    "images": [
-      "https://royal-property.pro/upload/iblock/a55/a5568a8dc9b60cc55e5633b515e88d72.jpeg",
-      "https://royal-property.pro/upload/iblock/ffe/ffe69c69fbeaa992c0d3fbf5076d290f.jpeg",
-      "https://royal-property.pro/upload/iblock/ab1/ab151c1f123d9a0ce20422685ab208a9.jpeg",
-      "https://royal-property.pro/upload/iblock/c0b/c0bf92364e5295c8ce2af41dbd378aa8.jpeg",
-      "https://royal-property.pro/upload/iblock/904/9047a1949427e66975f2c5bd18e9a770.jpeg",
-      "https://royal-property.pro/upload/iblock/a4a/a4abcb3f1e279b355b50997338240acb.jpeg",
-      "https://royal-property.pro/upload/iblock/be3/be3ac73e8afbdf0d4b1739586f7c2649.jpeg",
-      "https://royal-property.pro/upload/iblock/645/645573fe0355d979fd0aac0c87d6bbbc.jpeg",
-      "https://royal-property.pro/upload/iblock/583/583447d6bf6afc6a956edf82bd1f71ba.jpeg",
-      "https://royal-property.pro/upload/iblock/4c9/4c9355e9c8069aa259416c18b143a925.jpeg",
-      "https://royal-property.pro/upload/iblock/a58/a585395a0f917ca5fcc9b58391aa3b80.jpeg",
-      "https://royal-property.pro/upload/iblock/bf4/bf439b426c0f7b4b36e892c4e0447f98.jpeg",
-      "https://royal-property.pro/upload/iblock/d97/d976ccff77b1b8d5d8390ee9aee3fac3.jpeg",
-      "https://royal-property.pro/upload/iblock/69c/69c2447772681bfcb80cce3d3f024077.jpeg",
-      "https://royal-property.pro/upload/iblock/9d3/9d3ead064ae86cb43623c795f2d972dd.jpeg",
-      "https://royal-property.pro/upload/iblock/4c0/4c0869eb0c751ae0f63843f857241ff5.jpeg",
-      "https://royal-property.pro/upload/iblock/f70/f709e6af8eecb20fa8dca910f6262879.jpeg",
-      "https://royal-property.pro/upload/iblock/714/714ef13c2caf209bd7e853b2fcd5faab.jpeg",
-      "https://royal-property.pro/upload/iblock/6ad/6adaba193008292dc26a157f14b3494b.jpeg",
-      "https://royal-property.pro/upload/iblock/a55/a5568a8dc9b60cc55e5633b515e88d72.jpeg",
-      "https://royal-property.pro/upload/iblock/ffe/ffe69c69fbeaa992c0d3fbf5076d290f.jpeg",
-      "https://royal-property.pro/upload/iblock/ab1/ab151c1f123d9a0ce20422685ab208a9.jpeg",
-      "https://royal-property.pro/upload/iblock/c0b/c0bf92364e5295c8ce2af41dbd378aa8.jpeg",
-      "https://royal-property.pro/upload/iblock/904/9047a1949427e66975f2c5bd18e9a770.jpeg",
-      "https://royal-property.pro/upload/iblock/a4a/a4abcb3f1e279b355b50997338240acb.jpeg",
-      "https://royal-property.pro/upload/iblock/be3/be3ac73e8afbdf0d4b1739586f7c2649.jpeg",
-      "https://royal-property.pro/upload/iblock/645/645573fe0355d979fd0aac0c87d6bbbc.jpeg",
-      "https://royal-property.pro/upload/iblock/583/583447d6bf6afc6a956edf82bd1f71ba.jpeg",
-      "https://royal-property.pro/upload/iblock/4c9/4c9355e9c8069aa259416c18b143a925.jpeg",
-      "https://royal-property.pro/upload/iblock/a58/a585395a0f917ca5fcc9b58391aa3b80.jpeg",
-      "https://royal-property.pro/upload/iblock/bf4/bf439b426c0f7b4b36e892c4e0447f98.jpeg",
-      "https://royal-property.pro/upload/iblock/d97/d976ccff77b1b8d5d8390ee9aee3fac3.jpeg",
-      "https://royal-property.pro/upload/iblock/69c/69c2447772681bfcb80cce3d3f024077.jpeg",
-      "https://royal-property.pro/upload/iblock/9d3/9d3ead064ae86cb43623c795f2d972dd.jpeg",
-      "https://royal-property.pro/upload/iblock/4c0/4c0869eb0c751ae0f63843f857241ff5.jpeg",
-      "https://royal-property.pro/upload/iblock/f70/f709e6af8eecb20fa8dca910f6262879.jpeg",
-      "https://royal-property.pro/upload/iblock/714/714ef13c2caf209bd7e853b2fcd5faab.jpeg",
-      "https://royal-property.pro/upload/iblock/6ad/6adaba193008292dc26a157f14b3494b.jpeg"
-    ],
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "country": "Таиланд",
-    "city": "Паттайа",
-    "link": "/flats/pattaya-property/developments/arom-jomtien-1-bedroom-id-537077/",
-    "id": "25605eedbd3ea66c678bccfe2eb39ada",
-    "parentId": "8933d1df0e9827abe42ce5622af23646"
-  },
-  {
-    "name": "Arom Jomtien – 1 bedroom Junior",
-    "description": "Продается 1-комнатная квартира в Arom Jomtien, Джомтьен. Площадь – 33 м², этаж по запросу. Строящееся жилье. Стоимость: 4 854 000 THB. Элегантное жилье с полной меблировкой от застройщика, отличное для проживания или аренды. Расположение в удобном районе Джомтьена, недалеко от пляжа, обеспечивает доступ к основным удобствам и создает комфортное жилое пространство.",
-    "area": "Джомтьен",
-    "size": {
-      "value": 33,
-      "uom": "м2"
-    },
-    "object_type": "1 bedroom junior: ван бедрум, где совмещены гостинная с кухней (большая комната) и отделена спальня",
-    "floor": "по запросу",
-    "quota": "Иностранная",
-    "furniture": "стандартная-полная меблировка от застройщика",
-    "prices": [
-      {
-        "value": 139372,
-        "currency": "USD",
-        "symbol": "$"
-      },
-      {
-        "value": 14076600,
-        "currency": "RUB",
-        "symbol": "₽"
-      },
-      {
-        "value": 1082815,
-        "currency": "CNY",
-        "symbol": "¥"
-      },
-      {
-        "value": 4854000,
-        "currency": "THB",
-        "symbol": "฿"
-      }
-    ],
-    "images": [
-      "https://royal-property.pro/upload/iblock/4b8/4b838092feb8bd1d378b3392b9842653.jpg",
-      "https://royal-property.pro/upload/iblock/c22/c2256775e8c54747615e1856d89185e1.jpg",
-      "https://royal-property.pro/upload/iblock/e60/e609db1c3eae744658cdc0f2a3165ef0.jpg",
-      "https://royal-property.pro/upload/iblock/e8c/e8cb1fb650ae1b0b437f076eb97657be.jpg",
-      "https://royal-property.pro/upload/iblock/0d4/0d47b14561c5d490c7810a50223ed7b6.jpg",
-      "https://royal-property.pro/upload/iblock/f8d/f8d7bc9b54459a922241673ea783564f.jpg",
-      "https://royal-property.pro/upload/iblock/ecf/ecfad0a37087fb9f804d8d73f37e11a0.jpg",
-      "https://royal-property.pro/upload/iblock/009/009fb6f25d0c2ac1fb279a5e4d69175a.jpg",
-      "https://royal-property.pro/upload/iblock/403/4037315f833bd148101fd18b277576a0.jpg",
-      "https://royal-property.pro/upload/iblock/0d4/0d417d03a7f85c4bfb28f8663d5f3083.jpg",
-      "https://royal-property.pro/upload/iblock/3a0/3a015f3387cae45e863717cbcd504b55.jpg",
-      "https://royal-property.pro/upload/iblock/262/262f5826e817d9615e96dbd68a8d1e0f.jpg",
-      "https://royal-property.pro/upload/iblock/a43/a43fe9809521b43eb518ab8653aaf13c.jpg",
-      "https://royal-property.pro/upload/iblock/dee/dee0bc9b5d3006deeee65736bbef8a73.jpg",
-      "https://royal-property.pro/upload/iblock/fe6/fe643a1ab1a0458556d83400c4868bdd.jpg",
-      "https://royal-property.pro/upload/iblock/663/663d9f95b280672d1ceb2ddef65c4851.jpg",
-      "https://royal-property.pro/upload/iblock/918/91845436001f78100102a0bed473e952.jpg",
-      "https://royal-property.pro/upload/iblock/4b8/4b838092feb8bd1d378b3392b9842653.jpg",
-      "https://royal-property.pro/upload/iblock/c22/c2256775e8c54747615e1856d89185e1.jpg",
-      "https://royal-property.pro/upload/iblock/e60/e609db1c3eae744658cdc0f2a3165ef0.jpg",
-      "https://royal-property.pro/upload/iblock/e8c/e8cb1fb650ae1b0b437f076eb97657be.jpg",
-      "https://royal-property.pro/upload/iblock/0d4/0d47b14561c5d490c7810a50223ed7b6.jpg",
-      "https://royal-property.pro/upload/iblock/f8d/f8d7bc9b54459a922241673ea783564f.jpg",
-      "https://royal-property.pro/upload/iblock/ecf/ecfad0a37087fb9f804d8d73f37e11a0.jpg",
-      "https://royal-property.pro/upload/iblock/009/009fb6f25d0c2ac1fb279a5e4d69175a.jpg",
-      "https://royal-property.pro/upload/iblock/403/4037315f833bd148101fd18b277576a0.jpg",
-      "https://royal-property.pro/upload/iblock/0d4/0d417d03a7f85c4bfb28f8663d5f3083.jpg",
-      "https://royal-property.pro/upload/iblock/3a0/3a015f3387cae45e863717cbcd504b55.jpg",
-      "https://royal-property.pro/upload/iblock/262/262f5826e817d9615e96dbd68a8d1e0f.jpg",
-      "https://royal-property.pro/upload/iblock/a43/a43fe9809521b43eb518ab8653aaf13c.jpg",
-      "https://royal-property.pro/upload/iblock/dee/dee0bc9b5d3006deeee65736bbef8a73.jpg",
-      "https://royal-property.pro/upload/iblock/fe6/fe643a1ab1a0458556d83400c4868bdd.jpg",
-      "https://royal-property.pro/upload/iblock/663/663d9f95b280672d1ceb2ddef65c4851.jpg",
-      "https://royal-property.pro/upload/iblock/918/91845436001f78100102a0bed473e952.jpg"
-    ],
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "country": "Таиланд",
-    "city": "Паттайа",
-    "link": "/flats/pattaya-property/developments/arom-jomtien-1-bedroom-junior/",
-    "id": "8278105b81d78136f43f51a9dc299fe2",
-    "parentId": "8933d1df0e9827abe42ce5622af23646"
-  },
-  {
-    "name": "Arom Jomtien – 1 bedroom",
-    "description": "Продается 1-комнатная квартира в Arom Jomtien, Джомтьен. Площадь – 47 м², этаж по запросу. Строящееся жилье. Цена: 8 665 807 THB. Элегантное жилье с полной меблировкой от застройщика. Отличное месторасположение и современная отделка делают эту квартиру отличным выбором для комфортного проживания или аренды. Удобный доступ к пляжу и основной инфраструктуре добавляет привлекательности.",
-    "area": "Джомтьен",
-    "size": {
-      "value": 47,
-      "uom": "м2"
-    },
-    "object_type": "1 bedroom: ван бедрум, где совмещены гостинная с кухней (большая комната) и отделена спальня",
-    "floor": "по запросу",
-    "quota": "Иностранная",
-    "furniture": "стандартная-полная меблировка от застройщика",
-    "prices": [
-      {
-        "value": 248820,
-        "currency": "USD",
-        "symbol": "$"
-      },
-      {
-        "value": 25130840,
-        "currency": "RUB",
-        "symbol": "₽"
-      },
-      {
-        "value": 1933142,
-        "currency": "CNY",
-        "symbol": "¥"
-      },
-      {
-        "value": 8665807,
-        "currency": "THB",
-        "symbol": "฿"
-      }
-    ],
-    "images": [
-      "https://royal-property.pro/upload/iblock/66c/66c3c5bd692fe98545680b5acfdc4405.jpg",
-      "https://royal-property.pro/upload/iblock/f9c/f9caff9a816f387699849927a872ca19.jpg",
-      "https://royal-property.pro/upload/iblock/4d9/4d9ed3a25913ae073d35082ce71a3c3e.jpg",
-      "https://royal-property.pro/upload/iblock/463/463bb5ba115432cbeac6e0e6de6578ae.jpg",
-      "https://royal-property.pro/upload/iblock/75c/75cad78cd4b3740a3c962839a9e0bba4.jpg",
-      "https://royal-property.pro/upload/iblock/7e8/7e8449520ed7933db3dc9346e64c90ba.jpg",
-      "https://royal-property.pro/upload/iblock/867/86767da794c0136ac0b24adafb95a4e0.jpg",
-      "https://royal-property.pro/upload/iblock/2ab/2ab080aa1de66551bc71a8f96416ff47.jpg",
-      "https://royal-property.pro/upload/iblock/c4b/c4be57946e3b4f2be5a3d9a37987ce07.jpg",
-      "https://royal-property.pro/upload/iblock/c95/c950295d908fecb91a2fd7cc42264f6c.jpg",
-      "https://royal-property.pro/upload/iblock/659/6595aa1f9367c81d29fe2bd98db5f0fe.jpg",
-      "https://royal-property.pro/upload/iblock/5ff/5ff88701ddc305173086ed1ff3a3bf73.jpg",
-      "https://royal-property.pro/upload/iblock/6aa/6aa7cfb2cd076a3c08407c65aa2d8ad1.jpg",
-      "https://royal-property.pro/upload/iblock/5d8/5d8f641c545f4068bdbc4f482b22bac9.jpg",
-      "https://royal-property.pro/upload/iblock/764/76447ca3fcb845042dcb633f47712f1b.jpg",
-      "https://royal-property.pro/upload/iblock/a3a/a3ad3c24815da7488750f3b92e4f1147.jpg",
-      "https://royal-property.pro/upload/iblock/d3a/d3a06a0d3f9d48b18253425b8c93ca51.jpg",
-      "https://royal-property.pro/upload/iblock/75e/75ebc52b3d9a83de261aef5fd8c93bd6.jpg",
-      "https://royal-property.pro/upload/iblock/141/141f7eae77a0d18cb2bbfd59ffda7ba3.jpg",
-      "https://royal-property.pro/upload/iblock/63a/63a79c7314dff832d6a30bebb8477f78.jpg",
-      "https://royal-property.pro/upload/iblock/906/9068a455f812079d5412ce9cf8ba2a64.jpg",
-      "https://royal-property.pro/upload/iblock/df4/df4fb42ac77089f2462f19dce1640b4a.jpg",
-      "https://royal-property.pro/upload/iblock/5bb/5bb805c93e447417f69bda18d41346b6.jpg",
-      "https://royal-property.pro/upload/iblock/66c/66c3c5bd692fe98545680b5acfdc4405.jpg",
-      "https://royal-property.pro/upload/iblock/f9c/f9caff9a816f387699849927a872ca19.jpg",
-      "https://royal-property.pro/upload/iblock/4d9/4d9ed3a25913ae073d35082ce71a3c3e.jpg",
-      "https://royal-property.pro/upload/iblock/463/463bb5ba115432cbeac6e0e6de6578ae.jpg",
-      "https://royal-property.pro/upload/iblock/75c/75cad78cd4b3740a3c962839a9e0bba4.jpg",
-      "https://royal-property.pro/upload/iblock/7e8/7e8449520ed7933db3dc9346e64c90ba.jpg",
-      "https://royal-property.pro/upload/iblock/867/86767da794c0136ac0b24adafb95a4e0.jpg",
-      "https://royal-property.pro/upload/iblock/2ab/2ab080aa1de66551bc71a8f96416ff47.jpg",
-      "https://royal-property.pro/upload/iblock/c4b/c4be57946e3b4f2be5a3d9a37987ce07.jpg",
-      "https://royal-property.pro/upload/iblock/c95/c950295d908fecb91a2fd7cc42264f6c.jpg",
-      "https://royal-property.pro/upload/iblock/659/6595aa1f9367c81d29fe2bd98db5f0fe.jpg",
-      "https://royal-property.pro/upload/iblock/5ff/5ff88701ddc305173086ed1ff3a3bf73.jpg",
-      "https://royal-property.pro/upload/iblock/6aa/6aa7cfb2cd076a3c08407c65aa2d8ad1.jpg",
-      "https://royal-property.pro/upload/iblock/5d8/5d8f641c545f4068bdbc4f482b22bac9.jpg",
-      "https://royal-property.pro/upload/iblock/764/76447ca3fcb845042dcb633f47712f1b.jpg",
-      "https://royal-property.pro/upload/iblock/a3a/a3ad3c24815da7488750f3b92e4f1147.jpg",
-      "https://royal-property.pro/upload/iblock/d3a/d3a06a0d3f9d48b18253425b8c93ca51.jpg",
-      "https://royal-property.pro/upload/iblock/75e/75ebc52b3d9a83de261aef5fd8c93bd6.jpg",
-      "https://royal-property.pro/upload/iblock/141/141f7eae77a0d18cb2bbfd59ffda7ba3.jpg",
-      "https://royal-property.pro/upload/iblock/63a/63a79c7314dff832d6a30bebb8477f78.jpg",
-      "https://royal-property.pro/upload/iblock/906/9068a455f812079d5412ce9cf8ba2a64.jpg",
-      "https://royal-property.pro/upload/iblock/df4/df4fb42ac77089f2462f19dce1640b4a.jpg",
-      "https://royal-property.pro/upload/iblock/5bb/5bb805c93e447417f69bda18d41346b6.jpg"
-    ],
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "country": "Таиланд",
-    "city": "Паттайа",
-    "link": "/flats/pattaya-property/developments/arom-jomtien-1-bedroom/",
-    "id": "d85f32ee3d3c004c61b5bb8c19c56795",
-    "parentId": "8933d1df0e9827abe42ce5622af23646"
-  },
-  {
-    "name": "Arom Jomtien – 2 bedroom",
-    "description": "Продается 2-комнатная квартира в Arom Jomtien, Джомтьен. Площадь – 84 м², этаж по запросу. Строящееся жилье. Цена: 16 830 149 THB. Просторное жилье с полной меблировкой от застройщика. Квартира предлагает комфортное пространство с качественной отделкой и удобным расположением. Идеальна для тех, кто ищет просторные апартаменты с близким доступом к пляжу и основным удобствам.",
-    "area": "Джомтьен",
-    "size": {
-      "value": 84,
-      "uom": "м2"
-    },
-    "object_type": "2 bedroom: по своей сути 3-х комнатная квартира: это две отдельные спальни с санузлами, а в большой гостиной совмещена кухонная и обеденная зона",
-    "floor": "по запросу",
-    "quota": "Иностранная",
-    "furniture": "стандартная-полная меблировка от застройщика",
-    "prices": [
-      {
-        "value": 483242,
-        "currency": "USD",
-        "symbol": "$"
-      },
-      {
-        "value": 48807432,
-        "currency": "RUB",
-        "symbol": "₽"
-      },
-      {
-        "value": 3754418,
-        "currency": "CNY",
-        "symbol": "¥"
-      },
-      {
-        "value": 16830149,
-        "currency": "THB",
-        "symbol": "฿"
-      }
-    ],
-    "images": [
-      "https://royal-property.pro/upload/iblock/192/192db1c19f43b223b9d1708760f5868b.jpg",
-      "https://royal-property.pro/upload/iblock/80a/80a977a38060990a111c087440bf470c.jpg",
-      "https://royal-property.pro/upload/iblock/c69/c698301fffec147eb612c03785795e56.jpg",
-      "https://royal-property.pro/upload/iblock/1d7/1d75ba08bf601dafbee140727e915b6e.jpg",
-      "https://royal-property.pro/upload/iblock/ef6/ef629eb3e267b0865fb69511af54e521.jpg",
-      "https://royal-property.pro/upload/iblock/1fa/1fa81491b40319974accacb190bee981.jpg",
-      "https://royal-property.pro/upload/iblock/8ba/8bac620d8b557d1f1444039c79fabee4.jpg",
-      "https://royal-property.pro/upload/iblock/939/939460e0d2a60f030faeedae4fd17365.jpg",
-      "https://royal-property.pro/upload/iblock/001/001bdbfc10f05a6a98724cded1d897c7.jpg",
-      "https://royal-property.pro/upload/iblock/09e/09e0893555aee63cd214cf2a09816d55.jpg",
-      "https://royal-property.pro/upload/iblock/4a8/4a838fa90a0227aef70d0510c759d614.jpg",
-      "https://royal-property.pro/upload/iblock/1b1/1b1d59c1d94b67030d8e31904fd713a0.jpg",
-      "https://royal-property.pro/upload/iblock/bd5/bd59566973242be536e036aa19039dcb.jpg",
-      "https://royal-property.pro/upload/iblock/1cc/1ccf05f1f93fb30a98aa6205a8a38c6c.jpg",
-      "https://royal-property.pro/upload/iblock/c51/c51f3681c985dbd61eb4a1bbdd4c09e7.jpg",
-      "https://royal-property.pro/upload/iblock/d42/d42f4762a740d2dd6d5eec1a5112881f.jpg",
-      "https://royal-property.pro/upload/iblock/c7b/c7beebafba09aea720a8803c872347b7.jpg",
-      "https://royal-property.pro/upload/iblock/ac6/ac690baffa900ee1c19181a6d5e16126.jpg",
-      "https://royal-property.pro/upload/iblock/e4f/e4fe6b15f085c93b62706bd868e70af7.jpg",
-      "https://royal-property.pro/upload/iblock/47a/47a6fb5d75268a768ba28c8d3f7577a6.jpg",
-      "https://royal-property.pro/upload/iblock/bb6/bb6230ec47d44cf84f8377065ca1ceac.jpg",
-      "https://royal-property.pro/upload/iblock/782/7822ab5d0b2e51d9e5a87006e4d900f7.jpg",
-      "https://royal-property.pro/upload/iblock/161/161ae353179838d2fede138c7598d402.jpg",
-      "https://royal-property.pro/upload/iblock/942/9423c040cd7205671924154bed2c2858.jpg",
-      "https://royal-property.pro/upload/iblock/39b/39b435054820147ad680b0d844bf4b02.jpg",
-      "https://royal-property.pro/upload/iblock/efa/efac0aaa9f35ca861d1425471ae6e5ec.jpg",
-      "https://royal-property.pro/upload/iblock/4f1/4f1b19bfc16cba8f9451f478b9087118.jpg",
-      "https://royal-property.pro/upload/iblock/846/84697fafd37f41f38867d47965a7abbf.jpg",
-      "https://royal-property.pro/upload/iblock/2b1/2b1f260d05bdbf08a06baa436570445f.jpg",
-      "https://royal-property.pro/upload/iblock/8b4/8b4cbc155410f09661ae01e1e92d132e.jpg",
-      "https://royal-property.pro/upload/iblock/956/956cc7ae100abbb045e830548f19c95f.jpg",
-      "https://royal-property.pro/upload/iblock/4c8/4c885b20c820af32f3c241fccec72ebf.jpg",
-      "https://royal-property.pro/upload/iblock/7f4/7f4fead4d71ba714b64ad2945d7fd9bb.jpg",
-      "https://royal-property.pro/upload/iblock/378/378bf7ec029c09111f1394e0d0376e6c.jpg",
-      "https://royal-property.pro/upload/iblock/fbd/fbd2a1131ce721393c4d40943319baeb.jpg",
-      "https://royal-property.pro/upload/iblock/785/7851672e4bd230d9e5f99817473c5345.jpg",
-      "https://royal-property.pro/upload/iblock/46e/46e92c489180838103f278b4d05aec5a.jpg",
-      "https://royal-property.pro/upload/iblock/819/819d064ea95ec9a27707c633e5b46c04.jpg",
-      "https://royal-property.pro/upload/iblock/4d8/4d809c270b089288ce19e270c108f351.jpg",
-      "https://royal-property.pro/upload/iblock/128/1287a02baa7654e65aa3372e523f9576.jpg",
-      "https://royal-property.pro/upload/iblock/521/5213edfe278dd08cd549f3425706db1f.jpg",
-      "https://royal-property.pro/upload/iblock/257/25714862942eb1a46517319a69d8c64a.jpg",
-      "https://royal-property.pro/upload/iblock/1f0/1f0aac0999f5498516f79b0e41a7eace.jpg",
-      "https://royal-property.pro/upload/iblock/684/6846a9cfdf1ca0aa09792b3463888f0f.jpg",
-      "https://royal-property.pro/upload/iblock/192/192db1c19f43b223b9d1708760f5868b.jpg",
-      "https://royal-property.pro/upload/iblock/80a/80a977a38060990a111c087440bf470c.jpg",
-      "https://royal-property.pro/upload/iblock/c69/c698301fffec147eb612c03785795e56.jpg",
-      "https://royal-property.pro/upload/iblock/1d7/1d75ba08bf601dafbee140727e915b6e.jpg",
-      "https://royal-property.pro/upload/iblock/ef6/ef629eb3e267b0865fb69511af54e521.jpg",
-      "https://royal-property.pro/upload/iblock/1fa/1fa81491b40319974accacb190bee981.jpg",
-      "https://royal-property.pro/upload/iblock/8ba/8bac620d8b557d1f1444039c79fabee4.jpg",
-      "https://royal-property.pro/upload/iblock/939/939460e0d2a60f030faeedae4fd17365.jpg",
-      "https://royal-property.pro/upload/iblock/001/001bdbfc10f05a6a98724cded1d897c7.jpg",
-      "https://royal-property.pro/upload/iblock/09e/09e0893555aee63cd214cf2a09816d55.jpg",
-      "https://royal-property.pro/upload/iblock/4a8/4a838fa90a0227aef70d0510c759d614.jpg",
-      "https://royal-property.pro/upload/iblock/1b1/1b1d59c1d94b67030d8e31904fd713a0.jpg",
-      "https://royal-property.pro/upload/iblock/bd5/bd59566973242be536e036aa19039dcb.jpg",
-      "https://royal-property.pro/upload/iblock/1cc/1ccf05f1f93fb30a98aa6205a8a38c6c.jpg",
-      "https://royal-property.pro/upload/iblock/c51/c51f3681c985dbd61eb4a1bbdd4c09e7.jpg",
-      "https://royal-property.pro/upload/iblock/d42/d42f4762a740d2dd6d5eec1a5112881f.jpg",
-      "https://royal-property.pro/upload/iblock/c7b/c7beebafba09aea720a8803c872347b7.jpg",
-      "https://royal-property.pro/upload/iblock/ac6/ac690baffa900ee1c19181a6d5e16126.jpg",
-      "https://royal-property.pro/upload/iblock/e4f/e4fe6b15f085c93b62706bd868e70af7.jpg",
-      "https://royal-property.pro/upload/iblock/47a/47a6fb5d75268a768ba28c8d3f7577a6.jpg",
-      "https://royal-property.pro/upload/iblock/bb6/bb6230ec47d44cf84f8377065ca1ceac.jpg",
-      "https://royal-property.pro/upload/iblock/782/7822ab5d0b2e51d9e5a87006e4d900f7.jpg",
-      "https://royal-property.pro/upload/iblock/161/161ae353179838d2fede138c7598d402.jpg",
-      "https://royal-property.pro/upload/iblock/942/9423c040cd7205671924154bed2c2858.jpg",
-      "https://royal-property.pro/upload/iblock/39b/39b435054820147ad680b0d844bf4b02.jpg",
-      "https://royal-property.pro/upload/iblock/efa/efac0aaa9f35ca861d1425471ae6e5ec.jpg",
-      "https://royal-property.pro/upload/iblock/4f1/4f1b19bfc16cba8f9451f478b9087118.jpg",
-      "https://royal-property.pro/upload/iblock/846/84697fafd37f41f38867d47965a7abbf.jpg",
-      "https://royal-property.pro/upload/iblock/2b1/2b1f260d05bdbf08a06baa436570445f.jpg",
-      "https://royal-property.pro/upload/iblock/8b4/8b4cbc155410f09661ae01e1e92d132e.jpg",
-      "https://royal-property.pro/upload/iblock/956/956cc7ae100abbb045e830548f19c95f.jpg",
-      "https://royal-property.pro/upload/iblock/4c8/4c885b20c820af32f3c241fccec72ebf.jpg",
-      "https://royal-property.pro/upload/iblock/7f4/7f4fead4d71ba714b64ad2945d7fd9bb.jpg",
-      "https://royal-property.pro/upload/iblock/378/378bf7ec029c09111f1394e0d0376e6c.jpg",
-      "https://royal-property.pro/upload/iblock/fbd/fbd2a1131ce721393c4d40943319baeb.jpg",
-      "https://royal-property.pro/upload/iblock/785/7851672e4bd230d9e5f99817473c5345.jpg",
-      "https://royal-property.pro/upload/iblock/46e/46e92c489180838103f278b4d05aec5a.jpg",
-      "https://royal-property.pro/upload/iblock/819/819d064ea95ec9a27707c633e5b46c04.jpg",
-      "https://royal-property.pro/upload/iblock/4d8/4d809c270b089288ce19e270c108f351.jpg",
-      "https://royal-property.pro/upload/iblock/128/1287a02baa7654e65aa3372e523f9576.jpg",
-      "https://royal-property.pro/upload/iblock/521/5213edfe278dd08cd549f3425706db1f.jpg",
-      "https://royal-property.pro/upload/iblock/257/25714862942eb1a46517319a69d8c64a.jpg",
-      "https://royal-property.pro/upload/iblock/1f0/1f0aac0999f5498516f79b0e41a7eace.jpg",
-      "https://royal-property.pro/upload/iblock/684/6846a9cfdf1ca0aa09792b3463888f0f.jpg"
-    ],
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "country": "Таиланд",
-    "city": "Паттайа",
-    "link": "/flats/pattaya-property/developments/arom-jomtien-2-bedroom/",
-    "id": "70c5063ec38ba1c4a12ddad1676eb116",
-    "parentId": "8933d1df0e9827abe42ce5622af23646"
-  },
-  {
-    "name": "The Title Katabello – 1 bedroom (28-37 м²)",
-    "description": "Продается 1-комнатная квартира, площадью 28-37 м² в The Title Katabello, Ката. В 500 м от пляжа, она предлагает уютные и светлые жилые зоны, хороший вариант под аренду. Просторная планировка и стильный интерьер создают комфортную атмосферу, а близость к морю делает эту квартиру идеальным выбором для проживания или инвестиций. Отличное предложение для тех, кто ценит удобство и качество жизни. Цена от: 3 090 000 THB.",
+    "name": "The Title Katabello – 1 bedroom (32-37 м²)",
+    "description": "Продается 1-комнатная квартира, площадью 32-37 м² в The Title Katabello, Ката. В 500 м от пляжа, она предлагает уютные и светлые жилые зоны, хороший вариант под аренду. Просторная планировка и стильный интерьер создают комфортную атмосферу, а близость к морю делает эту квартиру идеальным выбором для проживания или инвестиций. Отличное предложение для тех, кто ценит удобство и качество жизни. Цена от: 4 640 000 THB.",
     "area": "Ката",
     "size": {
       "value": 28,
@@ -5235,32 +5523,34 @@
     "furniture": "Уточняйте у Агента",
     "prices": [
       {
-        "value": 86139,
+        "value": 137306,
         "currency": "USD",
         "symbol": "$"
       },
       {
-        "value": 8700000,
+        "value": 13456000,
         "currency": "RUB",
         "symbol": "₽"
       },
       {
-        "value": 669231,
+        "value": 1035077,
         "currency": "CNY",
         "symbol": "¥"
       },
       {
-        "value": 3000000,
+        "value": 4640000,
         "currency": "THB",
         "symbol": "฿"
       }
     ],
     "images": [
-      "https://royal-property.pro/upload/iblock/672/qo3c5ia0ic9de1be8fhglfsp25zmskon.webp",
+      "https://royal-property.pro/upload/iblock/774/2gj9uv8vcwn13ah5oudgb8muvkgr90ih.webp",
+      "https://royal-property.pro/upload/iblock/bc1/tre9c6obyizfdlbn58aqffa2rc7p0dp3.webp",
       "https://royal-property.pro/upload/iblock/865/1z1tqab9ll3w2img1fjalg3kz534k3ma.webp",
       "https://royal-property.pro/upload/iblock/92d/c8o82t8p4ivt37p06w3zqc8v9dffxyot.webp",
       "https://royal-property.pro/upload/iblock/4d8/l21n10io4ssuu2iu53wyw3j2hzus9hpp.webp",
-      "https://royal-property.pro/upload/iblock/672/qo3c5ia0ic9de1be8fhglfsp25zmskon.webp",
+      "https://royal-property.pro/upload/iblock/774/2gj9uv8vcwn13ah5oudgb8muvkgr90ih.webp",
+      "https://royal-property.pro/upload/iblock/bc1/tre9c6obyizfdlbn58aqffa2rc7p0dp3.webp",
       "https://royal-property.pro/upload/iblock/865/1z1tqab9ll3w2img1fjalg3kz534k3ma.webp",
       "https://royal-property.pro/upload/iblock/92d/c8o82t8p4ivt37p06w3zqc8v9dffxyot.webp",
       "https://royal-property.pro/upload/iblock/4d8/l21n10io4ssuu2iu53wyw3j2hzus9hpp.webp"
@@ -5269,8 +5559,8 @@
     "bathrooms": 1,
     "country": "Таиланд",
     "city": "Пхукет",
-    "link": "/flats/phuket-property/the-title-katabello-1-bedroom-28-37-m/",
-    "id": "447af39e55b3e62f34f183fc09eeb581",
+    "link": "/flats/phuket-property/the-title-katabello-1-bedroom-32-37-m/",
+    "id": "734017d9ed7c9dddfaa20ab5e8b7f930",
     "parentId": "a50462c71b571d8e312e806d8455c6d4"
   },
   {
@@ -5287,7 +5577,7 @@
     "furniture": "Уточняйте у Агента",
     "prices": [
       {
-        "value": 134950,
+        "value": 139082,
         "currency": "USD",
         "symbol": "$"
       },
@@ -5308,10 +5598,10 @@
       }
     ],
     "images": [
-      "https://royal-property.pro/upload/iblock/928/0xlk7wqb430y70y1ekctca4ykdtli70c.webp",
+      "https://royal-property.pro/upload/iblock/3be/e2jfutc4q506ajm297pxjrt8j6rf086p.webp",
       "https://royal-property.pro/upload/iblock/abd/ihu138zcm2jni72edvo4a175vxrkom00.webp",
       "https://royal-property.pro/upload/iblock/b6a/4c8pjfq4mv8wp4kpmjgpr0ccr3iss39w.webp",
-      "https://royal-property.pro/upload/iblock/928/0xlk7wqb430y70y1ekctca4ykdtli70c.webp",
+      "https://royal-property.pro/upload/iblock/3be/e2jfutc4q506ajm297pxjrt8j6rf086p.webp",
       "https://royal-property.pro/upload/iblock/abd/ihu138zcm2jni72edvo4a175vxrkom00.webp",
       "https://royal-property.pro/upload/iblock/b6a/4c8pjfq4mv8wp4kpmjgpr0ccr3iss39w.webp"
     ],
@@ -5337,7 +5627,7 @@
     "furniture": "Уточняйте у Агента",
     "prices": [
       {
-        "value": 226832,
+        "value": 233776,
         "currency": "USD",
         "symbol": "$"
       },
@@ -5358,9 +5648,9 @@
       }
     ],
     "images": [
-      "https://royal-property.pro/upload/iblock/2a7/8spuvqmh8n1tv18g54ahhb1a98y5z4q4.webp",
+      "https://royal-property.pro/upload/iblock/08d/e34pb2lz6ucl8okbav2w2qdrzct1vkgm.webp",
       "https://royal-property.pro/upload/iblock/fd6/jbuebmz9xpmqs2qhmf698hjwz31rpscm.webp",
-      "https://royal-property.pro/upload/iblock/2a7/8spuvqmh8n1tv18g54ahhb1a98y5z4q4.webp",
+      "https://royal-property.pro/upload/iblock/08d/e34pb2lz6ucl8okbav2w2qdrzct1vkgm.webp",
       "https://royal-property.pro/upload/iblock/fd6/jbuebmz9xpmqs2qhmf698hjwz31rpscm.webp"
     ],
     "bedrooms": 2,
@@ -5385,7 +5675,7 @@
     "furniture": "2 bedroom: Совмещены большая кухонная зона с просторной гостиной (большая комната) и две отдельных спальни с ванными комнатами & Возможен вариант планировки Duplex \nМебель: Уточняйте у Агентамеблировка: Уточняйте у агента",
     "prices": [
       {
-        "value": 263412,
+        "value": 271476,
         "currency": "USD",
         "symbol": "$"
       },
@@ -5453,7 +5743,7 @@
     "furniture": "меблировка: Уточняйте у агента",
     "prices": [
       {
-        "value": 245495,
+        "value": 253010,
         "currency": "USD",
         "symbol": "$"
       },
@@ -5523,7 +5813,7 @@
     "furniture": "меблировка: Уточняйте у агента",
     "prices": [
       {
-        "value": 122403,
+        "value": 126150,
         "currency": "USD",
         "symbol": "$"
       },
@@ -5591,7 +5881,7 @@
     "furniture": "меблировка: готова к сдаче в аренду",
     "prices": [
       {
-        "value": 109675,
+        "value": 113032,
         "currency": "USD",
         "symbol": "$"
       },
@@ -5641,7 +5931,7 @@
     "furniture": "меблировка: готова к сдаче в аренду",
     "prices": [
       {
-        "value": 132475,
+        "value": 136530,
         "currency": "USD",
         "symbol": "$"
       },
@@ -5781,7 +6071,7 @@
     "furniture": "меблировка: готова к сдаче в аренду",
     "prices": [
       {
-        "value": 522574,
+        "value": 538571,
         "currency": "USD",
         "symbol": "$"
       },
@@ -5853,7 +6143,7 @@
     "furniture": "меблировка: готова к сдаче в аренду",
     "prices": [
       {
-        "value": 261287,
+        "value": 269286,
         "currency": "USD",
         "symbol": "$"
       },
@@ -5943,7 +6233,7 @@
     "furniture": "меблировка: готова к сдаче в аренду",
     "prices": [
       {
-        "value": 116574,
+        "value": 120143,
         "currency": "USD",
         "symbol": "$"
       },
@@ -6019,7 +6309,7 @@
     "furniture": "в стоимость включена чистовая отделка, освещение, встроенная мебель, сантехника, кондиционеры",
     "prices": [
       {
-        "value": 183188,
+        "value": 188796,
         "currency": "USD",
         "symbol": "$"
       },
@@ -6040,30 +6330,30 @@
       }
     ],
     "images": [
-      "https://royal-property.pro/upload/iblock/99e/20bswgkmgeyvsqd9yj326eryjcv1jp9s.webp",
-      "https://royal-property.pro/upload/iblock/362/zwiknaei9aivcv7ovdng1dnojsuqj99a.webp",
-      "https://royal-property.pro/upload/iblock/824/c8lbbg49hxztde5pj6jq7983fadqi797.webp",
-      "https://royal-property.pro/upload/iblock/67f/j20coe2ltbxzc32g0pkqgolaljrg1e3s.jpeg",
-      "https://royal-property.pro/upload/iblock/5cc/4mgadnkai3bs7bej5rz028ot483gbxv8.jpeg",
-      "https://royal-property.pro/upload/iblock/ff1/iiwknnqec18vuowcs7w9xl433s0fddam.jpeg",
-      "https://royal-property.pro/upload/iblock/39d/lw9cmy2va66gzji8pdx98vab5a7nvlnu.jpeg",
-      "https://royal-property.pro/upload/iblock/a1e/odugtp790gqpkzm6r45pmh93hn976889.jpeg",
-      "https://royal-property.pro/upload/iblock/c6c/dly84iako269auln1yhsqdjyxgf2dleb.jpeg",
-      "https://royal-property.pro/upload/iblock/21c/wkgsxg2sgknljxkjghjzwukq4r62b87w.jpeg",
-      "https://royal-property.pro/upload/iblock/d26/akev68f669low0s1x3nah8tkvqjkxugm.jpeg",
-      "https://royal-property.pro/upload/iblock/882/l7qhh6xzs8l6qlacewth9ncofpih835g.jpeg",
-      "https://royal-property.pro/upload/iblock/99e/20bswgkmgeyvsqd9yj326eryjcv1jp9s.webp",
-      "https://royal-property.pro/upload/iblock/362/zwiknaei9aivcv7ovdng1dnojsuqj99a.webp",
-      "https://royal-property.pro/upload/iblock/824/c8lbbg49hxztde5pj6jq7983fadqi797.webp",
-      "https://royal-property.pro/upload/iblock/67f/j20coe2ltbxzc32g0pkqgolaljrg1e3s.jpeg",
-      "https://royal-property.pro/upload/iblock/5cc/4mgadnkai3bs7bej5rz028ot483gbxv8.jpeg",
-      "https://royal-property.pro/upload/iblock/ff1/iiwknnqec18vuowcs7w9xl433s0fddam.jpeg",
-      "https://royal-property.pro/upload/iblock/39d/lw9cmy2va66gzji8pdx98vab5a7nvlnu.jpeg",
-      "https://royal-property.pro/upload/iblock/a1e/odugtp790gqpkzm6r45pmh93hn976889.jpeg",
-      "https://royal-property.pro/upload/iblock/c6c/dly84iako269auln1yhsqdjyxgf2dleb.jpeg",
-      "https://royal-property.pro/upload/iblock/21c/wkgsxg2sgknljxkjghjzwukq4r62b87w.jpeg",
-      "https://royal-property.pro/upload/iblock/d26/akev68f669low0s1x3nah8tkvqjkxugm.jpeg",
-      "https://royal-property.pro/upload/iblock/882/l7qhh6xzs8l6qlacewth9ncofpih835g.jpeg"
+      "https://royal-property.pro/upload/iblock/f50/mxue9o4yhv0p4yqv8egj8jbgwa90g1xi.webp",
+      "https://royal-property.pro/upload/iblock/954/4ryy80zddp7jghshh7huy7x5thekctfw.webp",
+      "https://royal-property.pro/upload/iblock/233/1rraw72myob0wnk2ll0vg2f8nxmpuc32.webp",
+      "https://royal-property.pro/upload/iblock/34c/syedv9lpop7ofaqijlgjgxfm9si75v70.jpeg",
+      "https://royal-property.pro/upload/iblock/4ab/9u2stxm50wvcspz9lt7i36ydze4zetzp.jpeg",
+      "https://royal-property.pro/upload/iblock/756/si0ixk3i3u2g2httmvxbiak7pfru6d1b.jpeg",
+      "https://royal-property.pro/upload/iblock/25f/wi9oz9necx6fcxe6fho3qywple8bq93e.jpeg",
+      "https://royal-property.pro/upload/iblock/d55/metgci22cb2uoqxj1n9ylbupsdpdp06v.jpeg",
+      "https://royal-property.pro/upload/iblock/dd2/7z54mg4pa5zlg6tbzy138oyxo6i9stpg.jpeg",
+      "https://royal-property.pro/upload/iblock/85e/zsicnt7ml9kj768xkd5svkud8r81euk2.jpeg",
+      "https://royal-property.pro/upload/iblock/ae8/zreihlq35vcabergyfz4f22awkhyhpez.jpeg",
+      "https://royal-property.pro/upload/iblock/069/33t523nousav2y69oat3h52ver9tm2hn.jpeg",
+      "https://royal-property.pro/upload/iblock/f50/mxue9o4yhv0p4yqv8egj8jbgwa90g1xi.webp",
+      "https://royal-property.pro/upload/iblock/954/4ryy80zddp7jghshh7huy7x5thekctfw.webp",
+      "https://royal-property.pro/upload/iblock/233/1rraw72myob0wnk2ll0vg2f8nxmpuc32.webp",
+      "https://royal-property.pro/upload/iblock/34c/syedv9lpop7ofaqijlgjgxfm9si75v70.jpeg",
+      "https://royal-property.pro/upload/iblock/4ab/9u2stxm50wvcspz9lt7i36ydze4zetzp.jpeg",
+      "https://royal-property.pro/upload/iblock/756/si0ixk3i3u2g2httmvxbiak7pfru6d1b.jpeg",
+      "https://royal-property.pro/upload/iblock/25f/wi9oz9necx6fcxe6fho3qywple8bq93e.jpeg",
+      "https://royal-property.pro/upload/iblock/d55/metgci22cb2uoqxj1n9ylbupsdpdp06v.jpeg",
+      "https://royal-property.pro/upload/iblock/dd2/7z54mg4pa5zlg6tbzy138oyxo6i9stpg.jpeg",
+      "https://royal-property.pro/upload/iblock/85e/zsicnt7ml9kj768xkd5svkud8r81euk2.jpeg",
+      "https://royal-property.pro/upload/iblock/ae8/zreihlq35vcabergyfz4f22awkhyhpez.jpeg",
+      "https://royal-property.pro/upload/iblock/069/33t523nousav2y69oat3h52ver9tm2hn.jpeg"
     ],
     "bedrooms": 2,
     "bathrooms": 2,
@@ -6087,7 +6377,7 @@
     "furniture": "в стоимость включена чистовая отделка, освещение, встроенная мебель, сантехника, кондиционеры",
     "prices": [
       {
-        "value": 82980,
+        "value": 85520,
         "currency": "USD",
         "symbol": "$"
       },
@@ -6108,34 +6398,34 @@
       }
     ],
     "images": [
-      "https://royal-property.pro/upload/iblock/54c/4pnuzel9ko1ka38gsop1cdd814k5rx28.webp",
-      "https://royal-property.pro/upload/iblock/84e/yug1nbl6jx0uph0kiyj9vs36om139dsk.webp",
-      "https://royal-property.pro/upload/iblock/037/6qz9lbafebe613vipb7wm0g5hhbafdct.jpeg",
-      "https://royal-property.pro/upload/iblock/34c/8pgatb7o41x9g46n6azq7dwfuwl7aflx.jpeg",
-      "https://royal-property.pro/upload/iblock/8c1/ildeo0ii0su1d8y6bfadwfl0djwefz4x.jpeg",
-      "https://royal-property.pro/upload/iblock/1e5/jw469794tcqwysgwq7ak3f72cmfaz13q.jpeg",
-      "https://royal-property.pro/upload/iblock/53d/qbqxvad6tseyaz885h9mm9f8rg2509a9.jpeg",
-      "https://royal-property.pro/upload/iblock/884/u2h85ilbjbuofjpliqx7yb0t3oyyxkg8.jpeg",
-      "https://royal-property.pro/upload/iblock/066/o36s1xuyt7rgqqkemn0ddy8s8latfs8k.jpeg",
-      "https://royal-property.pro/upload/iblock/36e/8fmukyr23y9yyg6ssbpzgftyu1pn596p.jpeg",
-      "https://royal-property.pro/upload/iblock/d99/ef01e19a8g0sdfouohtfhxsmw5ur1kl8.jpeg",
-      "https://royal-property.pro/upload/iblock/142/bgx80n27s7pdo53b5pz35xcx0vtppec4.jpeg",
-      "https://royal-property.pro/upload/iblock/b1f/b2y9ts7zfeoubffnzwvqgcbzyed38xyk.jpeg",
-      "https://royal-property.pro/upload/iblock/d39/bqkbq26qcw611p4w49kd2uvr5m1nw5uh.jpeg",
-      "https://royal-property.pro/upload/iblock/54c/4pnuzel9ko1ka38gsop1cdd814k5rx28.webp",
-      "https://royal-property.pro/upload/iblock/84e/yug1nbl6jx0uph0kiyj9vs36om139dsk.webp",
-      "https://royal-property.pro/upload/iblock/037/6qz9lbafebe613vipb7wm0g5hhbafdct.jpeg",
-      "https://royal-property.pro/upload/iblock/34c/8pgatb7o41x9g46n6azq7dwfuwl7aflx.jpeg",
-      "https://royal-property.pro/upload/iblock/8c1/ildeo0ii0su1d8y6bfadwfl0djwefz4x.jpeg",
-      "https://royal-property.pro/upload/iblock/1e5/jw469794tcqwysgwq7ak3f72cmfaz13q.jpeg",
-      "https://royal-property.pro/upload/iblock/53d/qbqxvad6tseyaz885h9mm9f8rg2509a9.jpeg",
-      "https://royal-property.pro/upload/iblock/884/u2h85ilbjbuofjpliqx7yb0t3oyyxkg8.jpeg",
-      "https://royal-property.pro/upload/iblock/066/o36s1xuyt7rgqqkemn0ddy8s8latfs8k.jpeg",
-      "https://royal-property.pro/upload/iblock/36e/8fmukyr23y9yyg6ssbpzgftyu1pn596p.jpeg",
-      "https://royal-property.pro/upload/iblock/d99/ef01e19a8g0sdfouohtfhxsmw5ur1kl8.jpeg",
-      "https://royal-property.pro/upload/iblock/142/bgx80n27s7pdo53b5pz35xcx0vtppec4.jpeg",
-      "https://royal-property.pro/upload/iblock/b1f/b2y9ts7zfeoubffnzwvqgcbzyed38xyk.jpeg",
-      "https://royal-property.pro/upload/iblock/d39/bqkbq26qcw611p4w49kd2uvr5m1nw5uh.jpeg"
+      "https://royal-property.pro/upload/iblock/c0d/1n0cpy22gu0k93rsphbizdj5fx32g8w7.webp",
+      "https://royal-property.pro/upload/iblock/84c/vdl8bx4rczptknnvb3jblq0fyyeusdrk.webp",
+      "https://royal-property.pro/upload/iblock/2b8/xycaay0e0xc5c5z8bfkfd1oxp9k8v7ag.jpeg",
+      "https://royal-property.pro/upload/iblock/2a4/b02j4zf8fmtkx1frt9bku5zrm0iw0bil.jpeg",
+      "https://royal-property.pro/upload/iblock/55d/w1r536rryubw1odzqiqybvussamrf80q.jpeg",
+      "https://royal-property.pro/upload/iblock/6a8/dejtvz5ll6636aeb9m228up70fp0xhyu.jpeg",
+      "https://royal-property.pro/upload/iblock/e7b/4qhf3uwzosrl6tys3qg2gpbarfieo51y.jpeg",
+      "https://royal-property.pro/upload/iblock/73c/b5ri3scnzhq0t40d8wqj6mat1r8iygb4.jpeg",
+      "https://royal-property.pro/upload/iblock/092/4hv5ima8qqdclrpii7jfgcvmigujtkxl.jpeg",
+      "https://royal-property.pro/upload/iblock/e5c/hlxiux2akj465v5l3sk10k7yvn0q6sst.jpeg",
+      "https://royal-property.pro/upload/iblock/3e3/q4s1b05bx9fjypr2ok7ifhinb4nkk88x.jpeg",
+      "https://royal-property.pro/upload/iblock/9c5/vf7ggptfhfk22zu2dc92yeiit2ws9jm7.jpeg",
+      "https://royal-property.pro/upload/iblock/5ce/q2a74u20ov0egzvlvedvyglnk2byyd66.jpeg",
+      "https://royal-property.pro/upload/iblock/cfb/1rx4k83uk0vh3oflaynbbbnc83tejg3p.jpeg",
+      "https://royal-property.pro/upload/iblock/c0d/1n0cpy22gu0k93rsphbizdj5fx32g8w7.webp",
+      "https://royal-property.pro/upload/iblock/84c/vdl8bx4rczptknnvb3jblq0fyyeusdrk.webp",
+      "https://royal-property.pro/upload/iblock/2b8/xycaay0e0xc5c5z8bfkfd1oxp9k8v7ag.jpeg",
+      "https://royal-property.pro/upload/iblock/2a4/b02j4zf8fmtkx1frt9bku5zrm0iw0bil.jpeg",
+      "https://royal-property.pro/upload/iblock/55d/w1r536rryubw1odzqiqybvussamrf80q.jpeg",
+      "https://royal-property.pro/upload/iblock/6a8/dejtvz5ll6636aeb9m228up70fp0xhyu.jpeg",
+      "https://royal-property.pro/upload/iblock/e7b/4qhf3uwzosrl6tys3qg2gpbarfieo51y.jpeg",
+      "https://royal-property.pro/upload/iblock/73c/b5ri3scnzhq0t40d8wqj6mat1r8iygb4.jpeg",
+      "https://royal-property.pro/upload/iblock/092/4hv5ima8qqdclrpii7jfgcvmigujtkxl.jpeg",
+      "https://royal-property.pro/upload/iblock/e5c/hlxiux2akj465v5l3sk10k7yvn0q6sst.jpeg",
+      "https://royal-property.pro/upload/iblock/3e3/q4s1b05bx9fjypr2ok7ifhinb4nkk88x.jpeg",
+      "https://royal-property.pro/upload/iblock/9c5/vf7ggptfhfk22zu2dc92yeiit2ws9jm7.jpeg",
+      "https://royal-property.pro/upload/iblock/5ce/q2a74u20ov0egzvlvedvyglnk2byyd66.jpeg",
+      "https://royal-property.pro/upload/iblock/cfb/1rx4k83uk0vh3oflaynbbbnc83tejg3p.jpeg"
     ],
     "bedrooms": 1,
     "bathrooms": 1,
@@ -6159,7 +6449,7 @@
     "furniture": "В стоимость включен мебельный пакет",
     "prices": [
       {
-        "value": 106238,
+        "value": 109490,
         "currency": "USD",
         "symbol": "$"
       },
@@ -6231,7 +6521,7 @@
     "furniture": "3 bedroom: Совмещены большая кухонная зона с просторной гостиной, две отдельных больших спальни с ванными комнатами. одна гостевая спальня и два гардероба \nМебель: меблировка от застройщикамеблировка: готова к сдаче в аренду",
     "prices": [
       {
-        "value": 379613,
+        "value": 391234,
         "currency": "USD",
         "symbol": "$"
       },
@@ -6285,7 +6575,7 @@
     "furniture": "2 bedroom: , Совмещены большая кухонная зона с просторной гостиной (большая комната) и две отдельных спальни с ванными комнатами\nМебель: меблировка от застройщика\nмеблировка: готова к сдаче в аренду",
     "prices": [
       {
-        "value": 191486,
+        "value": 197348,
         "currency": "USD",
         "symbol": "$"
       },
@@ -6339,7 +6629,7 @@
     "furniture": "1 bedroom: , Совмещены большая кухонная зона с просторной гостиной (большая комната) и отдельная спальни с ванной комнатой\nМебель: меблировка от застройщикамеблировка: готова к сдаче в аренду",
     "prices": [
       {
-        "value": 116861,
+        "value": 120439,
         "currency": "USD",
         "symbol": "$"
       },
@@ -6393,7 +6683,7 @@
     "furniture": "1 bedroom: Совмещены большая кухонная зона с просторной гостиной (большая комната) и отдельная спальни с ванной комнатой\nМебель: меблировка от застройщикамеблировка: готова к сдаче в аренду",
     "prices": [
       {
-        "value": 80396,
+        "value": 82857,
         "currency": "USD",
         "symbol": "$"
       },
@@ -6435,7 +6725,7 @@
   },
   {
     "name": "The Title Serenity – 2 bedroom (61 м²) E503",
-    "description": "Район: The Title Serenity, Банг Тао | До пляжа: 2.5 км\n Окончание строительства: Строящееся\n Цена: 7 417 600 бат\n Продается 2-комнатная квартира площадью 61 м² в престижном комплексе The Title Serenity. Полностью меблированное жилье с высоким арендным потенциалом. Комплекс предлагает охрану, бассейн и фитнес-центр. Отличное решение для комфортного проживания и инвестиционных целей у моря.",
+    "description": "Район: The Title Serenity, Банг Тао | До пляжа: 2.5 км\n Окончание строительства: Строящееся\n Цена: 7 889 000 бат\n Продается 2-комнатная квартира площадью 61 м² в престижном комплексе The Title Serenity. Полностью меблированное жилье с высоким арендным потенциалом. Комплекс предлагает охрану, бассейн и фитнес-центр. Отличное решение для комфортного проживания и инвестиционных целей у моря.",
     "area": "Найянг",
     "size": {
       "value": 61,
@@ -6447,22 +6737,22 @@
     "furniture": "меблировка: готова к сдаче в аренду",
     "prices": [
       {
-        "value": 212981,
+        "value": 233450,
         "currency": "USD",
         "symbol": "$"
       },
       {
-        "value": 21511040,
+        "value": 22878100,
         "currency": "RUB",
         "symbol": "₽"
       },
       {
-        "value": 1654695,
+        "value": 1759854,
         "currency": "CNY",
         "symbol": "¥"
       },
       {
-        "value": 7417600,
+        "value": 7889000,
         "currency": "THB",
         "symbol": "฿"
       }
@@ -6528,284 +6818,6 @@
     "parentId": "4221032246fe154abf954e61aab68daf"
   },
   {
-    "name": "Pier22 @Bangtao Beach - 2 bedroom Plus (66-70 м²)",
-    "description": "Продается просторная двухкомнатная квартира, увеличенного типа, площадью (66-70 м²) в Pier22 @Bangtao Beach, Банг Тао. Находящаяся в 1,9 км от пляжа, она предлагает качественную отделку, пакет мебелировки по запросу, кондиционеры и декор. Современный стиль и удобное расположение делают эту квартиру отличным выбором как для аренды, так и для проживания. Качество строительства от застройщика обеспечивает готовность к переезду без дополнительных затрат. Цена: от 6 632 000 THB.",
-    "area": "Бангтао",
-    "size": {
-      "value": 66,
-      "uom": "м2"
-    },
-    "object_type": "2 bedroom Plus",
-    "floor": "1-7",
-    "quota": "",
-    "furniture": "Стоимость мебельного пакета: уточняйте у Агента",
-    "prices": [
-      {
-        "value": 190424,
-        "currency": "USD",
-        "symbol": "$"
-      },
-      {
-        "value": 19232800,
-        "currency": "RUB",
-        "symbol": "₽"
-      },
-      {
-        "value": 1479446,
-        "currency": "CNY",
-        "symbol": "¥"
-      },
-      {
-        "value": 6632000,
-        "currency": "THB",
-        "symbol": "฿"
-      }
-    ],
-    "images": [
-      "https://royal-property.pro/upload/iblock/864/q8qhjaz5k9gcz6edm3q3duf41bn3plp2.webp",
-      "https://royal-property.pro/upload/iblock/679/79ymyl7inwe22uhesdkjkea72o3dqei8.webp",
-      "https://royal-property.pro/upload/iblock/c53/1z7l6cq5ha1bx56tzl19bu1n6z4ck1dj.webp",
-      "https://royal-property.pro/upload/iblock/de2/pod5demdn22w5iuth63bm0rr0r8wpia1.webp",
-      "https://royal-property.pro/upload/iblock/628/vv9zchrgb7i8bsfjiot7m2id8sbj33br.webp",
-      "https://royal-property.pro/upload/iblock/775/oab94fze130yp5v3ue7golmzg5tciig7.webp",
-      "https://royal-property.pro/upload/iblock/5ca/u9q26yq6ep3afodaxcy13fmydzeqb67j.webp",
-      "https://royal-property.pro/upload/iblock/727/7forrn1gdkk4aiyeup1wefck3cfbhbhh.webp",
-      "https://royal-property.pro/upload/iblock/286/fdwv26kmanvkmrvub1g4efnkb898h5jy.webp",
-      "https://royal-property.pro/upload/iblock/1e3/gea73fxvkz733rqa09x3i5gh27u1tz4v.webp",
-      "https://royal-property.pro/upload/iblock/82f/xyuak53wlz605dvjnpuar38w7809kkfn.webp",
-      "https://royal-property.pro/upload/iblock/f12/61o9lb086ah4c0lqs4g07xz283aklsas.webp",
-      "https://royal-property.pro/upload/iblock/c41/40bxm3xt7k2kkow52s2mmp7rdvbft906.webp",
-      "https://royal-property.pro/upload/iblock/cc1/g4bcg3bjfxbk8dhb0py3ors7czphee4y.webp",
-      "https://royal-property.pro/upload/iblock/864/q8qhjaz5k9gcz6edm3q3duf41bn3plp2.webp",
-      "https://royal-property.pro/upload/iblock/679/79ymyl7inwe22uhesdkjkea72o3dqei8.webp",
-      "https://royal-property.pro/upload/iblock/c53/1z7l6cq5ha1bx56tzl19bu1n6z4ck1dj.webp",
-      "https://royal-property.pro/upload/iblock/de2/pod5demdn22w5iuth63bm0rr0r8wpia1.webp",
-      "https://royal-property.pro/upload/iblock/628/vv9zchrgb7i8bsfjiot7m2id8sbj33br.webp",
-      "https://royal-property.pro/upload/iblock/775/oab94fze130yp5v3ue7golmzg5tciig7.webp",
-      "https://royal-property.pro/upload/iblock/5ca/u9q26yq6ep3afodaxcy13fmydzeqb67j.webp",
-      "https://royal-property.pro/upload/iblock/727/7forrn1gdkk4aiyeup1wefck3cfbhbhh.webp",
-      "https://royal-property.pro/upload/iblock/286/fdwv26kmanvkmrvub1g4efnkb898h5jy.webp",
-      "https://royal-property.pro/upload/iblock/1e3/gea73fxvkz733rqa09x3i5gh27u1tz4v.webp",
-      "https://royal-property.pro/upload/iblock/82f/xyuak53wlz605dvjnpuar38w7809kkfn.webp",
-      "https://royal-property.pro/upload/iblock/f12/61o9lb086ah4c0lqs4g07xz283aklsas.webp",
-      "https://royal-property.pro/upload/iblock/c41/40bxm3xt7k2kkow52s2mmp7rdvbft906.webp",
-      "https://royal-property.pro/upload/iblock/cc1/g4bcg3bjfxbk8dhb0py3ors7czphee4y.webp"
-    ],
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "country": "Таиланд",
-    "city": "Пхукет",
-    "link": "/flats/phuket-property/pier22-bangtao-beach-2-bedroom-plus-66-70-m/",
-    "id": "2fd0533b17445fe422696f4bf4e0ed41",
-    "parentId": "0444f73be69d7ef1ebc17d9d1857b0ad"
-  },
-  {
-    "name": "Pier22 @Bangtao Beach - 2 bedroom (57-70 м²)",
-    "description": "Продается комфортная двухкомнатная квартира, площадью (57-70 м²) в Pier22 @Bangtao Beach, Банг Тао. Находящаяся в 1,9 км от пляжа, она предлагает качественную отделку, пакет мебелировки по запросу, кондиционеры и декор. Современный стиль и удобное расположение делают эту квартиру отличным выбором как для аренды, так и для проживания. Качество строительства от застройщика обеспечивает готовность к переезду без дополнительных затрат. Цена: от 5 250 000 THB.",
-    "area": "Бангтао",
-    "size": {
-      "value": 57,
-      "uom": "м2"
-    },
-    "object_type": "2 bedroom",
-    "floor": "1-7",
-    "quota": "",
-    "furniture": "Стоимость мебельного пакета: уточняйте у Агента",
-    "prices": [
-      {
-        "value": 150743,
-        "currency": "USD",
-        "symbol": "$"
-      },
-      {
-        "value": 15225000,
-        "currency": "RUB",
-        "symbol": "₽"
-      },
-      {
-        "value": 1171154,
-        "currency": "CNY",
-        "symbol": "¥"
-      },
-      {
-        "value": 5250000,
-        "currency": "THB",
-        "symbol": "฿"
-      }
-    ],
-    "images": [
-      "https://royal-property.pro/upload/iblock/a97/2slk5yktr7n9fepuvnbpaxqk5bqn84me.webp",
-      "https://royal-property.pro/upload/iblock/6a6/enpwj342n0nqimes17eg3981p3m8ccst.webp",
-      "https://royal-property.pro/upload/iblock/a05/r03sm5pm02325gyt3zm3a3ezorlkykj7.webp",
-      "https://royal-property.pro/upload/iblock/0c6/piefguac43smk52qk6pm2gyf5p2tr3is.webp",
-      "https://royal-property.pro/upload/iblock/066/roeqo2jqhkmuota01irvlpt1dtwxdase.webp",
-      "https://royal-property.pro/upload/iblock/410/fmvu3hfi859yx3p3m47ejt6e9nzecf6s.webp",
-      "https://royal-property.pro/upload/iblock/905/mhhf1ccp5sey3rx9q2a6rqac75k8i311.webp",
-      "https://royal-property.pro/upload/iblock/79e/p4va1nq5bx9f5bcvn895kzela0fsqko5.webp",
-      "https://royal-property.pro/upload/iblock/0e8/r3snb42x5geqfhdgbtr5eczahr0tyj8x.webp",
-      "https://royal-property.pro/upload/iblock/bd6/iskgjmbz10f3mv6b8smt6h890pjsbyia.webp",
-      "https://royal-property.pro/upload/iblock/605/unru7lo772rfc377kg4fkiv8hfymov0n.webp",
-      "https://royal-property.pro/upload/iblock/bbc/1t4ehvu9ih45e0zij4ncxn74snmdtiou.webp",
-      "https://royal-property.pro/upload/iblock/052/1fnooiuovl5kqbpuc2crkznusi2h1tr9.webp",
-      "https://royal-property.pro/upload/iblock/271/h40uh8hchywg7lufd6txxxfgo1y7k56y.webp",
-      "https://royal-property.pro/upload/iblock/69f/tpraslqlisnhoh76e343jy6vbu00e9nq.webp",
-      "https://royal-property.pro/upload/iblock/e25/7zsasd9526fmt96vi23o52079vtqn49a.webp",
-      "https://royal-property.pro/upload/iblock/a15/00siteigllf0ahh820uoel32f96c213j.webp",
-      "https://royal-property.pro/upload/iblock/825/2ctosh8nhhfnjk6v8h8lmphd4sugv59y.webp",
-      "https://royal-property.pro/upload/iblock/3b4/7w8wkepdci0uw7mv5nh8vdt62x16f579.webp",
-      "https://royal-property.pro/upload/iblock/a97/2slk5yktr7n9fepuvnbpaxqk5bqn84me.webp",
-      "https://royal-property.pro/upload/iblock/6a6/enpwj342n0nqimes17eg3981p3m8ccst.webp",
-      "https://royal-property.pro/upload/iblock/a05/r03sm5pm02325gyt3zm3a3ezorlkykj7.webp",
-      "https://royal-property.pro/upload/iblock/0c6/piefguac43smk52qk6pm2gyf5p2tr3is.webp",
-      "https://royal-property.pro/upload/iblock/066/roeqo2jqhkmuota01irvlpt1dtwxdase.webp",
-      "https://royal-property.pro/upload/iblock/410/fmvu3hfi859yx3p3m47ejt6e9nzecf6s.webp",
-      "https://royal-property.pro/upload/iblock/905/mhhf1ccp5sey3rx9q2a6rqac75k8i311.webp",
-      "https://royal-property.pro/upload/iblock/79e/p4va1nq5bx9f5bcvn895kzela0fsqko5.webp",
-      "https://royal-property.pro/upload/iblock/0e8/r3snb42x5geqfhdgbtr5eczahr0tyj8x.webp",
-      "https://royal-property.pro/upload/iblock/bd6/iskgjmbz10f3mv6b8smt6h890pjsbyia.webp",
-      "https://royal-property.pro/upload/iblock/605/unru7lo772rfc377kg4fkiv8hfymov0n.webp",
-      "https://royal-property.pro/upload/iblock/bbc/1t4ehvu9ih45e0zij4ncxn74snmdtiou.webp",
-      "https://royal-property.pro/upload/iblock/052/1fnooiuovl5kqbpuc2crkznusi2h1tr9.webp",
-      "https://royal-property.pro/upload/iblock/271/h40uh8hchywg7lufd6txxxfgo1y7k56y.webp",
-      "https://royal-property.pro/upload/iblock/69f/tpraslqlisnhoh76e343jy6vbu00e9nq.webp",
-      "https://royal-property.pro/upload/iblock/e25/7zsasd9526fmt96vi23o52079vtqn49a.webp",
-      "https://royal-property.pro/upload/iblock/a15/00siteigllf0ahh820uoel32f96c213j.webp",
-      "https://royal-property.pro/upload/iblock/825/2ctosh8nhhfnjk6v8h8lmphd4sugv59y.webp",
-      "https://royal-property.pro/upload/iblock/3b4/7w8wkepdci0uw7mv5nh8vdt62x16f579.webp"
-    ],
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "country": "Таиланд",
-    "city": "Пхукет",
-    "link": "/flats/phuket-property/pier22-bangtao-beach-2-bedroom-57-70-m/",
-    "id": "6aca3aa733d0dea97e63d03e412d4847",
-    "parentId": "0444f73be69d7ef1ebc17d9d1857b0ad"
-  },
-  {
-    "name": "Pier22 @Bangtao Beach - 1 bedroom Plus (48-54 м²)",
-    "description": "Продается комфортная однокомнатная квартира, увеличенного размера, площадью (48-54 м²) в Pier22 @Bangtao Beach, Банг Тао. Находящаяся в 1,9 км от пляжа, она предлагает качественную отделку, пакет мебелировки по запросу, кондиционеры и декор. Современный стиль и удобное расположение делают эту квартиру отличным выбором как для аренды, так и для проживания. Качество строительства от застройщика обеспечивает готовность к переезду без дополнительных затрат. Цена: от 4 716 000 THB.",
-    "area": "Бангтао",
-    "size": {
-      "value": 48,
-      "uom": "м2"
-    },
-    "object_type": "1 bedroom Plus",
-    "floor": "1-7",
-    "quota": "",
-    "furniture": "Стоимость мебельного пакета: уточняйте у Агента",
-    "prices": [
-      {
-        "value": 135410,
-        "currency": "USD",
-        "symbol": "$"
-      },
-      {
-        "value": 13676400,
-        "currency": "RUB",
-        "symbol": "₽"
-      },
-      {
-        "value": 1052031,
-        "currency": "CNY",
-        "symbol": "¥"
-      },
-      {
-        "value": 4716000,
-        "currency": "THB",
-        "symbol": "฿"
-      }
-    ],
-    "images": [
-      "https://royal-property.pro/upload/iblock/dec/fudv0v19e8cz6ujepyh1jqdwdd6qt1h5.webp",
-      "https://royal-property.pro/upload/iblock/be8/m3s8l0hqn06ypbgy0lkmpe77s9ebhelp.webp",
-      "https://royal-property.pro/upload/iblock/f74/m1ztq27aoxyubso27tr5jdrlgn7t5l1x.webp",
-      "https://royal-property.pro/upload/iblock/7bf/b3y3lu2tq8csglqf1dsyr13qflwy0gat.webp",
-      "https://royal-property.pro/upload/iblock/546/do67dqbg4zfhswn821j9b76byny0t21l.webp",
-      "https://royal-property.pro/upload/iblock/2ae/7jm8brb4bzrxardi8c5124wmdtnkcg79.webp",
-      "https://royal-property.pro/upload/iblock/84c/aie10vpp07i61ctq82o4tgwvz70phrew.webp",
-      "https://royal-property.pro/upload/iblock/dec/fudv0v19e8cz6ujepyh1jqdwdd6qt1h5.webp",
-      "https://royal-property.pro/upload/iblock/be8/m3s8l0hqn06ypbgy0lkmpe77s9ebhelp.webp",
-      "https://royal-property.pro/upload/iblock/f74/m1ztq27aoxyubso27tr5jdrlgn7t5l1x.webp",
-      "https://royal-property.pro/upload/iblock/7bf/b3y3lu2tq8csglqf1dsyr13qflwy0gat.webp",
-      "https://royal-property.pro/upload/iblock/546/do67dqbg4zfhswn821j9b76byny0t21l.webp",
-      "https://royal-property.pro/upload/iblock/2ae/7jm8brb4bzrxardi8c5124wmdtnkcg79.webp",
-      "https://royal-property.pro/upload/iblock/84c/aie10vpp07i61ctq82o4tgwvz70phrew.webp"
-    ],
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "country": "Таиланд",
-    "city": "Пхукет",
-    "link": "/flats/phuket-property/pier22-bangtao-beach-1-bedroom-plus-48-54-m-/",
-    "id": "fff9150b6a02e63c36a6c549bfbf89a9",
-    "parentId": "0444f73be69d7ef1ebc17d9d1857b0ad"
-  },
-  {
-    "name": "Pier22 @Bangtao Beach - 1 bedroom (37-43 м²)",
-    "description": "Продается просторная однокомнатная квартира площадью (37-43 м²) в Pier22 @Bangtao Beach, Банг Тао. Находящаяся в 1,9 км от пляжа, она предлагает качественную отделку, пакет мебелировки по запросу, кондиционеры и декор. Современный стиль и удобное расположение делают эту квартиру отличным выбором как для аренды, так и для проживания. Качество строительства от застройщика обеспечивает готовность к переезду без дополнительных затрат. Цена: от 3 449 000 THB.",
-    "area": "Бангтао",
-    "size": {
-      "value": 37,
-      "uom": "м2"
-    },
-    "object_type": "1 bedroom",
-    "floor": "1-7",
-    "quota": "",
-    "furniture": "Стоимость мебельного пакета: уточняйте у Агента",
-    "prices": [
-      {
-        "value": 99031,
-        "currency": "USD",
-        "symbol": "$"
-      },
-      {
-        "value": 10002100,
-        "currency": "RUB",
-        "symbol": "₽"
-      },
-      {
-        "value": 769392,
-        "currency": "CNY",
-        "symbol": "¥"
-      },
-      {
-        "value": 3449000,
-        "currency": "THB",
-        "symbol": "฿"
-      }
-    ],
-    "images": [
-      "https://royal-property.pro/upload/iblock/b1d/w3v1gamtdfd0apbzazc3r5dbibvj30lc.webp",
-      "https://royal-property.pro/upload/iblock/501/bvm99q94vcrmna4l8gtwokr6qnkgmug9.webp",
-      "https://royal-property.pro/upload/iblock/f31/uuv9o1gwlk9fexpkv502zakwjsq9uy7j.webp",
-      "https://royal-property.pro/upload/iblock/24b/tcrc85rvsxftdoatxyprwhlulp3edx8d.webp",
-      "https://royal-property.pro/upload/iblock/28d/ec6008ey2sdl5knbgqoozxfc18fk9lke.webp",
-      "https://royal-property.pro/upload/iblock/098/7s5apnojx5761a3y36z3je95nhna3at2.webp",
-      "https://royal-property.pro/upload/iblock/254/0jigfzla4hswf55855avcg2wotn29fmu.webp",
-      "https://royal-property.pro/upload/iblock/32d/p2nuohjbn858ha9hb6z478mz0n8zov2s.webp",
-      "https://royal-property.pro/upload/iblock/bbd/tmzyef9nu3u3s6m7qkiufy0be3ywevr2.webp",
-      "https://royal-property.pro/upload/iblock/c1a/oo29gkgxywtldfrf8as0qilt2v5a1gcj.webp",
-      "https://royal-property.pro/upload/iblock/6a9/37duvwnwtghmiodw6xpy9q80isllp1py.webp",
-      "https://royal-property.pro/upload/iblock/b1d/w3v1gamtdfd0apbzazc3r5dbibvj30lc.webp",
-      "https://royal-property.pro/upload/iblock/501/bvm99q94vcrmna4l8gtwokr6qnkgmug9.webp",
-      "https://royal-property.pro/upload/iblock/f31/uuv9o1gwlk9fexpkv502zakwjsq9uy7j.webp",
-      "https://royal-property.pro/upload/iblock/24b/tcrc85rvsxftdoatxyprwhlulp3edx8d.webp",
-      "https://royal-property.pro/upload/iblock/28d/ec6008ey2sdl5knbgqoozxfc18fk9lke.webp",
-      "https://royal-property.pro/upload/iblock/098/7s5apnojx5761a3y36z3je95nhna3at2.webp",
-      "https://royal-property.pro/upload/iblock/254/0jigfzla4hswf55855avcg2wotn29fmu.webp",
-      "https://royal-property.pro/upload/iblock/32d/p2nuohjbn858ha9hb6z478mz0n8zov2s.webp",
-      "https://royal-property.pro/upload/iblock/bbd/tmzyef9nu3u3s6m7qkiufy0be3ywevr2.webp",
-      "https://royal-property.pro/upload/iblock/c1a/oo29gkgxywtldfrf8as0qilt2v5a1gcj.webp",
-      "https://royal-property.pro/upload/iblock/6a9/37duvwnwtghmiodw6xpy9q80isllp1py.webp"
-    ],
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "country": "Таиланд",
-    "city": "Пхукет",
-    "link": "/flats/phuket-property/pier22-bangtao-beach-1-bedroom-37-43-m-/",
-    "id": "eb38784a53d128dd77d99f2d6ec0c30d",
-    "parentId": "0444f73be69d7ef1ebc17d9d1857b0ad"
-  },
-  {
     "name": "Bamboo Forest - 2 bedroom (74-144 м²)",
     "description": "Продается большая двухкомнатная квартира площадью (74-144 м²) в Bamboo Forest, Банг Тао. Находящаяся в 1,3 км от пляжа, она предлагает качественную отделку, пакет мебелировки по запросу, кондиционеры и декор. Современный стиль и удобное расположение делают эту студию отличным выбором как для аренды, так и для проживания. Качество строительства от застройщика обеспечивает готовность к переезду без дополнительных затрат. Цена: от 10 700 000 THB.",
     "area": "Бангтао",
@@ -6819,7 +6831,7 @@
     "furniture": "Стоимость мебельного пакета: уточняйте у Агента",
     "prices": [
       {
-        "value": 307228,
+        "value": 316633,
         "currency": "USD",
         "symbol": "$"
       },
@@ -6919,7 +6931,7 @@
     "furniture": "Стоимость мебельного пакета: уточняйте у Агента",
     "prices": [
       {
-        "value": 229703,
+        "value": 236735,
         "currency": "USD",
         "symbol": "$"
       },
@@ -7003,7 +7015,7 @@
     "furniture": "Стоимость мебельного пакета: уточняйте у Агента",
     "prices": [
       {
-        "value": 157921,
+        "value": 162755,
         "currency": "USD",
         "symbol": "$"
       },
@@ -7087,7 +7099,7 @@
     "furniture": "меблировка: *в стоимость включена чистовая отделка, освещение, встроенная мебель, сантехника, кондиционеры",
     "prices": [
       {
-        "value": 132941,
+        "value": 137010,
         "currency": "USD",
         "symbol": "$"
       },
@@ -7145,7 +7157,7 @@
     "furniture": "меблировка: *в стоимость включена чистовая отделка, освещение, встроенная мебель, сантехника, кондиционеры",
     "prices": [
       {
-        "value": 478069,
+        "value": 492704,
         "currency": "USD",
         "symbol": "$"
       },
@@ -7215,7 +7227,7 @@
     "furniture": "меблировка: *в стоимость включена чистовая отделка, освещение, встроенная мебель, сантехника, кондиционеры",
     "prices": [
       {
-        "value": 192950,
+        "value": 198857,
         "currency": "USD",
         "symbol": "$"
       },
@@ -7279,7 +7291,7 @@
     "furniture": "меблировка: *в стоимость включена чистовая отделка, освещение, встроенная мебель, сантехника, кондиционеры",
     "prices": [
       {
-        "value": 98313,
+        "value": 101322,
         "currency": "USD",
         "symbol": "$"
       },
@@ -7339,7 +7351,7 @@
     "furniture": "в стоимость включена встроенная мебель, кондиционеры, освещение, оборудованный санузел",
     "prices": [
       {
-        "value": 175149,
+        "value": 180510,
         "currency": "USD",
         "symbol": "$"
       },
@@ -7407,7 +7419,7 @@
     "furniture": "меблировка: готова к сдаче в аренду",
     "prices": [
       {
-        "value": 243864,
+        "value": 251329,
         "currency": "USD",
         "symbol": "$"
       },
@@ -7428,9 +7440,27 @@
       }
     ],
     "images": [
-      "https://royal-property.pro/upload/iblock/831/0f7ch347eum0rffenvlt82u0rv38yb3y.jpeg",
+      "https://royal-property.pro/upload/iblock/2c5/t0oczic85n48id444nc1z1pioodbyq9c.jpg",
+      "https://royal-property.pro/upload/iblock/e46/rgds0fnp703eev2sw3pa0ohlcnzahj4v.jpg",
+      "https://royal-property.pro/upload/iblock/890/nx80h1y0nfckxxopq359g6c4jyhj8161.jpg",
+      "https://royal-property.pro/upload/iblock/5d6/sypdvqhj133i2r8rgohiowcgy31071dj.jpg",
+      "https://royal-property.pro/upload/iblock/555/0rf2footor96p7ra748vyex80ft25t0k.jpg",
+      "https://royal-property.pro/upload/iblock/705/3z5dkhl5ddks0a82yc6720n7sc707lrg.jpg",
+      "https://royal-property.pro/upload/iblock/bad/dfow88x6abzhhtos18vgsts0pcxlz7ou.jpg",
+      "https://royal-property.pro/upload/iblock/037/rmrz06voc455v7ufuljtx79amvpg6z8a.jpg",
+      "https://royal-property.pro/upload/iblock/ee5/j88k832tgo0oxswcx0yozgg4mr4l27pn.jpg",
+      "https://royal-property.pro/upload/iblock/3c7/0j4ufuok8pvdefpuvu5f0gnls6x3d939.jpg",
       "https://royal-property.pro/upload/iblock/eec/848smprthbioybs3ygx5ao6ki0197h8q.jpeg",
-      "https://royal-property.pro/upload/iblock/831/0f7ch347eum0rffenvlt82u0rv38yb3y.jpeg",
+      "https://royal-property.pro/upload/iblock/2c5/t0oczic85n48id444nc1z1pioodbyq9c.jpg",
+      "https://royal-property.pro/upload/iblock/e46/rgds0fnp703eev2sw3pa0ohlcnzahj4v.jpg",
+      "https://royal-property.pro/upload/iblock/890/nx80h1y0nfckxxopq359g6c4jyhj8161.jpg",
+      "https://royal-property.pro/upload/iblock/5d6/sypdvqhj133i2r8rgohiowcgy31071dj.jpg",
+      "https://royal-property.pro/upload/iblock/555/0rf2footor96p7ra748vyex80ft25t0k.jpg",
+      "https://royal-property.pro/upload/iblock/705/3z5dkhl5ddks0a82yc6720n7sc707lrg.jpg",
+      "https://royal-property.pro/upload/iblock/bad/dfow88x6abzhhtos18vgsts0pcxlz7ou.jpg",
+      "https://royal-property.pro/upload/iblock/037/rmrz06voc455v7ufuljtx79amvpg6z8a.jpg",
+      "https://royal-property.pro/upload/iblock/ee5/j88k832tgo0oxswcx0yozgg4mr4l27pn.jpg",
+      "https://royal-property.pro/upload/iblock/3c7/0j4ufuok8pvdefpuvu5f0gnls6x3d939.jpg",
       "https://royal-property.pro/upload/iblock/eec/848smprthbioybs3ygx5ao6ki0197h8q.jpeg"
     ],
     "bedrooms": 1,
@@ -7455,7 +7485,7 @@
     "furniture": "меблировка: готова к сдаче в аренду",
     "prices": [
       {
-        "value": 135186,
+        "value": 139324,
         "currency": "USD",
         "symbol": "$"
       },
@@ -7476,9 +7506,15 @@
       }
     ],
     "images": [
-      "https://royal-property.pro/upload/iblock/d07/or7p6tpsfejyadm1meql8iqg90hmmrwd.jpeg",
+      "https://royal-property.pro/upload/iblock/50d/6ue2i3c4i23z8mcgf5jn1nb2taj88dn0.jpg",
+      "https://royal-property.pro/upload/iblock/b00/7bdzibu36okl3t2anioaxg5y6zd2sy5q.jpg",
+      "https://royal-property.pro/upload/iblock/6f3/0pvssrw6a2qok2enu1c384fj4efx6ygg.jpg",
+      "https://royal-property.pro/upload/iblock/7ed/ajzgi5168qa9ljuwmyn3uqrezeomppvw.jpg",
       "https://royal-property.pro/upload/iblock/025/j0vs7gr32qi9q3ntswgwgp4ycf82i438.jpeg",
-      "https://royal-property.pro/upload/iblock/d07/or7p6tpsfejyadm1meql8iqg90hmmrwd.jpeg",
+      "https://royal-property.pro/upload/iblock/50d/6ue2i3c4i23z8mcgf5jn1nb2taj88dn0.jpg",
+      "https://royal-property.pro/upload/iblock/b00/7bdzibu36okl3t2anioaxg5y6zd2sy5q.jpg",
+      "https://royal-property.pro/upload/iblock/6f3/0pvssrw6a2qok2enu1c384fj4efx6ygg.jpg",
+      "https://royal-property.pro/upload/iblock/7ed/ajzgi5168qa9ljuwmyn3uqrezeomppvw.jpg",
       "https://royal-property.pro/upload/iblock/025/j0vs7gr32qi9q3ntswgwgp4ycf82i438.jpeg"
     ],
     "bedrooms": 1,
@@ -7503,7 +7539,7 @@
     "furniture": "меблировка: готова к сдаче в аренду",
     "prices": [
       {
-        "value": 129730,
+        "value": 133702,
         "currency": "USD",
         "symbol": "$"
       },
@@ -7555,7 +7591,7 @@
     "furniture": "меблировка: готова к сдаче в аренду",
     "prices": [
       {
-        "value": 252444,
+        "value": 260171,
         "currency": "USD",
         "symbol": "$"
       },
@@ -7603,7 +7639,7 @@
     "furniture": "меблировка: готова к сдаче в аренду",
     "prices": [
       {
-        "value": 202426,
+        "value": 208622,
         "currency": "USD",
         "symbol": "$"
       },
@@ -7651,7 +7687,7 @@
     "furniture": "меблировка: готова к сдаче в аренду",
     "prices": [
       {
-        "value": 127485,
+        "value": 131388,
         "currency": "USD",
         "symbol": "$"
       },
@@ -7699,7 +7735,7 @@
     "furniture": "меблировка: готова к сдаче в аренду",
     "prices": [
       {
-        "value": 131390,
+        "value": 135412,
         "currency": "USD",
         "symbol": "$"
       },
@@ -7747,7 +7783,7 @@
     "furniture": "Уточняйте у агента",
     "prices": [
       {
-        "value": 611785,
+        "value": 630513,
         "currency": "USD",
         "symbol": "$"
       },
@@ -7833,7 +7869,7 @@
     "furniture": "Цены включают стандартную отделку и оборудование, но не включают отдельную мебель. Стоимость мебельного пакета уточняйте у менеджера.",
     "prices": [
       {
-        "value": 1711287,
+        "value": 1763673,
         "currency": "USD",
         "symbol": "$"
       },
@@ -7885,7 +7921,7 @@
     "furniture": "Цены включают стандартную отделку и оборудование, но не включают отдельную мебель. Стоимость мебельного пакета уточняйте у менеджера.",
     "prices": [
       {
-        "value": 683247,
+        "value": 704163,
         "currency": "USD",
         "symbol": "$"
       },
@@ -7937,7 +7973,7 @@
     "furniture": "Цены включают стандартную отделку и оборудование, но не включают отдельную мебель. Стоимость мебельного пакета уточняйте у менеджера.",
     "prices": [
       {
-        "value": 452687,
+        "value": 466545,
         "currency": "USD",
         "symbol": "$"
       },
@@ -7989,7 +8025,7 @@
     "furniture": "Цены включают стандартную отделку и оборудование, но не включают отдельную мебель. Стоимость мебельного пакета уточняйте у менеджера.",
     "prices": [
       {
-        "value": 270992,
+        "value": 279288,
         "currency": "USD",
         "symbol": "$"
       },
@@ -8041,7 +8077,7 @@
     "furniture": "Цены включают стандартную отделку и оборудование, но не включают отдельную мебель. Стоимость мебельного пакета уточняйте у менеджера.",
     "prices": [
       {
-        "value": 2570807,
+        "value": 2649505,
         "currency": "USD",
         "symbol": "$"
       },
@@ -8103,7 +8139,7 @@
     "furniture": "Цены включают стандартную отделку и оборудование, но не включают отдельную мебель. Стоимость мебельного пакета уточняйте у менеджера.",
     "prices": [
       {
-        "value": 1284614,
+        "value": 1323939,
         "currency": "USD",
         "symbol": "$"
       },
@@ -8159,7 +8195,7 @@
     "furniture": "Цены включают стандартную отделку и оборудование, но не включают отдельную мебель. Стоимость мебельного пакета уточняйте у менеджера.",
     "prices": [
       {
-        "value": 753713,
+        "value": 776786,
         "currency": "USD",
         "symbol": "$"
       },
@@ -8211,7 +8247,7 @@
     "furniture": "Цены включают стандартную отделку и оборудование, но не включают отдельную мебель. Стоимость мебельного пакета уточняйте у менеджера.",
     "prices": [
       {
-        "value": 516832,
+        "value": 532653,
         "currency": "USD",
         "symbol": "$"
       },
@@ -8261,7 +8297,7 @@
     "furniture": "меблировка: готова к сдаче в аренду",
     "prices": [
       {
-        "value": 73620,
+        "value": 75874,
         "currency": "USD",
         "symbol": "$"
       },
@@ -8311,7 +8347,7 @@
     "furniture": "меблировка: готова к сдаче в аренду",
     "prices": [
       {
-        "value": 93945,
+        "value": 96821,
         "currency": "USD",
         "symbol": "$"
       },
@@ -8342,5 +8378,181 @@
     "link": "/flats/phuket-property/1-bedroom-34m-b308/",
     "id": "29b9fc8f6035fe5fba94fab8df90183f",
     "parentId": "fad78effb5f55e8afa40c229bacb8c97"
+  },
+  {
+    "name": "Fantasea Condo Kamala – 2 bedroom (47m) -B211",
+    "description": "Продается 2-комнатная квартира площадью 47 м² в Fantasea Condo Kamala за 4,463,300 THB. Просторное жилье, готовое к сдаче в аренду, в 800 м от пляжа Камала. Отличный выбор для комфортного проживания или аренды. Квартира предлагает удобное расположение и современную отделку, что делает ее идеальным вариантом для тех, кто ищет стильное и комфортное жилье у моря.",
+    "area": "Камала",
+    "size": {
+      "value": 47,
+      "uom": "м2"
+    },
+    "object_type": "2 Bedroom: уютная двухкомнатная квартира с одной спальней и всеми удобствами",
+    "floor": "3",
+    "quota": "",
+    "furniture": "меблировка: готова к сдаче в аренду",
+    "prices": [
+      {
+        "value": 132077,
+        "currency": "USD",
+        "symbol": "$"
+      },
+      {
+        "value": 12943570,
+        "currency": "RUB",
+        "symbol": "₽"
+      },
+      {
+        "value": 995659,
+        "currency": "CNY",
+        "symbol": "¥"
+      },
+      {
+        "value": 4463300,
+        "currency": "THB",
+        "symbol": "฿"
+      }
+    ],
+    "images": [
+      "https://royal-property.pro/upload/iblock/6c7/6c71198515ad245ae36d45b873dae2e5.jpg",
+      "https://royal-property.pro/upload/iblock/f03/f03e8784030c2e3cec9258b3d03f79ae.jpg",
+      "https://royal-property.pro/upload/iblock/6c7/6c71198515ad245ae36d45b873dae2e5.jpg",
+      "https://royal-property.pro/upload/iblock/f03/f03e8784030c2e3cec9258b3d03f79ae.jpg"
+    ],
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "country": "Таиланд",
+    "city": "Пхукет",
+    "link": "/flats/phuket-property/b211/",
+    "id": "72dc22ec7cfc5dad5fe018450d0594d8",
+    "parentId": "fad78effb5f55e8afa40c229bacb8c97"
+  },
+  {
+    "name": "The Title Cielo Rawai – 2 bedroom (69-148 м²)",
+    "description": "Продается 2-комнатная квартира с площадью 69-148 м² и двумя санузлами в The Title Cielo Rawai по цене от 8,970,999 THB. Просторное и комфортное жилье с высококачественной отделкой, идеально подходящее для семьи или длительного проживания. Находится всего в 50 метрах от пляжа Раваи, что обеспечивает удобный доступ к морю и отличные условия для отдыха. Эта квартира предлагает сочетание современного стиля и практичности, а также высокий потенциал аренды благодаря своему идеальному расположению и продуманному дизайну.",
+    "area": "Раваи",
+    "size": {
+      "value": 81,
+      "uom": "м2"
+    },
+    "object_type": "2 bedroom: по своей сути 3-х комнатная квартира - это две отдельные спальни с санузлами, а в большой гостиной совмещена кухонная и обеденная зона",
+    "floor": "по запросу",
+    "quota": "",
+    "furniture": "Апартаменты предоставляются с чистовой отделкой, встроенной мебелью, сантехникой, кондиционерами, шторами.",
+    "prices": [
+      {
+        "value": 265468,
+        "currency": "USD",
+        "symbol": "$"
+      },
+      {
+        "value": 26015897,
+        "currency": "RUB",
+        "symbol": "₽"
+      },
+      {
+        "value": 2001223,
+        "currency": "CNY",
+        "symbol": "¥"
+      },
+      {
+        "value": 8970999,
+        "currency": "THB",
+        "symbol": "฿"
+      }
+    ],
+    "images": [
+      "https://royal-property.pro/upload/iblock/78b/b79jj1bevzaei94lgbsgfcjligyx9dae.webp",
+      "https://royal-property.pro/upload/iblock/c41/ux493i1vbgnioblft2br8ko5hzg3zl5v.webp",
+      "https://royal-property.pro/upload/iblock/f4a/ciek1bk3aa2plnzq4zb54ezwubgt5de1.webp",
+      "https://royal-property.pro/upload/iblock/9ec/th0x3pr7p7va9gtoskvszlt7zqw6a509.webp",
+      "https://royal-property.pro/upload/iblock/413/zy7y4uh8j5je584ro8ph9ib3er6b0mcl.webp",
+      "https://royal-property.pro/upload/iblock/def/6y1jqawxf2hlj7j2msd93007vrb3e3nc.webp",
+      "https://royal-property.pro/upload/iblock/df4/1meaq5yeb1grfzfkczv7g1o50l88y0nn.webp",
+      "https://royal-property.pro/upload/iblock/0c8/zewknwr8v35zlbyw80febpkncugoi1p5.webp",
+      "https://royal-property.pro/upload/iblock/5ed/n1nvwnjs85usvc1j6lsl75zqmykgh802.webp",
+      "https://royal-property.pro/upload/iblock/dee/lllq1we6wip3og50vkgjf9783oowmcv4.webp",
+      "https://royal-property.pro/upload/iblock/f0b/yjo0t1t1p970e3ragh40qvs329kgpd5f.webp",
+      "https://royal-property.pro/upload/iblock/467/j96qr43s13pjucj2d5qypp8z0rturgv2.webp",
+      "https://royal-property.pro/upload/iblock/78b/b79jj1bevzaei94lgbsgfcjligyx9dae.webp",
+      "https://royal-property.pro/upload/iblock/c41/ux493i1vbgnioblft2br8ko5hzg3zl5v.webp",
+      "https://royal-property.pro/upload/iblock/f4a/ciek1bk3aa2plnzq4zb54ezwubgt5de1.webp",
+      "https://royal-property.pro/upload/iblock/9ec/th0x3pr7p7va9gtoskvszlt7zqw6a509.webp",
+      "https://royal-property.pro/upload/iblock/413/zy7y4uh8j5je584ro8ph9ib3er6b0mcl.webp",
+      "https://royal-property.pro/upload/iblock/def/6y1jqawxf2hlj7j2msd93007vrb3e3nc.webp",
+      "https://royal-property.pro/upload/iblock/df4/1meaq5yeb1grfzfkczv7g1o50l88y0nn.webp",
+      "https://royal-property.pro/upload/iblock/0c8/zewknwr8v35zlbyw80febpkncugoi1p5.webp",
+      "https://royal-property.pro/upload/iblock/5ed/n1nvwnjs85usvc1j6lsl75zqmykgh802.webp",
+      "https://royal-property.pro/upload/iblock/dee/lllq1we6wip3og50vkgjf9783oowmcv4.webp",
+      "https://royal-property.pro/upload/iblock/f0b/yjo0t1t1p970e3ragh40qvs329kgpd5f.webp",
+      "https://royal-property.pro/upload/iblock/467/j96qr43s13pjucj2d5qypp8z0rturgv2.webp"
+    ],
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "country": "Таиланд",
+    "city": "Пхукет",
+    "link": "/flats/phuket-property/the-title-cielo-rawai-2-bedroom-69-148-m-/",
+    "id": "a826b78d624e0d8aedf792595cdd0565",
+    "parentId": "49647c47aa6a9f735c2b2c86765f9826"
+  },
+  {
+    "name": "The Title Cielo Rawai – 1 bedroom Plus (51-61 м²)",
+    "description": "Продается 1-комнатная квартира увеличенного типа площадью 51-61 м² в The Title Cielo Rawai по цене от 6,669,000 THB. Просторное и элегантное жилье с высококачественной отделкой, готовое к немедленному заселению или аренде. Находится всего в 50 метрах от пляжа Раваи, что обеспечивает удобство и отличные условия для отдыха. Эта квартира сочетает в себе комфорт и стиль, предлагая высокий потенциал для инвестиций благодаря своему идеальному расположению и превосходной отделке.",
+    "area": "Раваи",
+    "size": {
+      "value": 56,
+      "uom": "м2"
+    },
+    "object_type": "1 bedroom: ван бедрум увеличенного типа, где совмещены гостиная с кухней (большая комната) и отделена спальня",
+    "floor": "по запросу",
+    "quota": "",
+    "furniture": "Апартаменты предоставляются с чистовой отделкой, встроенной мебелью, сантехникой, кондиционерами, шторами.",
+    "prices": [
+      {
+        "value": 197348,
+        "currency": "USD",
+        "symbol": "$"
+      },
+      {
+        "value": 19340100,
+        "currency": "RUB",
+        "symbol": "₽"
+      },
+      {
+        "value": 1487700,
+        "currency": "CNY",
+        "symbol": "¥"
+      },
+      {
+        "value": 6669000,
+        "currency": "THB",
+        "symbol": "฿"
+      }
+    ],
+    "images": [
+      "https://royal-property.pro/upload/iblock/2c9/tkior5d7viyesw219on8y1rso0v9xgve.webp",
+      "https://royal-property.pro/upload/iblock/4b6/h52btvnp4vkclt4v3j6ljxcjm8vs37my.webp",
+      "https://royal-property.pro/upload/iblock/769/z1wfsqyi2bjt53xeazyqnjxh8dxhj490.webp",
+      "https://royal-property.pro/upload/iblock/4d7/dpqmki5k76biq208gy721k25ytyulzdm.webp",
+      "https://royal-property.pro/upload/iblock/b2a/bbu9w1k4f34d7fccxk897z06dj7z26n5.webp",
+      "https://royal-property.pro/upload/iblock/a95/5rn4ldctvz2whxy8zkpm1lnv4475eubf.webp",
+      "https://royal-property.pro/upload/iblock/807/db4cia57z7jjzirj4dbi57zr8kddzv3m.webp",
+      "https://royal-property.pro/upload/iblock/da7/3l7m08dbmy6vm12uid4iukendcbnd5gi.webp",
+      "https://royal-property.pro/upload/iblock/2c9/tkior5d7viyesw219on8y1rso0v9xgve.webp",
+      "https://royal-property.pro/upload/iblock/4b6/h52btvnp4vkclt4v3j6ljxcjm8vs37my.webp",
+      "https://royal-property.pro/upload/iblock/769/z1wfsqyi2bjt53xeazyqnjxh8dxhj490.webp",
+      "https://royal-property.pro/upload/iblock/4d7/dpqmki5k76biq208gy721k25ytyulzdm.webp",
+      "https://royal-property.pro/upload/iblock/b2a/bbu9w1k4f34d7fccxk897z06dj7z26n5.webp",
+      "https://royal-property.pro/upload/iblock/a95/5rn4ldctvz2whxy8zkpm1lnv4475eubf.webp",
+      "https://royal-property.pro/upload/iblock/807/db4cia57z7jjzirj4dbi57zr8kddzv3m.webp",
+      "https://royal-property.pro/upload/iblock/da7/3l7m08dbmy6vm12uid4iukendcbnd5gi.webp"
+    ],
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "country": "Таиланд",
+    "city": "Пхукет",
+    "link": "/flats/phuket-property/the-title-cielo-rawai-1-bedroom-plus-51-61-m-/",
+    "id": "61c7b2cf47f75a7b4a4cc6533ce1bb4c",
+    "parentId": "49647c47aa6a9f735c2b2c86765f9826"
   }
 ]
