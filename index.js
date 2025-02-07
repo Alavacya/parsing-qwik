@@ -11,7 +11,7 @@ function generateIdFromString(input) {
 
 async function getOffersCardsList(page, offerWrapSelector, cardSelector, key) {
 	const keyCityMap = {
-		PatayaOffer: 'Паттайа',
+		PatayaOffer: 'Паттайя',
 		PhuketOffer: 'Пхукет',
 	};
 
