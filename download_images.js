@@ -4,6 +4,8 @@ const path = require('path');
 
 const propertyFilePath = path.join(__dirname, 'groupedApartments.json');
 const developersFilePath = path.join(__dirname, 'groupedCards.json');
+const villagesFilePath = path.join(__dirname, 'villages.json');
+const villasFilePath = path.join(__dirname, 'villas.json');
 const downloadFolder = path.join(__dirname, 'uploads');
 
 if (!fs.existsSync(downloadFolder)) {
@@ -14,9 +16,13 @@ function getImagesFromJson() {
 	try {
 		const propertyData = fs.readFileSync(propertyFilePath, 'utf8');
 		const developersData = fs.readFileSync(developersFilePath, 'utf8');
+		const villagesData = fs.readFileSync(villagesFilePath, 'utf8');
+		const villasData = fs.readFileSync(villasFilePath, 'utf8');
 
 		const propertyJsonData = JSON.parse(propertyData);
 		const developersJsonData = JSON.parse(developersData);
+		const villagesJsonData = JSON.parse(villagesData);
+		const villasJsonData = JSON.parse(villasData);
 
 		// Получаем все ссылки из property.json
 		const propertyImages = propertyJsonData.flatMap(item => item.images || []);
@@ -28,11 +34,22 @@ function getImagesFromJson() {
 			...(item.detailedInfo?.apartmentsLayouts || [])
 		]);
 
+		// Получаем все ссылки из villages.json
+		const villagesImages = villagesJsonData.flatMap(item => [
+			...(item.images || []),
+			...(item.galleryImages || [])
+		]);
+
+		// Получаем все ссылки из villas.json
+		const villasImages = villasJsonData.flatMap(item => item.images || []);
+
 		console.log(`Найдено ${propertyImages.length} изображений квартир.`);
 		console.log(`Найдено ${developerImages.length} изображений застройщика.`);
+		console.log(`Найдено ${villagesImages.length} изображений поселков.`);
+		console.log(`Найдено ${villasImages.length} изображений вилл.`);
 
 		// Объединяем и убираем дубликаты
-		return Array.from(new Set([...propertyImages, ...developerImages]));
+		return Array.from(new Set([...propertyImages, ...developerImages, ...villagesImages, ...villasImages]));
 	} catch (error) {
 		console.error('Ошибка чтения JSON-файла:', error.message);
 		return [];
