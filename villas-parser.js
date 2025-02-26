@@ -74,7 +74,7 @@ async function scrapeVillages() {
 						container.remove()
 					})
 
-					return desc.innerText.trim()
+					return desc.innerHTML.trim() || ''
 				})
 
 				// Извлечение карточек вилл
