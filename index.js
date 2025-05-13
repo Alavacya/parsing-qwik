@@ -43,6 +43,7 @@ async function getDetailedInfo(page, link) {
 	await page.goto(link, { waitUntil: 'networkidle2' })
 	console.log(`Opened link: ${link}`)
 
+	// добавить получения координатов жк
 	const detailedInfo = await page.evaluate(() => {
 		const images = Array.from(document.querySelectorAll('.gallery__wrapper img')).map(
 			img => img.src,
@@ -96,6 +97,7 @@ async function getDetailedInfo(page, link) {
 	return detailedInfo
 }
 
+// начало скрипта
 const startScraper = async () => {
 	const browser = await puppeteer.launch()
 	const page = await browser.newPage()
@@ -112,8 +114,12 @@ const startScraper = async () => {
 		const groupedApartments = []
 		const apartmentParser = require('./apartment_parser')
 
+		// получаем данные из файла, а не страницы
+		// pattaya-property.html
+		// phuket-property.html
 		for (const [key, selector] of Object.entries(offerWrapSelectors)) {
 			console.log(`Processing container: ${selector} with key: ${key}`)
+			// изменить функцию: передаем html, возвращаем данные карточки
 			const cards = await getOffersCardsList(page, selector, selectors.offersItem, key)
 
 			cards.forEach(card => {
@@ -139,10 +145,7 @@ const startScraper = async () => {
 					const link = apartment.link
 					const linkApartment = `${config.baseUrl}${link}`
 					try {
-						const apartmentPage = await page.goto(linkApartment, {
-							waitUntil: 'networkidle2',
-						})
-						console.log(`Opened apartmentPage: ${linkApartment}`)
+						console.log(`Handle apartment: ${linkApartment}`)
 
 						axios
 							.get(linkApartment)
@@ -172,16 +175,15 @@ const startScraper = async () => {
 			}
 		}
 
-		console.log('Grouped Cards:', groupedCards)
-		console.log('Grouped Apartments:', groupedApartments)
+		console.log('Developers:', groupedCards)
+		console.log('Properties:', groupedApartments)
 
-		fs.writeFileSync('groupedCards.json', JSON.stringify(groupedCards, null, 2), 'utf-8')
+		fs.writeFileSync('developers.json', JSON.stringify(groupedCards, null, 2), 'utf-8')
 		fs.writeFileSync(
-			'groupedApartments.json',
+			'properties.json',
 			JSON.stringify(groupedApartments, null, 2),
 			'utf-8',
 		)
-		console.log('Grouped cards saved to groupedCards.json')
 	} catch (e) {
 		console.error('Error in startScraper:', e.message)
 	} finally {
