@@ -1,7 +1,8 @@
 const puppeteer = require('puppeteer')
 const crypto = require('crypto');
 const { config, selectors } = require('./constants')
-const fs = require('fs')
+const fs = require('fs/promises')
+const { JSDOM } = require('jsdom');
 const axios = require('axios')
 const apartmentParser = require('./apartment_parser')
 
@@ -39,8 +40,26 @@ async function getOffersCardsList(page, offerWrapSelector, cardSelector, key) {
 	)
 }
 
+function getDeveloperCardInfo(DOMElement, city) {
+	return {
+		city: city || null,
+		country: 'Таиланд',
+		title: DOMElement.querySelector('.apartments-slide__body a')?.textContent.trim() || '',
+		description:
+			DOMElement.querySelector('.apartments-slide__body .div_apartments')?.textContent.trim() || '',
+		link:
+			DOMElement.querySelector('.apartments-slide__buttons a')?.getAttribute('href') || '',
+	}
+}
+
+function getDevelopersInfo(DOMElement, city) {
+	if (!DOMElement) return [];
+	const elements = Array.from(DOMElement.querySelectorAll('.apartments-slide'));
+	return elements.map(element => getDeveloperCardInfo(element, city));
+}
+
 async function getDetailedInfo(page, link) {
-	await page.goto(link, { waitUntil: 'networkidle2' })
+	await page.goto(link, { waitUntil: 'domcontentloaded', timeout: 60000 })
 	console.log(`Opened link: ${link}`)
 
 	// добавить получения координатов жк
@@ -103,45 +122,48 @@ const startScraper = async () => {
 	const page = await browser.newPage()
 
 	try {
-		await page.goto(config.offersPage, { waitUntil: 'networkidle2' })
-
-		const offerWrapSelectors = {
-			PatayaOffer: '.profitable-offer:nth-of-type(1)',
-			PhuketOffer: '.profitable-offer:nth-of-type(2)',
+		const fileCityMap = {
+			Паттайя: 'pattaya-property.html',
+			Пхукет: 'phuket-property.html',
 		}
 
-		const groupedCards = []
-		const groupedApartments = []
+		const developers = []
+		const properties = []
 		const apartmentParser = require('./apartment_parser')
 
-		// получаем данные из файла, а не страницы
-		// pattaya-property.html
-		// phuket-property.html
-		for (const [key, selector] of Object.entries(offerWrapSelectors)) {
-			console.log(`Processing container: ${selector} with key: ${key}`)
-			// изменить функцию: передаем html, возвращаем данные карточки
-			const cards = await getOffersCardsList(page, selector, selectors.offersItem, key)
+		for (const [city, file] of Object.entries(fileCityMap)) {
+			try {
+				const html = await fs.readFile(file, 'utf8');
+				const dom = new JSDOM(html);
+				const document = dom.window.document;
 
-			cards.forEach(card => {
-				card.id = generateIdFromString(card.link);
-			});
+				const cards = getDevelopersInfo(document, city);
 
-			groupedCards.push(...cards)
+				cards.forEach(card => {
+					card.id = generateIdFromString(card.link);
+				});
+
+				developers.push(...cards);
+			} catch (err) {
+				console.error(`Ошибка при обработке файла ${file}:`, err);
+			}
 		}
 
-		for (let card of groupedCards) {
-			if (card.link) {
+		for (let developer of developers) {
+			if (developer.link) {
 				try {
+					console.log('Start handle zk: ', developer.title)
+					console.log('Zk link: ', developer.link)
 					const detailedInfo = await getDetailedInfo(
 						page,
-						`${config.baseUrl}${card.link}`,
+						`${config.baseUrl}${developer.link}`,
 					)
-					card.detailedInfo = detailedInfo
+					developer.detailedInfo = detailedInfo
 				} catch (error) {
-					console.error(`Error while getting detailed info for ${card.title}:`, error)
+					console.error(`Error while getting detailed info for ${developer.title}:`, error)
 				}
 
-				for (let apartment of card.detailedInfo.apartments) {
+				for (let apartment of developer.detailedInfo.apartments) {
 					const link = apartment.link
 					const linkApartment = `${config.baseUrl}${link}`
 					try {
@@ -155,15 +177,15 @@ const startScraper = async () => {
 								const apartmentData = apartmentParser(html)
 								apartmentData.bedrooms = apartment.bedrooms;
 								apartmentData.bathrooms = apartment.bathrooms;
-								apartmentData.country = card.country;
-								apartmentData.city = card.city;
+								apartmentData.country = developer.country;
+								apartmentData.city = developer.city;
 
 								apartmentData.link = link;
 								apartmentData.id = generateIdFromString(link);
-								apartmentData.parentId = card.id;
+								apartmentData.parentId = developer.id;
 
 								console.log('Data for apartment:', apartmentData)
-								groupedApartments.push(apartmentData)
+								properties.push(apartmentData)
 							})
 							.catch(error => {
 								console.error('Error while parsing apartment:', error)
@@ -175,15 +197,11 @@ const startScraper = async () => {
 			}
 		}
 
-		console.log('Developers:', groupedCards)
-		console.log('Properties:', groupedApartments)
+		console.log('Developers count:', developers.length)
+		console.log('Properties count:', properties.length)
 
-		fs.writeFileSync('developers.json', JSON.stringify(groupedCards, null, 2), 'utf-8')
-		fs.writeFileSync(
-			'properties.json',
-			JSON.stringify(groupedApartments, null, 2),
-			'utf-8',
-		)
+		await fs.writeFile('developers.json', JSON.stringify(developers, null, 2), 'utf-8');
+		await fs.writeFile('properties.json', JSON.stringify(properties, null, 2), 'utf-8');
 	} catch (e) {
 		console.error('Error in startScraper:', e.message)
 	} finally {
