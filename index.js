@@ -1,20 +1,19 @@
 const puppeteer = require('puppeteer')
-const crypto = require('crypto');
+const crypto = require('crypto')
 const { config, selectors } = require('./constants')
 const fs = require('fs/promises')
-const { JSDOM } = require('jsdom');
+const { JSDOM } = require('jsdom')
 const axios = require('axios')
-const apartmentParser = require('./apartment_parser')
 
 function generateIdFromString(input) {
-	return crypto.createHash('md5').update(input).digest('hex');
+	return crypto.createHash('md5').update(input).digest('hex')
 }
 
 async function getOffersCardsList(page, offerWrapSelector, cardSelector, key) {
 	const keyCityMap = {
 		PatayaOffer: 'Паттайя',
 		PhuketOffer: 'Пхукет',
-	};
+	}
 
 	return await page.evaluate(
 		(offerWrapSelector, cardSelector, keyCityMap, key) => {
@@ -46,16 +45,17 @@ function getDeveloperCardInfo(DOMElement, city) {
 		country: 'Таиланд',
 		title: DOMElement.querySelector('.apartments-slide__body a')?.textContent.trim() || '',
 		description:
-			DOMElement.querySelector('.apartments-slide__body .div_apartments')?.textContent.trim() || '',
-		link:
-			DOMElement.querySelector('.apartments-slide__buttons a')?.getAttribute('href') || '',
+			DOMElement.querySelector(
+				'.apartments-slide__body .div_apartments',
+			)?.textContent.trim() || '',
+		link: DOMElement.querySelector('.apartments-slide__buttons a')?.getAttribute('href') || '',
 	}
 }
 
 function getDevelopersInfo(DOMElement, city) {
-	if (!DOMElement) return [];
-	const elements = Array.from(DOMElement.querySelectorAll('.apartments-slide'));
-	return elements.map(element => getDeveloperCardInfo(element, city));
+	if (!DOMElement) return []
+	const elements = Array.from(DOMElement.querySelectorAll('.apartments-slide'))
+	return elements.map(element => getDeveloperCardInfo(element, city))
 }
 
 async function getDetailedInfo(page, link) {
@@ -86,33 +86,65 @@ async function getDetailedInfo(page, link) {
 			document.querySelectorAll('.scheme .apartments-slider__wrapper .apartments-slide img'),
 		).map(img => img.src)
 
-		const apartmentSlides = document.querySelectorAll('.apartments .apartments-slider__wrapper .apartments-slide');
-		const apartments = Array.from(apartmentSlides).map(slide => {
-			const infoBlocks = slide.querySelectorAll('.apartments_body_info .apartments_body_info_in .apartments_body_info_text');
+		const apartmentSlides = document.querySelectorAll(
+			'.apartments .apartments-slider__wrapper .apartments-slide',
+		)
 
-			let bedrooms = null;
-			let bathrooms = null;
+		function extractLatLngFromGoogleMapsSrc(src) {
+			const matchLat = src.match(/!3d([-.\d]+)/)
+			const matchLng = src.match(/!2d([-.\d]+)/)
+
+			if (matchLat && matchLng) {
+				const lat = parseFloat(matchLat[1])
+				const lng = parseFloat(matchLng[1])
+				return { lat, lng }
+			}
+
+			return null
+		}
+
+		const mapSrc =
+			document.querySelector('.map .double-block--right iframe')?.getAttribute('src') || ''
+		const coordinates = extractLatLngFromGoogleMapsSrc(mapSrc)
+
+		const apartments = Array.from(apartmentSlides).map(slide => {
+			const infoBlocks = slide.querySelectorAll(
+				'.apartments_body_info .apartments_body_info_in .apartments_body_info_text',
+			)
+
+			let bedrooms = null
+			let bathrooms = null
 
 			infoBlocks.forEach(block => {
-				const text = block.textContent.trim();
+				const text = block.textContent.trim()
 
 				if (/спальн[яи]/i.test(text)) {
-					bedrooms = parseInt(text.replace(/[^0-9]/g, ''), 10);
+					bedrooms = parseInt(text.replace(/[^0-9]/g, ''), 10)
 				} else if (/ванные?/i.test(text)) {
-					bathrooms = parseInt(text.replace(/[^0-9]/g, ''), 10);
+					bathrooms = parseInt(text.replace(/[^0-9]/g, ''), 10)
 				}
-			});
+			})
 
 			return {
 				bedrooms: bedrooms,
 				bathrooms: bathrooms,
-				link: slide.querySelector('.button-dark')?.getAttribute('href') || null
-			};
-		});
+				link: slide.querySelector('.button-dark')?.getAttribute('href') || null,
+			}
+		})
 
-		return { images, presaleText, description, floorPlans, apartmentsLayouts, apartments }
+		return {
+			images,
+			presaleText,
+			description,
+			floorPlans,
+			apartmentsLayouts,
+			apartments,
+			coordinates,
+		}
 	})
 
+	console.log(`Data detailedInfo:`)
+	console.log(detailedInfo)
 	return detailedInfo
 }
 
@@ -133,19 +165,19 @@ const startScraper = async () => {
 
 		for (const [city, file] of Object.entries(fileCityMap)) {
 			try {
-				const html = await fs.readFile(file, 'utf8');
-				const dom = new JSDOM(html);
-				const document = dom.window.document;
+				const html = await fs.readFile(file, 'utf8')
+				const dom = new JSDOM(html)
+				const document = dom.window.document
 
-				const cards = getDevelopersInfo(document, city);
+				const cards = getDevelopersInfo(document, city)
 
 				cards.forEach(card => {
-					card.id = generateIdFromString(card.link);
-				});
+					card.id = generateIdFromString(card.link)
+				})
 
-				developers.push(...cards);
+				developers.push(...cards)
 			} catch (err) {
-				console.error(`Ошибка при обработке файла ${file}:`, err);
+				console.error(`Ошибка при обработке файла ${file}:`, err)
 			}
 		}
 
@@ -160,7 +192,10 @@ const startScraper = async () => {
 					)
 					developer.detailedInfo = detailedInfo
 				} catch (error) {
-					console.error(`Error while getting detailed info for ${developer.title}:`, error)
+					console.error(
+						`Error while getting detailed info for ${developer.title}:`,
+						error,
+					)
 				}
 
 				for (let apartment of developer.detailedInfo.apartments) {
@@ -175,16 +210,16 @@ const startScraper = async () => {
 								const html = response.data
 
 								const apartmentData = apartmentParser(html)
-								apartmentData.bedrooms = apartment.bedrooms;
-								apartmentData.bathrooms = apartment.bathrooms;
-								apartmentData.country = developer.country;
-								apartmentData.city = developer.city;
+								apartmentData.bedrooms = apartment.bedrooms
+								apartmentData.bathrooms = apartment.bathrooms
+								apartmentData.country = developer.country
+								apartmentData.city = developer.city
 
-								apartmentData.link = link;
-								apartmentData.id = generateIdFromString(link);
-								apartmentData.parentId = developer.id;
+								apartmentData.link = link
+								apartmentData.id = generateIdFromString(link)
+								apartmentData.parentId = developer.id
 
-								console.log('Data for apartment:', apartmentData)
+								// console.log('Data for apartment:', apartmentData)
 								properties.push(apartmentData)
 							})
 							.catch(error => {
@@ -200,8 +235,8 @@ const startScraper = async () => {
 		console.log('Developers count:', developers.length)
 		console.log('Properties count:', properties.length)
 
-		await fs.writeFile('developers.json', JSON.stringify(developers, null, 2), 'utf-8');
-		await fs.writeFile('properties.json', JSON.stringify(properties, null, 2), 'utf-8');
+		await fs.writeFile('developers.json', JSON.stringify(developers, null, 2), 'utf-8')
+		await fs.writeFile('properties.json', JSON.stringify(properties, null, 2), 'utf-8')
 	} catch (e) {
 		console.error('Error in startScraper:', e.message)
 	} finally {
